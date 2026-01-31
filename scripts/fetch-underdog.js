@@ -8,13 +8,44 @@ const UNDERDOG_CSV_URL = process.env.UNDERDOG_CSV_URL;
 
 /**
  * Parse Underdog CSV content
- * Expected format: Rank,Player,Position,Team,FPTS,Bye
+ * Underdog format: Rank,FirstName,LastName,ADP,Position,Team,...
  * @param {string} csvContent - Raw CSV from Underdog
  * @returns {Object} Parsed rankings data
  */
 function parseUnderdogCsv(csvContent) {
     const lines = csvContent.trim().split('\n');
     const players = [];
+
+    // Log header for debugging
+    if (lines.length > 0) {
+        console.log('CSV Header:', lines[0]);
+    }
+    if (lines.length > 1) {
+        console.log('First data row:', lines[1]);
+    }
+
+    // Try to detect column positions from header
+    const header = lines[0] ? parseCsvLine(lines[0].toLowerCase()) : [];
+    console.log('Parsed header columns:', header);
+
+    // Find column indices (with fallbacks)
+    let rankCol = header.findIndex(h => h.includes('rank') || h === '#');
+    let firstNameCol = header.findIndex(h => h.includes('first') || h === 'first name');
+    let lastNameCol = header.findIndex(h => h.includes('last') || h === 'last name');
+    let positionCol = header.findIndex(h => h.includes('pos') || h === 'position');
+    let teamCol = header.findIndex(h => h.includes('team'));
+    let adpCol = header.findIndex(h => h.includes('adp') || h.includes('rank'));
+
+    // Default column positions if auto-detect fails (Underdog typical format)
+    if (rankCol === -1) rankCol = 0;
+    if (firstNameCol === -1) firstNameCol = 1;
+    if (lastNameCol === -1) lastNameCol = 2;
+    // ADP is often column 3 in Underdog exports
+    if (adpCol === -1 || adpCol === rankCol) adpCol = 3;
+    if (positionCol === -1) positionCol = 4;
+    if (teamCol === -1) teamCol = 5;
+
+    console.log(`Column mapping: rank=${rankCol}, first=${firstNameCol}, last=${lastNameCol}, adp=${adpCol}, pos=${positionCol}, team=${teamCol}`);
 
     // Skip header row
     for (let i = 1; i < lines.length; i++) {
@@ -24,28 +55,55 @@ function parseUnderdogCsv(csvContent) {
         // Parse CSV line (handle quoted fields)
         const fields = parseCsvLine(line);
         if (fields.length >= 4) {
-            const rank = parseInt(fields[0]) || i;
-            const name = fields[1]?.trim() || '';
-            const position = fields[2]?.trim() || '';
-            const team = fields[3]?.trim() || 'N/A';
+            const rank = parseInt(fields[rankCol]) || i;
+            const firstName = fields[firstNameCol]?.trim() || '';
+            const lastName = fields[lastNameCol]?.trim() || '';
+            const fullName = `${firstName} ${lastName}`.trim();
 
-            if (name) {
+            // Parse ADP - could be "1.1" format or just a number
+            let adp = rank;
+            const adpRaw = fields[adpCol]?.trim() || '';
+            if (adpRaw) {
+                // Handle "1.1" (round.pick) format - convert to overall pick number
+                if (adpRaw.includes('.')) {
+                    const [round, pick] = adpRaw.split('.').map(Number);
+                    if (!isNaN(round) && !isNaN(pick)) {
+                        adp = (round - 1) * 12 + pick; // Assuming 12-team league
+                    }
+                } else {
+                    adp = parseFloat(adpRaw) || rank;
+                }
+            }
+
+            const position = fields[positionCol]?.trim().toUpperCase() || '';
+            const team = fields[teamCol]?.trim().toUpperCase() || 'N/A';
+
+            // Validate position is a real position (QB, RB, WR, TE, K, DST, DEF)
+            const validPositions = ['QB', 'RB', 'WR', 'TE', 'K', 'DST', 'DEF', 'FLEX'];
+            const isValidPosition = validPositions.some(p => position.includes(p));
+
+            if (fullName && isValidPosition) {
                 players.push({
                     rank: rank,
-                    name: name,
-                    position: position,
+                    name: fullName,
+                    position: position.replace(/[^A-Z]/g, ''), // Clean position
                     team: team,
-                    adp: rank,
+                    adp: adp,
                     originalRank: i
                 });
+            } else if (fullName) {
+                // Log skipped rows for debugging
+                console.log(`Skipping row ${i}: name="${fullName}", position="${position}" (invalid)`);
             }
         }
     }
 
+    console.log(`Successfully parsed ${players.length} players`);
+
     return {
         lastUpdated: new Date().toISOString(),
         source: 'underdog',
-        slate: 'NFL 2026 Pre-Draft Best Ball',
+        slate: 'NFL 2026 Best Ball',
         totalPlayers: players.length,
         players: players
     };
