@@ -1,0 +1,52 @@
+name: Fetch Rankings
+
+on:
+  schedule:
+    # Run every 6 hours with randomization handled in job
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      source:
+        description: 'Which source to fetch (underdog, all)'
+        required: false
+        default: 'all'
+
+jobs:
+  fetch-underdog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Add random delay (0-15 minutes)
+        if: github.event_name == 'schedule'
+        run: |
+          DELAY=$((RANDOM % 901))
+          echo "Waiting $DELAY seconds before fetching..."
+          sleep $DELAY
+
+      - name: Fetch Underdog rankings
+        env:
+          UNDERDOG_CSV_URL: ${{ secrets.UNDERDOG_CSV_URL }}
+        run: npm run fetch:underdog
+
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Underdog rankings - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
