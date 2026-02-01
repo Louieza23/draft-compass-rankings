@@ -5,7 +5,9 @@
   "main": "scripts/fetch-underdog.js",
   "scripts": {
     "fetch:underdog": "node scripts/fetch-underdog.js",
-    "fetch:all": "npm run fetch:underdog",
+    "fetch:ktc": "node scripts/fetch-ktc.js",
+    "fetch:fantasycalc": "node scripts/fetch-fantasycalc.js",
+    "fetch:all": "npm run fetch:underdog && npm run fetch:ktc && npm run fetch:fantasycalc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["fantasy-football", "rankings", "underdog"],

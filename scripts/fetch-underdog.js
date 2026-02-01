@@ -16,17 +16,8 @@ function parseUnderdogCsv(csvContent) {
     const lines = csvContent.trim().split('\n');
     const players = [];
 
-    // Log header for debugging
-    if (lines.length > 0) {
-        console.log('CSV Header:', lines[0]);
-    }
-    if (lines.length > 1) {
-        console.log('First data row:', lines[1]);
-    }
-
     // Try to detect column positions from header
     const header = lines[0] ? parseCsvLine(lines[0].toLowerCase()) : [];
-    console.log('Parsed header columns:', header);
 
     // Find column indices (with fallbacks)
     let rankCol = header.findIndex(h => h.includes('rank') || h === '#');
@@ -44,8 +35,6 @@ function parseUnderdogCsv(csvContent) {
     if (adpCol === -1 || adpCol === rankCol) adpCol = 3;
     if (positionCol === -1) positionCol = 4;
     if (teamCol === -1) teamCol = 5;
-
-    console.log(`Column mapping: rank=${rankCol}, first=${firstNameCol}, last=${lastNameCol}, adp=${adpCol}, pos=${positionCol}, team=${teamCol}`);
 
     // Skip header row
     for (let i = 1; i < lines.length; i++) {
@@ -91,14 +80,9 @@ function parseUnderdogCsv(csvContent) {
                     adp: adp,
                     originalRank: i
                 });
-            } else if (fullName) {
-                // Log skipped rows for debugging
-                console.log(`Skipping row ${i}: name="${fullName}", position="${position}" (invalid)`);
             }
         }
     }
-
-    console.log(`Successfully parsed ${players.length} players`);
 
     return {
         lastUpdated: new Date().toISOString(),

@@ -7,12 +7,13 @@ on:
   workflow_dispatch:
     inputs:
       source:
-        description: 'Which source to fetch (underdog, all)'
+        description: 'Which source to fetch (underdog, ktc, fantasycalc, all)'
         required: false
         default: 'all'
 
 jobs:
   fetch-underdog:
+    if: github.event.inputs.source == 'underdog' || github.event.inputs.source == 'all' || github.event_name == 'schedule'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -48,5 +49,81 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update Underdog rankings - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+  fetch-ktc:
+    if: github.event.inputs.source == 'ktc' || github.event.inputs.source == 'all' || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Add random delay (0-15 minutes)
+        if: github.event_name == 'schedule'
+        run: |
+          DELAY=$((RANDOM % 901))
+          echo "Waiting $DELAY seconds before fetching..."
+          sleep $DELAY
+
+      - name: Fetch Keep Trade Cut rankings
+        run: npm run fetch:ktc
+
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update KTC rankings - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+  fetch-fantasycalc:
+    if: github.event.inputs.source == 'fantasycalc' || github.event.inputs.source == 'all' || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Add random delay (0-15 minutes)
+        if: github.event_name == 'schedule'
+        run: |
+          DELAY=$((RANDOM % 901))
+          echo "Waiting $DELAY seconds before fetching..."
+          sleep $DELAY
+
+      - name: Fetch Fantasy Calc rankings
+        run: npm run fetch:fantasycalc
+
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Fantasy Calc rankings - $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi

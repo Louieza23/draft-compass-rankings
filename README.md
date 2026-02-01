@@ -7,8 +7,8 @@ Automated rankings fetcher for the Draft Compass browser extension. This reposit
 | Source | Status | Format | Update Frequency |
 |--------|--------|--------|------------------|
 | Underdog (Direct CSV) | Active | ADP Rankings | Every 6 hours |
-| Keep Trade Cut | Planned | Dynasty Values | - |
-| Fantasy Calc | Planned | Trade Values | - |
+| Keep Trade Cut | Active | Dynasty/Redraft Values | Every 6 hours |
+| Fantasy Calc | Active | Dynasty/Redraft Values | Every 6 hours |
 
 ## Setup
 
@@ -38,14 +38,23 @@ Follow the steps in [Underdog Rankings Guide](https://github.com/YOUR_USERNAME/d
 │   └── fetch-rankings.yml    # GitHub Actions automation
 ├── data/
 │   ├── raw/                   # Raw responses from sources
-│   │   └── underdog/
+│   │   ├── underdog/
+│   │   ├── ktc/
+│   │   └── fantasycalc/
 │   └── processed/             # Normalized data
-│       └── underdog/
-│           ├── rankings-latest.json   # Always latest
-│           ├── rankings-latest.csv    # CSV format
-│           └── rankings-{timestamp}.json  # Historical
+│       ├── underdog/
+│       │   ├── rankings-latest.json
+│       │   └── rankings-latest.csv
+│       ├── ktc/
+│       │   ├── rankings-{format}-latest.json  # dynasty_1qb, dynasty_superflex, etc.
+│       │   └── rankings-{format}-latest.csv
+│       └── fantasycalc/
+│           ├── rankings-{format}-latest.json  # dynasty_1qb, dynasty_2qb, etc.
+│           └── rankings-{format}-latest.csv
 ├── scripts/
-│   └── fetch-underdog.js     # Fetch script
+│   ├── fetch-underdog.js     # Underdog fetch script
+│   ├── fetch-ktc.js          # Keep Trade Cut fetch script
+│   └── fetch-fantasycalc.js  # Fantasy Calc fetch script
 └── README.md
 ```
 
@@ -55,12 +64,30 @@ Follow the steps in [Underdog Rankings Guide](https://github.com/YOUR_USERNAME/d
 
 Access the latest rankings via GitHub's raw file CDN:
 
+**Underdog:**
 ```
 https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/processed/underdog/rankings-latest.json
 ```
 
+**Keep Trade Cut:**
+```
+https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/processed/ktc/rankings-dynasty_1qb-latest.json
+https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/processed/ktc/rankings-dynasty_superflex-latest.json
+https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/processed/ktc/rankings-redraft_1qb-latest.json
+https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/processed/ktc/rankings-redraft_superflex-latest.json
+```
+
+**Fantasy Calc:**
+```
+https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/processed/fantasycalc/rankings-dynasty_1qb-latest.json
+https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/processed/fantasycalc/rankings-dynasty_2qb-latest.json
+https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/processed/fantasycalc/rankings-redraft_1qb-latest.json
+https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/processed/fantasycalc/rankings-redraft_2qb-latest.json
+```
+
 ### JSON Format
 
+**Underdog:**
 ```json
 {
   "lastUpdated": "2026-01-31T12:00:00.000Z",
@@ -73,8 +100,48 @@ https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/pr
       "name": "Player Name",
       "position": "WR",
       "team": "KC",
-      "adp": 1.5,
-      "originalRank": 1
+      "adp": 1.5
+    }
+  ]
+}
+```
+
+**Keep Trade Cut:**
+```json
+{
+  "lastUpdated": "2026-01-31T12:00:00.000Z",
+  "source": "ktc",
+  "format": "dynasty_1qb",
+  "totalPlayers": 400,
+  "players": [
+    {
+      "rank": 1,
+      "name": "Player Name",
+      "position": "WR",
+      "team": "KC",
+      "value": 9999,
+      "age": 24
+    }
+  ]
+}
+```
+
+**Fantasy Calc:**
+```json
+{
+  "lastUpdated": "2026-01-31T12:00:00.000Z",
+  "source": "fantasycalc",
+  "format": "dynasty_1qb",
+  "totalPlayers": 350,
+  "players": [
+    {
+      "rank": 1,
+      "name": "Player Name",
+      "position": "WR",
+      "team": "KC",
+      "value": 5000,
+      "positionRank": 1,
+      "sleeperId": "1234"
     }
   ]
 }
@@ -85,7 +152,7 @@ https://raw.githubusercontent.com/{username}/draft-compass-rankings/main/data/pr
 You can manually trigger a fetch via the GitHub Actions tab:
 1. Go to Actions → Fetch Rankings
 2. Click "Run workflow"
-3. Select source (underdog or all)
+3. Select source (underdog, ktc, fantasycalc, or all)
 
 ## Automation Schedule
 
