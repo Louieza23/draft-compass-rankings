@@ -2,7 +2,7 @@ name: Fetch Rankings
 
 on:
   schedule:
-    # Run every 6 hours with randomization handled in job
+    # Run every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch:
     inputs:
@@ -12,8 +12,7 @@ on:
         default: 'all'
 
 jobs:
-  fetch-underdog:
-    if: github.event.inputs.source == 'underdog' || github.event.inputs.source == 'all' || github.event_name == 'schedule'
+  fetch-all:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -36,84 +35,17 @@ jobs:
           sleep $DELAY
 
       - name: Fetch Underdog rankings
+        if: github.event.inputs.source == 'underdog' || github.event.inputs.source == 'all' || github.event_name == 'schedule'
         env:
           UNDERDOG_CSV_URL: ${{ secrets.UNDERDOG_CSV_URL }}
         run: npm run fetch:underdog
 
-      - name: Commit and push if changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add data/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update Underdog rankings - $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
-          fi
-
-  fetch-ktc:
-    if: github.event.inputs.source == 'ktc' || github.event.inputs.source == 'all' || github.event_name == 'schedule'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Add random delay (0-15 minutes)
-        if: github.event_name == 'schedule'
-        run: |
-          DELAY=$((RANDOM % 901))
-          echo "Waiting $DELAY seconds before fetching..."
-          sleep $DELAY
-
       - name: Fetch Keep Trade Cut rankings
+        if: github.event.inputs.source == 'ktc' || github.event.inputs.source == 'all' || github.event_name == 'schedule'
         run: npm run fetch:ktc
 
-      - name: Commit and push if changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add data/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update KTC rankings - $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
-          fi
-
-  fetch-fantasycalc:
-    if: github.event.inputs.source == 'fantasycalc' || github.event.inputs.source == 'all' || github.event_name == 'schedule'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Add random delay (0-15 minutes)
-        if: github.event_name == 'schedule'
-        run: |
-          DELAY=$((RANDOM % 901))
-          echo "Waiting $DELAY seconds before fetching..."
-          sleep $DELAY
-
       - name: Fetch Fantasy Calc rankings
+        if: github.event.inputs.source == 'fantasycalc' || github.event.inputs.source == 'all' || github.event_name == 'schedule'
         run: npm run fetch:fantasycalc
 
       - name: Commit and push if changes
@@ -124,6 +56,8 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update Fantasy Calc rankings - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "Update rankings - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            # Pull with rebase to handle any concurrent pushes
+            git pull --rebase origin main || true
             git push
           fi
