@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-03T12:58:23.923Z",
+  "lastUpdated": "2026-02-03T19:07:25.409Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
-  "totalPlayers": 457,
+  "totalPlayers": 444,
   "players": [
     {
       "rank": 1,
@@ -2901,6 +2901,14 @@
       "originalRank": 362
     },
     {
+      "rank": 363,
+      "name": "Devin Duvernay",
+      "position": "WR",
+      "team": "CHICAGO BEARS",
+      "adp": 2865,
+      "originalRank": 363
+    },
+    {
       "rank": 364,
       "name": "Joe Flacco",
       "position": "QB",
@@ -2947,6 +2955,14 @@
       "team": "PITTSBURGH STEELERS",
       "adp": 2868,
       "originalRank": 369
+    },
+    {
+      "rank": 370,
+      "name": "Trey Burton",
+      "position": "TE",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 370
     },
     {
       "rank": 371,
@@ -3237,6 +3253,14 @@
       "originalRank": 406
     },
     {
+      "rank": 407,
+      "name": "Denzel Mims",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 407
+    },
+    {
       "rank": 408,
       "name": "Andrew Armstrong",
       "position": "WR",
@@ -3269,12 +3293,52 @@
       "originalRank": 411
     },
     {
+      "rank": 412,
+      "name": "Jeremy McNichols",
+      "position": "RB",
+      "team": "WASHINGTON COMMANDERS",
+      "adp": 2868,
+      "originalRank": 412
+    },
+    {
+      "rank": 413,
+      "name": "Taysom Hill",
+      "position": "TE",
+      "team": "NEW ORLEANS SAINTS",
+      "adp": 2868,
+      "originalRank": 413
+    },
+    {
+      "rank": 414,
+      "name": "Jimmy Garoppolo",
+      "position": "QB",
+      "team": "LOS ANGELES RAMS",
+      "adp": 2868,
+      "originalRank": 414
+    },
+    {
       "rank": 415,
       "name": "Xavier Restrepo",
       "position": "WR",
       "team": "TENNESSEE TITANS",
       "adp": 2868,
       "originalRank": 415
+    },
+    {
+      "rank": 416,
+      "name": "Davis Allen",
+      "position": "TE",
+      "team": "LOS ANGELES RAMS",
+      "adp": 2868,
+      "originalRank": 416
+    },
+    {
+      "rank": 417,
+      "name": "Jacob Cowing",
+      "position": "WR",
+      "team": "SAN FRANCISCO 49ERS",
+      "adp": 2868,
+      "originalRank": 417
     },
     {
       "rank": 418,
@@ -3293,12 +3357,28 @@
       "originalRank": 419
     },
     {
+      "rank": 420,
+      "name": "Donovan Edwards",
+      "position": "RB",
+      "team": "MIAMI DOLPHINS",
+      "adp": 2868,
+      "originalRank": 420
+    },
+    {
       "rank": 421,
       "name": "Jaray Jenkins",
       "position": "WR",
       "team": "N/A",
       "adp": 2868,
       "originalRank": 421
+    },
+    {
+      "rank": 422,
+      "name": "Jason Brownlee",
+      "position": "WR",
+      "team": "KANSAS CITY CHIEFS",
+      "adp": 2868,
+      "originalRank": 422
     },
     {
       "rank": 423,
@@ -3373,6 +3453,22 @@
       "originalRank": 431
     },
     {
+      "rank": 432,
+      "name": "Kyle Juszczyk",
+      "position": "RB",
+      "team": "SAN FRANCISCO 49ERS",
+      "adp": 2868,
+      "originalRank": 432
+    },
+    {
+      "rank": 433,
+      "name": "Tanner McKee",
+      "position": "QB",
+      "team": "PHILADELPHIA EAGLES",
+      "adp": 2868,
+      "originalRank": 433
+    },
+    {
       "rank": 434,
       "name": "Noah Whittington",
       "position": "RB",
@@ -3413,6 +3509,14 @@
       "originalRank": 438
     },
     {
+      "rank": 439,
+      "name": "Trevon Wesco",
+      "position": "TE",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 439
+    },
+    {
       "rank": 440,
       "name": "Johnny Wilson",
       "position": "WR",
@@ -3451,214 +3555,6 @@
       "team": "MIAMI DOLPHINS",
       "adp": 2868,
       "originalRank": 444
-    },
-    {
-      "rank": 445,
-      "name": "Lil'Jordan Humphrey",
-      "position": "WR",
-      "team": "DENVER BRONCOS",
-      "adp": 445,
-      "originalRank": 445
-    },
-    {
-      "rank": 446,
-      "name": "CJ Daniels",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 446,
-      "originalRank": 446
-    },
-    {
-      "rank": 454,
-      "name": "Tai Felton",
-      "position": "WR",
-      "team": "MINNESOTA VIKINGS",
-      "adp": 454,
-      "originalRank": 454
-    },
-    {
-      "rank": 469,
-      "name": "Zay Jones",
-      "position": "WR",
-      "team": "ARIZONA CARDINALS",
-      "adp": 469,
-      "originalRank": 469
-    },
-    {
-      "rank": 473,
-      "name": "Jonathan Mingo",
-      "position": "WR",
-      "team": "DALLAS COWBOYS",
-      "adp": 473,
-      "originalRank": 473
-    },
-    {
-      "rank": 477,
-      "name": "AJ Dillon",
-      "position": "RB",
-      "team": "PHILADELPHIA EAGLES",
-      "adp": 477,
-      "originalRank": 477
-    },
-    {
-      "rank": 481,
-      "name": "JuJu Smith-Schuster",
-      "position": "WR",
-      "team": "KANSAS CITY CHIEFS",
-      "adp": 481,
-      "originalRank": 481
-    },
-    {
-      "rank": 489,
-      "name": "Arian Smith",
-      "position": "WR",
-      "team": "NEW YORK JETS",
-      "adp": 489,
-      "originalRank": 489
-    },
-    {
-      "rank": 496,
-      "name": "Tyson Bagent",
-      "position": "QB",
-      "team": "CHICAGO BEARS",
-      "adp": 496,
-      "originalRank": 496
-    },
-    {
-      "rank": 510,
-      "name": "Dylan Laube",
-      "position": "RB",
-      "team": "LAS VEGAS RAIDERS",
-      "adp": 510,
-      "originalRank": 510
-    },
-    {
-      "rank": 530,
-      "name": "Russell Wilson",
-      "position": "QB",
-      "team": "NEW YORK GIANTS",
-      "adp": 530,
-      "originalRank": 530
-    },
-    {
-      "rank": 539,
-      "name": "Khalil Herbert",
-      "position": "RB",
-      "team": "NEW YORK JETS",
-      "adp": 539,
-      "originalRank": 539
-    },
-    {
-      "rank": 546,
-      "name": "Tanner Hudson",
-      "position": "TE",
-      "team": "CINCINNATI BENGALS",
-      "adp": 546,
-      "originalRank": 546
-    },
-    {
-      "rank": 562,
-      "name": "Kylen Granson",
-      "position": "TE",
-      "team": "PHILADELPHIA EAGLES",
-      "adp": 562,
-      "originalRank": 562
-    },
-    {
-      "rank": 568,
-      "name": "Tejhaun Palmer",
-      "position": "WR",
-      "team": "ARIZONA CARDINALS",
-      "adp": 568,
-      "originalRank": 568
-    },
-    {
-      "rank": 576,
-      "name": "Nyheim Miller-Hines",
-      "position": "RB",
-      "team": "N/A",
-      "adp": 576,
-      "originalRank": 576
-    },
-    {
-      "rank": 577,
-      "name": "De'Zhaun Stribling",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 577,
-      "originalRank": 577
-    },
-    {
-      "rank": 678,
-      "name": "Caullin Lacy",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 678,
-      "originalRank": 678
-    },
-    {
-      "rank": 762,
-      "name": "Micah Bernard",
-      "position": "RB",
-      "team": "N/A",
-      "adp": 762,
-      "originalRank": 762
-    },
-    {
-      "rank": 804,
-      "name": "Elijhah Badger",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 804,
-      "originalRank": 804
-    },
-    {
-      "rank": 880,
-      "name": "Ja'Corey Brooks",
-      "position": "WR",
-      "team": "WASHINGTON COMMANDERS",
-      "adp": 880,
-      "originalRank": 880
-    },
-    {
-      "rank": 1082,
-      "name": "Joe Royer",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 1082,
-      "originalRank": 1082
-    },
-    {
-      "rank": 1150,
-      "name": "Diego Pavia",
-      "position": "QB",
-      "team": "N/A",
-      "adp": 1150,
-      "originalRank": 1150
-    },
-    {
-      "rank": 1203,
-      "name": "Daijun Edwards",
-      "position": "RB",
-      "team": "N/A",
-      "adp": 1203,
-      "originalRank": 1203
-    },
-    {
-      "rank": 1351,
-      "name": "Barion Brown",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 1351,
-      "originalRank": 1351
-    },
-    {
-      "rank": 1354,
-      "name": "Cole Payton",
-      "position": "QB",
-      "team": "N/A",
-      "adp": 1354,
-      "originalRank": 1354
     }
   ]
 }
