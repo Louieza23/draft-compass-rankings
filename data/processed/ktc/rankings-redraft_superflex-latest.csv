@@ -39,7 +39,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 38,"Rome Odunze",WR,CHI,6630,15,23.7,111,83,89
 39,"Omarion Hampton",RB,LAC,6566,14,22.9,47,31,21
 40,"Jordan Love",QB,GBP,6559,9,27.3,225,100,106
-41,"Bo Nix",QB,DEN,6534,10,25.9,110,61,60
+41,"Bo Nix",QB,DEN,6534,10,26,110,61,60
 42,"Baker Mayfield",QB,TBB,6518,11,30.8,196,145,138
 43,"Tyler Warren",TE,IND,6374,3,23.7,39,12,23
 44,"Rashee Rice",WR,KCC,6325,16,25.8,132,76,82
@@ -59,7 +59,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 58,"Sam LaPorta",TE,DET,5899,4,25.1,177,131,147
 59,"Davante Adams",WR,LAR,5850,22,33.1,258,364,390
 60,"George Kittle",TE,SFO,5845,5,32.3,142,216,255
-61,"DK Metcalf",WR,PIT,5835,23,28.1,179,243,305
+61,"DK Metcalf",WR,PIT,5835,23,28.2,179,243,305
 62,"Xavier Worthy",WR,KCC,5806,24,22.8,96,80,61
 63,"Jameson Williams",WR,DET,5802,25,24.9,140,142,109
 64,"Jared Goff",QB,DET,5764,16,31.3,172,82,92
@@ -88,7 +88,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 87,"Tony Pollard",RB,TEN,5050,23,28.8,247,160,203
 88,"Zach Charbonnet",RB,SEA,5001,24,25.1,76,63,85
 89,"Jerry Jeudy",WR,CLE,4981,37,26.8,233,133,238
-90,"Tucker Kraft",TE,GBP,4974,7,25.2,19,16,22
+90,"Tucker Kraft",TE,GBP,4974,7,25.3,19,16,22
 91,"James Conner",RB,ARI,4963,25,30.8,225,155,174
 92,"Justin Fields",QB,NYJ,4959,23,26.9,190,133,121
 93,"Calvin Ridley",WR,TEN,4956,38,31.1,30,198,76
@@ -104,7 +104,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 103,"Keon Coleman",WR,BUF,4703,41,22.7,70,50,52
 104,"Javonte Williams",RB,DAL,4676,29,25.8,233,181,178
 105,"Jacory Croskey-Merritt",RB,WAS,4633,30,24.8,7,8,10
-106,"Deebo Samuel",WR,WAS,4603,42,30,280,168,224
+106,"Deebo Samuel",WR,WAS,4603,42,30.1,280,168,224
 107,"David Montgomery",RB,DET,4576,31,28.7,185,232,220
 108,"Michael Pittman",WR,IND,4563,43,28.3,271,124,197
 109,"Tyrone Tracy",RB,NYG,4550,32,26.2,18,26,19
@@ -136,7 +136,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 135,"Tank Bigsby",RB,PHI,3892,39,24.4,78,55,75
 136,"Wan'Dale Robinson",WR,NYG,3868,55,25.1,98,62,79
 137,"Braelon Allen",RB,NYJ,3847,40,22,51,48,58
-138,"Ollie Gordon",RB,MIA,3842,41,22,14,14,14
+138,"Ollie Gordon",RB,MIA,3842,41,22.1,14,14,14
 139,"Mark Andrews",TE,BAL,3829,15,30.4,221,178,242
 140,"Cooper Kupp",WR,SEA,3824,56,32.6,290,203,220
 141,"Troy Franklin",WR,DEN,3805,57,23,43,55,31
@@ -170,7 +170,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 169,"Aaron Rodgers",QB,PIT,3269,29,42.2,102,161,118
 170,"Tyler Allgeier",RB,ATL,3246,53,25.8,106,74,117
 171,"Harold Fannin",TE,CLE,3240,20,21.6,18,4,8
-172,"Jonnu Smith",TE,PIT,3228,21,30.4,111,113,132
+172,"Jonnu Smith",TE,PIT,3228,21,30.5,111,113,132
 173,"Zach Ertz",TE,WAS,3195,22,35.2,143,103,136
 174,"Christian Watson",WR,GBP,3111,70,26.7,113,77,98
 175,"Elijah Arroyo",TE,SEA,3097,23,22.8,16,11,10
@@ -193,7 +193,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 192,"Anthony Richardson",QB,IND,2797,32,23.7,163,99,110
 193,"Jalen McMillan",WR,TBB,2795,77,24.2,56,27,30
 194,"Russell Wilson",QB,NYG,2791,33,37.2,132,153,93
-195,"Adam Thielen",WR,FA,2755,78,35.4,111,195,241
+195,"Adam Thielen",WR,FA,2755,78,35.5,111,195,241
 196,"Terrance Ferguson",TE,LAR,2722,29,22.9,4,10,8
 197,"Sean Tucker",RB,TBB,2716,57,24.3,60,70,63
 198,"Dameon Pierce",RB,KCC,2691,58,26,98,91,102
@@ -214,7 +214,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 213,"Tyler Lockett",WR,LVR,2423,82,33.4,112,220,227
 214,"Michael Mayer",TE,LVR,2421,34,24.6,49,69,72
 215,"Noah Gray",TE,KCC,2411,35,26.8,64,60,55
-216,"Jordan James",RB,SFO,2406,65,21.8,12,4,6
+216,"Jordan James",RB,SFO,2406,65,21.9,12,4,6
 217,"Darren Waller",TE,MIA,2378,36,33.4,84,238,162
 218,"DeAndre Hopkins",WR,BAL,2363,83,33.7,89,286,183
 219,"Kenneth Gainwell",RB,PIT,2337,66,26.9,222,116,168
@@ -232,7 +232,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 231,"Brandin Cooks",WR,BUF,2083,89,32.4,163,141,203
 232,"Devin Singletary",RB,NYG,2061,68,28.4,156,98,131
 233,"Tyquan Thornton",WR,KCC,2034,90,25.5,62,55,80
-234,"Jonathon Brooks",RB,CAR,2031,69,22.5,52,50,42
+234,"Jonathon Brooks",RB,CAR,2031,69,22.6,52,50,42
 235,"Jalen Tolbert",WR,DAL,2018,91,26.9,55,76,56
 236,"Josh Reynolds",WR,NYJ,2012,92,31,66,52,62
 237,"Jermaine Burton",WR,FA,1986,93,24.6,26,18,19
