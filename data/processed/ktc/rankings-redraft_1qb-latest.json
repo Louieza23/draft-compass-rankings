@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T01:48:57.878Z",
+  "lastUpdated": "2026-02-07T06:45:51.307Z",
   "source": "ktc",
   "format": "redraft_1qb",
   "formatName": "Redraft 1QB",
@@ -70,7 +70,7 @@
       "name": "Ja'Marr Chase",
       "position": "WR",
       "team": "CIN",
-      "value": 9642,
+      "value": 9641,
       "rank": 5,
       "positionRank": 3,
       "age": 25.9,
@@ -85,7 +85,7 @@
       "name": "Jonathan Taylor",
       "position": "RB",
       "team": "IND",
-      "value": 9346,
+      "value": 9345,
       "rank": 6,
       "positionRank": 3,
       "age": 27,
@@ -415,14 +415,14 @@
       "name": "Josh Jacobs",
       "position": "RB",
       "team": "GBP",
-      "value": 7337,
+      "value": 7264,
       "rank": 28,
       "positionRank": 10,
       "age": 28,
       "kept": 635,
-      "traded": 611,
+      "traded": 612,
       "cut": 633,
-      "overallTier": 5,
+      "overallTier": 6,
       "positionTier": 4
     },
     {
@@ -601,7 +601,7 @@
       "age": 27.5,
       "kept": 694,
       "traded": 536,
-      "cut": 571,
+      "cut": 572,
       "overallTier": 6,
       "positionTier": 2
     },
@@ -730,15 +730,15 @@
       "name": "DeVonta Smith",
       "position": "WR",
       "team": "PHI",
-      "value": 6335,
+      "value": 6407,
       "rank": 49,
       "positionRank": 21,
       "age": 27.2,
-      "kept": 630,
+      "kept": 631,
       "traded": 516,
       "cut": 676,
-      "overallTier": 7,
-      "positionTier": 6
+      "overallTier": 6,
+      "positionTier": 5
     },
     {
       "playerId": 215,
@@ -775,7 +775,7 @@
       "name": "Joe Burrow",
       "position": "QB",
       "team": "CIN",
-      "value": 6263,
+      "value": 6262,
       "rank": 52,
       "positionRank": 10,
       "age": 29.2,
@@ -835,7 +835,7 @@
       "name": "Bo Nix",
       "position": "QB",
       "team": "DEN",
-      "value": 6205,
+      "value": 6204,
       "rank": 56,
       "positionRank": 11,
       "age": 26,
@@ -910,7 +910,7 @@
       "name": "Colston Loveland",
       "position": "TE",
       "team": "CHI",
-      "value": 5993,
+      "value": 5992,
       "rank": 61,
       "positionRank": 5,
       "age": 21.8,
@@ -1180,7 +1180,7 @@
       "name": "Ricky Pearsall",
       "position": "WR",
       "team": "SFO",
-      "value": 5568,
+      "value": 5567,
       "rank": 79,
       "positionRank": 32,
       "age": 25.4,
@@ -1315,7 +1315,7 @@
       "name": "Jakobi Meyers",
       "position": "WR",
       "team": "JAC",
-      "value": 5328,
+      "value": 5327,
       "rank": 88,
       "positionRank": 36,
       "age": 29.2,
@@ -1705,7 +1705,7 @@
       "name": "Sam Darnold",
       "position": "QB",
       "team": "SEA",
-      "value": 4665,
+      "value": 4664,
       "rank": 114,
       "positionRank": 20,
       "age": 28.7,
@@ -1795,7 +1795,7 @@
       "name": "Rhamondre Stevenson",
       "position": "RB",
       "team": "NEP",
-      "value": 4570,
+      "value": 4569,
       "rank": 120,
       "positionRank": 34,
       "age": 28,
@@ -1900,7 +1900,7 @@
       "name": "Tyler Allgeier",
       "position": "RB",
       "team": "ATL",
-      "value": 4413,
+      "value": 4412,
       "rank": 127,
       "positionRank": 38,
       "age": 25.8,
@@ -2095,7 +2095,7 @@
       "name": "David Njoku",
       "position": "TE",
       "team": "CLE",
-      "value": 4104,
+      "value": 4103,
       "rank": 140,
       "positionRank": 17,
       "age": 29.6,
@@ -2455,7 +2455,7 @@
       "name": "Cedric Tillman",
       "position": "WR",
       "team": "CLE",
-      "value": 3431,
+      "value": 3430,
       "rank": 164,
       "positionRank": 68,
       "age": 25.8,
@@ -2575,14 +2575,14 @@
       "name": "Christian Kirk",
       "position": "WR",
       "team": "HOU",
-      "value": 3287,
+      "value": 3286,
       "rank": 172,
       "positionRank": 72,
       "age": 29.2,
       "kept": 435,
       "traded": 288,
       "cut": 327,
-      "overallTier": 13,
+      "overallTier": 14,
       "positionTier": 18
     },
     {
@@ -2597,7 +2597,7 @@
       "kept": 115,
       "traded": 67,
       "cut": 87,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 19
     },
     {
@@ -2612,7 +2612,7 @@
       "kept": 73,
       "traded": 65,
       "cut": 54,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 19
     },
     {
@@ -2627,7 +2627,7 @@
       "kept": 426,
       "traded": 384,
       "cut": 398,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 7
     },
     {
@@ -2642,7 +2642,7 @@
       "kept": 395,
       "traded": 577,
       "cut": 463,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 19
     },
     {
@@ -2650,14 +2650,14 @@
       "name": "Ja'Tavion Sanders",
       "position": "TE",
       "team": "CAR",
-      "value": 3142,
+      "value": 3141,
       "rank": 177,
       "positionRank": 26,
       "age": 22.9,
       "kept": 136,
       "traded": 137,
       "cut": 124,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 9
     },
     {
@@ -2672,7 +2672,7 @@
       "kept": 201,
       "traded": 164,
       "cut": 171,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 19
     },
     {
@@ -2687,7 +2687,7 @@
       "kept": 272,
       "traded": 236,
       "cut": 294,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 19
     },
     {
@@ -2702,7 +2702,7 @@
       "kept": 325,
       "traded": 400,
       "cut": 339,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 19
     },
     {
@@ -2717,7 +2717,7 @@
       "kept": 187,
       "traded": 225,
       "cut": 211,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 19
     },
     {
@@ -2732,7 +2732,7 @@
       "kept": 411,
       "traded": 306,
       "cut": 409,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 19
     },
     {
@@ -2747,7 +2747,7 @@
       "kept": 396,
       "traded": 251,
       "cut": 311,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 9
     },
     {
@@ -2762,7 +2762,7 @@
       "kept": 372,
       "traded": 294,
       "cut": 378,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 9
     },
     {
@@ -2777,7 +2777,7 @@
       "kept": 24,
       "traded": 40,
       "cut": 43,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 19
     },
     {
@@ -2792,7 +2792,7 @@
       "kept": 283,
       "traded": 266,
       "cut": 288,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 9
     },
     {
@@ -2807,7 +2807,7 @@
       "kept": 250,
       "traded": 229,
       "cut": 250,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 20
     },
     {
@@ -2822,7 +2822,7 @@
       "kept": 501,
       "traded": 552,
       "cut": 583,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 20
     },
     {
@@ -2837,7 +2837,7 @@
       "kept": 205,
       "traded": 158,
       "cut": 180,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 9
     },
     {
@@ -2845,14 +2845,14 @@
       "name": "Calvin Austin III",
       "position": "WR",
       "team": "PIT",
-      "value": 2919,
+      "value": 2918,
       "rank": 190,
       "positionRank": 79,
       "age": 26.9,
       "kept": 151,
       "traded": 131,
       "cut": 146,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 20
     },
     {
@@ -2867,7 +2867,7 @@
       "kept": 298,
       "traded": 370,
       "cut": 321,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 7
     },
     {
@@ -2882,7 +2882,7 @@
       "kept": 227,
       "traded": 214,
       "cut": 197,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 20
     },
     {
@@ -2897,7 +2897,7 @@
       "kept": 184,
       "traded": 246,
       "cut": 198,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 9
     },
     {
@@ -2912,7 +2912,7 @@
       "kept": 164,
       "traded": 127,
       "cut": 124,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 20
     },
     {
@@ -2927,7 +2927,7 @@
       "kept": 410,
       "traded": 354,
       "cut": 446,
-      "overallTier": 14,
+      "overallTier": 15,
       "positionTier": 21
     },
     {
@@ -2942,7 +2942,7 @@
       "kept": 44,
       "traded": 43,
       "cut": 37,
-      "overallTier": 15,
+      "overallTier": 16,
       "positionTier": 21
     },
     {
@@ -2957,7 +2957,7 @@
       "kept": 65,
       "traded": 58,
       "cut": 53,
-      "overallTier": 15,
+      "overallTier": 16,
       "positionTier": 21
     },
     {
@@ -2972,7 +2972,7 @@
       "kept": 140,
       "traded": 147,
       "cut": 151,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 21
     },
     {
@@ -2980,15 +2980,15 @@
       "name": "Najee Harris",
       "position": "RB",
       "team": "LAC",
-      "value": 2591,
+      "value": 2590,
       "rank": 199,
       "positionRank": 61,
       "age": 27.9,
       "kept": 436,
       "traded": 484,
       "cut": 541,
-      "overallTier": 16,
-      "positionTier": 21
+      "overallTier": 17,
+      "positionTier": 22
     },
     {
       "playerId": 1664,
@@ -3002,8 +3002,8 @@
       "kept": 110,
       "traded": 123,
       "cut": 110,
-      "overallTier": 16,
-      "positionTier": 21
+      "overallTier": 17,
+      "positionTier": 22
     },
     {
       "playerId": 1896,
@@ -3017,7 +3017,7 @@
       "kept": 39,
       "traded": 41,
       "cut": 26,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 11
     },
     {
@@ -3032,7 +3032,7 @@
       "kept": 304,
       "traded": 296,
       "cut": 303,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 11
     },
     {
@@ -3047,7 +3047,7 @@
       "kept": 375,
       "traded": 372,
       "cut": 485,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 11
     },
     {
@@ -3062,7 +3062,7 @@
       "kept": 47,
       "traded": 37,
       "cut": 33,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 7
     },
     {
@@ -3077,7 +3077,7 @@
       "kept": 137,
       "traded": 127,
       "cut": 109,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 22
     },
     {
@@ -3092,7 +3092,7 @@
       "kept": 232,
       "traded": 201,
       "cut": 192,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 11
     },
     {
@@ -3100,14 +3100,14 @@
       "name": "DeAndre Hopkins",
       "position": "WR",
       "team": "BAL",
-      "value": 2437,
+      "value": 2436,
       "rank": 207,
       "positionRank": 84,
       "age": 33.7,
       "kept": 289,
       "traded": 521,
       "cut": 434,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 22
     },
     {
@@ -3122,7 +3122,7 @@
       "kept": 293,
       "traded": 364,
       "cut": 408,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 11
     },
     {
@@ -3137,8 +3137,8 @@
       "kept": 155,
       "traded": 126,
       "cut": 130,
-      "overallTier": 16,
-      "positionTier": 22
+      "overallTier": 17,
+      "positionTier": 23
     },
     {
       "playerId": 1483,
@@ -3152,8 +3152,8 @@
       "kept": 261,
       "traded": 244,
       "cut": 213,
-      "overallTier": 16,
-      "positionTier": 22
+      "overallTier": 17,
+      "positionTier": 23
     },
     {
       "playerId": 1372,
@@ -3167,7 +3167,7 @@
       "kept": 240,
       "traded": 231,
       "cut": 253,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 23
     },
     {
@@ -3182,7 +3182,7 @@
       "kept": 450,
       "traded": 343,
       "cut": 400,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 11
     },
     {
@@ -3197,7 +3197,7 @@
       "kept": 209,
       "traded": 220,
       "cut": 226,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 23
     },
     {
@@ -3212,7 +3212,7 @@
       "kept": 146,
       "traded": 151,
       "cut": 189,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 23
     },
     {
@@ -3227,7 +3227,7 @@
       "kept": 244,
       "traded": 199,
       "cut": 266,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 23
     },
     {
@@ -3242,7 +3242,7 @@
       "kept": 299,
       "traded": 391,
       "cut": 405,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 11
     },
     {
@@ -3257,7 +3257,7 @@
       "kept": 175,
       "traded": 381,
       "cut": 319,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 11
     },
     {
@@ -3272,7 +3272,7 @@
       "kept": 44,
       "traded": 40,
       "cut": 26,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 7
     },
     {
@@ -3287,7 +3287,7 @@
       "kept": 323,
       "traded": 457,
       "cut": 463,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 24
     },
     {
@@ -3302,8 +3302,8 @@
       "kept": 262,
       "traded": 296,
       "cut": 305,
-      "overallTier": 16,
-      "positionTier": 23
+      "overallTier": 17,
+      "positionTier": 24
     },
     {
       "playerId": 1835,
@@ -3317,38 +3317,23 @@
       "kept": 43,
       "traded": 45,
       "cut": 44,
-      "overallTier": 16,
-      "positionTier": 23
+      "overallTier": 17,
+      "positionTier": 24
     },
     {
       "playerId": 1698,
       "name": "Luke McCaffrey",
       "position": "WR",
       "team": "WAS",
-      "value": 2118,
+      "value": 2117,
       "rank": 222,
       "positionRank": 90,
       "age": 24.8,
       "kept": 160,
       "traded": 120,
       "cut": 108,
-      "overallTier": 16,
+      "overallTier": 17,
       "positionTier": 24
-    },
-    {
-      "playerId": 222,
-      "name": "Miles Sanders",
-      "position": "RB",
-      "team": "DAL",
-      "value": 2089,
-      "rank": 223,
-      "positionRank": 68,
-      "age": 28.8,
-      "kept": 348,
-      "traded": 413,
-      "cut": 445,
-      "overallTier": 16,
-      "positionTier": 23
     },
     {
       "playerId": 385,
@@ -3356,14 +3341,29 @@
       "position": "RB",
       "team": "WAS",
       "value": 2089,
-      "rank": 224,
-      "positionRank": 69,
+      "rank": 223,
+      "positionRank": 68,
       "age": 30.7,
       "kept": 413,
       "traded": 523,
       "cut": 489,
-      "overallTier": 16,
-      "positionTier": 23
+      "overallTier": 17,
+      "positionTier": 24
+    },
+    {
+      "playerId": 222,
+      "name": "Miles Sanders",
+      "position": "RB",
+      "team": "DAL",
+      "value": 2088,
+      "rank": 224,
+      "positionRank": 69,
+      "age": 28.8,
+      "kept": 348,
+      "traded": 413,
+      "cut": 445,
+      "overallTier": 17,
+      "positionTier": 24
     },
     {
       "playerId": 1012,
@@ -3377,7 +3377,7 @@
       "kept": 385,
       "traded": 307,
       "cut": 356,
-      "overallTier": 17,
+      "overallTier": 18,
       "positionTier": 25
     },
     {
@@ -3392,7 +3392,7 @@
       "kept": 155,
       "traded": 165,
       "cut": 170,
-      "overallTier": 17,
+      "overallTier": 18,
       "positionTier": 25
     },
     {
@@ -3407,8 +3407,8 @@
       "kept": 340,
       "traded": 244,
       "cut": 317,
-      "overallTier": 17,
-      "positionTier": 23
+      "overallTier": 18,
+      "positionTier": 24
     },
     {
       "playerId": 1649,
@@ -3422,7 +3422,7 @@
       "kept": 35,
       "traded": 25,
       "cut": 13,
-      "overallTier": 17,
+      "overallTier": 18,
       "positionTier": 7
     },
     {
@@ -3430,14 +3430,14 @@
       "name": "Tez Johnson",
       "position": "WR",
       "team": "TBB",
-      "value": 1972,
+      "value": 1971,
       "rank": 229,
       "positionRank": 93,
       "age": 23.7,
       "kept": 28,
       "traded": 18,
       "cut": 30,
-      "overallTier": 17,
+      "overallTier": 18,
       "positionTier": 25
     },
     {
@@ -3452,7 +3452,7 @@
       "kept": 30,
       "traded": 29,
       "cut": 26,
-      "overallTier": 17,
+      "overallTier": 18,
       "positionTier": 25
     },
     {
@@ -3467,7 +3467,7 @@
       "kept": 286,
       "traded": 356,
       "cut": 380,
-      "overallTier": 17,
+      "overallTier": 18,
       "positionTier": 25
     },
     {
@@ -3482,8 +3482,8 @@
       "kept": 205,
       "traded": 217,
       "cut": 157,
-      "overallTier": 17,
-      "positionTier": 23
+      "overallTier": 18,
+      "positionTier": 24
     },
     {
       "playerId": 1069,
@@ -3497,7 +3497,7 @@
       "kept": 161,
       "traded": 193,
       "cut": 240,
-      "overallTier": 17,
+      "overallTier": 18,
       "positionTier": 25
     },
     {
@@ -3512,7 +3512,7 @@
       "kept": 286,
       "traded": 412,
       "cut": 458,
-      "overallTier": 18,
+      "overallTier": 19,
       "positionTier": 26
     },
     {
@@ -3527,7 +3527,7 @@
       "kept": 230,
       "traded": 199,
       "cut": 256,
-      "overallTier": 18,
+      "overallTier": 19,
       "positionTier": 27
     },
     {
@@ -3542,7 +3542,7 @@
       "kept": 232,
       "traded": 216,
       "cut": 237,
-      "overallTier": 18,
+      "overallTier": 19,
       "positionTier": 27
     },
     {
@@ -3557,7 +3557,7 @@
       "kept": 257,
       "traded": 233,
       "cut": 234,
-      "overallTier": 18,
+      "overallTier": 19,
       "positionTier": 27
     },
     {
@@ -3572,7 +3572,7 @@
       "kept": 125,
       "traded": 105,
       "cut": 107,
-      "overallTier": 18,
+      "overallTier": 19,
       "positionTier": 27
     },
     {
@@ -3587,8 +3587,8 @@
       "kept": 26,
       "traded": 38,
       "cut": 25,
-      "overallTier": 18,
-      "positionTier": 24
+      "overallTier": 19,
+      "positionTier": 25
     },
     {
       "playerId": 1498,
@@ -3602,7 +3602,7 @@
       "kept": 332,
       "traded": 309,
       "cut": 239,
-      "overallTier": 18,
+      "overallTier": 19,
       "positionTier": 8
     },
     {
@@ -3617,7 +3617,7 @@
       "kept": 48,
       "traded": 37,
       "cut": 53,
-      "overallTier": 18,
+      "overallTier": 19,
       "positionTier": 28
     },
     {
@@ -3625,14 +3625,14 @@
       "name": "Gunnar Helm",
       "position": "TE",
       "team": "TEN",
-      "value": 1538,
+      "value": 1537,
       "rank": 242,
       "positionRank": 41,
       "age": 23.4,
       "kept": 28,
       "traded": 23,
       "cut": 27,
-      "overallTier": 19,
+      "overallTier": 20,
       "positionTier": 12
     },
     {
@@ -3647,7 +3647,7 @@
       "kept": 283,
       "traded": 213,
       "cut": 252,
-      "overallTier": 19,
+      "overallTier": 20,
       "positionTier": 29
     },
     {
@@ -3662,7 +3662,7 @@
       "kept": 197,
       "traded": 196,
       "cut": 223,
-      "overallTier": 19,
+      "overallTier": 20,
       "positionTier": 8
     },
     {
@@ -3677,7 +3677,7 @@
       "kept": 171,
       "traded": 200,
       "cut": 183,
-      "overallTier": 19,
+      "overallTier": 20,
       "positionTier": 29
     },
     {
@@ -3692,7 +3692,7 @@
       "kept": 342,
       "traded": 311,
       "cut": 393,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -3707,7 +3707,7 @@
       "kept": 27,
       "traded": 38,
       "cut": 33,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -3722,7 +3722,7 @@
       "kept": 232,
       "traded": 247,
       "cut": 269,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -3737,7 +3737,7 @@
       "kept": 13,
       "traded": 22,
       "cut": 27,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -3752,8 +3752,8 @@
       "kept": 215,
       "traded": 304,
       "cut": 332,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 327,
@@ -3767,7 +3767,7 @@
       "kept": 667,
       "traded": 508,
       "cut": 691,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -3782,7 +3782,7 @@
       "kept": 14,
       "traded": 15,
       "cut": 21,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -3797,7 +3797,7 @@
       "kept": 75,
       "traded": 124,
       "cut": 94,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -3812,7 +3812,7 @@
       "kept": 44,
       "traded": 41,
       "cut": 29,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -3827,7 +3827,7 @@
       "kept": 59,
       "traded": 97,
       "cut": 61,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -3842,7 +3842,7 @@
       "kept": 98,
       "traded": 163,
       "cut": 163,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 13
     },
     {
@@ -3857,8 +3857,8 @@
       "kept": 338,
       "traded": 226,
       "cut": 274,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 150,
@@ -3872,7 +3872,7 @@
       "kept": 207,
       "traded": 247,
       "cut": 217,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 13
     },
     {
@@ -3887,7 +3887,7 @@
       "kept": 270,
       "traded": 221,
       "cut": 291,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -3902,7 +3902,7 @@
       "kept": 261,
       "traded": 382,
       "cut": 293,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -3917,8 +3917,8 @@
       "kept": 340,
       "traded": 226,
       "cut": 271,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 1658,
@@ -3932,8 +3932,8 @@
       "kept": 116,
       "traded": 112,
       "cut": 99,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 1825,
@@ -3947,7 +3947,7 @@
       "kept": 5,
       "traded": 6,
       "cut": 5,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -3962,23 +3962,8 @@
       "kept": 112,
       "traded": 224,
       "cut": 182,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 13
-    },
-    {
-      "playerId": 558,
-      "name": "Denzel Mims",
-      "position": "WR",
-      "team": "FA",
-      "value": 1106,
-      "rank": 265,
-      "positionRank": 134,
-      "age": 28.3,
-      "kept": 55,
-      "traded": 45,
-      "cut": 51,
-      "overallTier": 20,
-      "positionTier": 30
     },
     {
       "playerId": 1843,
@@ -3986,14 +3971,29 @@
       "position": "RB",
       "team": "GBP",
       "value": 1106,
-      "rank": 266,
+      "rank": 265,
       "positionRank": 99,
       "age": 22,
       "kept": 21,
       "traded": 22,
       "cut": 16,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
+    },
+    {
+      "playerId": 558,
+      "name": "Denzel Mims",
+      "position": "WR",
+      "team": "FA",
+      "value": 1105,
+      "rank": 266,
+      "positionRank": 134,
+      "age": 28.3,
+      "kept": 55,
+      "traded": 45,
+      "cut": 51,
+      "overallTier": 21,
+      "positionTier": 30
     },
     {
       "playerId": 85,
@@ -4007,7 +4007,7 @@
       "kept": 405,
       "traded": 311,
       "cut": 324,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -4022,7 +4022,7 @@
       "kept": 103,
       "traded": 303,
       "cut": 202,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -4037,7 +4037,7 @@
       "kept": 286,
       "traded": 209,
       "cut": 277,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4052,7 +4052,7 @@
       "kept": 12,
       "traded": 16,
       "cut": 8,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -4067,7 +4067,7 @@
       "kept": 35,
       "traded": 44,
       "cut": 36,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 13
     },
     {
@@ -4082,8 +4082,8 @@
       "kept": 273,
       "traded": 324,
       "cut": 319,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 1694,
@@ -4097,7 +4097,7 @@
       "kept": 129,
       "traded": 110,
       "cut": 104,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4112,7 +4112,7 @@
       "kept": 229,
       "traded": 167,
       "cut": 243,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4127,8 +4127,8 @@
       "kept": 176,
       "traded": 158,
       "cut": 179,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 882,
@@ -4142,7 +4142,7 @@
       "kept": 101,
       "traded": 62,
       "cut": 83,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 13
     },
     {
@@ -4157,7 +4157,7 @@
       "kept": 330,
       "traded": 261,
       "cut": 323,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4172,7 +4172,7 @@
       "kept": 7,
       "traded": 11,
       "cut": 12,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 13
     },
     {
@@ -4187,7 +4187,7 @@
       "kept": 106,
       "traded": 75,
       "cut": 103,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4202,7 +4202,7 @@
       "kept": 0,
       "traded": 3,
       "cut": 0,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -4217,7 +4217,7 @@
       "kept": 128,
       "traded": 254,
       "cut": 209,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4232,8 +4232,8 @@
       "kept": 318,
       "traded": 465,
       "cut": 342,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 1821,
@@ -4247,7 +4247,7 @@
       "kept": 0,
       "traded": 0,
       "cut": 0,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -4262,7 +4262,7 @@
       "kept": 0,
       "traded": 0,
       "cut": 0,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -4277,7 +4277,7 @@
       "kept": 339,
       "traded": 282,
       "cut": 340,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -4292,8 +4292,8 @@
       "kept": 48,
       "traded": 75,
       "cut": 76,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 404,
@@ -4307,7 +4307,7 @@
       "kept": 261,
       "traded": 223,
       "cut": 356,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4315,15 +4315,15 @@
       "name": "Kenny McIntosh",
       "position": "RB",
       "team": "SEA",
-      "value": 996,
+      "value": 995,
       "rank": 288,
       "positionRank": 130,
       "age": 25.9,
       "kept": 52,
       "traded": 58,
       "cut": 52,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 165,
@@ -4337,7 +4337,7 @@
       "kept": 137,
       "traded": 165,
       "cut": 159,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4352,7 +4352,7 @@
       "kept": 96,
       "traded": 166,
       "cut": 128,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 9
     },
     {
@@ -4367,7 +4367,7 @@
       "kept": 188,
       "traded": 259,
       "cut": 231,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4382,7 +4382,7 @@
       "kept": 338,
       "traded": 211,
       "cut": 302,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4397,7 +4397,7 @@
       "kept": 223,
       "traded": 206,
       "cut": 276,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 30
     },
     {
@@ -4412,8 +4412,8 @@
       "kept": 76,
       "traded": 79,
       "cut": 103,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 584,
@@ -4427,8 +4427,8 @@
       "kept": 231,
       "traded": 441,
       "cut": 315,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 1651,
@@ -4442,7 +4442,7 @@
       "kept": 0,
       "traded": 0,
       "cut": 0,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 10
     },
     {
@@ -4457,8 +4457,8 @@
       "kept": 243,
       "traded": 177,
       "cut": 185,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 623,
@@ -4472,8 +4472,8 @@
       "kept": 299,
       "traded": 414,
       "cut": 295,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 1325,
@@ -4487,8 +4487,8 @@
       "kept": 163,
       "traded": 206,
       "cut": 176,
-      "overallTier": 20,
-      "positionTier": 25
+      "overallTier": 21,
+      "positionTier": 26
     },
     {
       "playerId": 647,
@@ -4502,7 +4502,7 @@
       "kept": 14,
       "traded": 31,
       "cut": 29,
-      "overallTier": 20,
+      "overallTier": 21,
       "positionTier": 14
     }
   ]
