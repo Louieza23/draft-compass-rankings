@@ -12,10 +12,10 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 11,"Christian McCaffrey",RB,SFO,8219,5,29.7,1102,705,825
 12,"Brock Bowers",TE,LVR,8208,1,23.2,378,381,375
 13,"Trey McBride",TE,ARI,8116,2,26.2,565,468,474
-14,"Malik Nabers",WR,NYG,8038,6,22.5,444,419,383
+14,"Malik Nabers",WR,NYG,8038,6,22.6,444,419,383
 15,"Emeka Egbuka",WR,TBB,7928,7,23.3,159,113,130
 16,"Drake London",WR,ATL,7872,8,24.6,539,512,528
-17,"George Pickens",WR,DAL,7833,9,24.9,491,451,467
+17,"George Pickens",WR,DAL,7833,9,25,491,451,467
 18,"Ashton Jeanty",RB,LVR,7806,6,22.2,166,143,136
 19,"Rashee Rice",WR,KCC,7797,10,25.8,432,353,362
 20,"James Cook",RB,BUF,7775,7,26.4,495,421,494
@@ -24,7 +24,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 23,"Nico Collins",WR,HOU,7502,12,26.9,613,488,558
 24,"Bucky Irving",RB,TBB,7489,8,23.5,311,225,250
 25,"Lamar Jackson",QB,BAL,7475,3,29.1,660,641,679
-26,"Tetairoa McMillan",WR,CAR,7475,13,22.8,149,143,123
+26,"Tetairoa McMillan",WR,CAR,7475,13,22.9,149,143,123
 27,"Omarion Hampton",RB,LAC,7382,9,22.9,171,127,120
 28,"Josh Jacobs",RB,GBP,7232,10,28,635,613,633
 29,"Saquon Barkley",RB,PHI,7221,11,29,743,773,688
@@ -57,7 +57,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 56,"Bo Nix",QB,DEN,6204,11,26,242,176,167
 57,"Brian Thomas Jr.",WR,JAC,6129,25,23.4,345,366,268
 58,"Zay Flowers",WR,BAL,6077,26,25.4,447,411,477
-59,"George Kittle",TE,SFO,6049,4,32.3,466,501,626
+59,"George Kittle",TE,SFO,6049,4,32.4,466,501,626
 60,"Colston Loveland",TE,CHI,6011,5,21.8,111,88,96
 61,"Jaylen Warren",RB,PIT,6005,19,27.3,325,236,322
 62,"RJ Harvey",RB,DEN,5978,20,25,105,88,80
@@ -165,11 +165,11 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 164,"Cedric Tillman",WR,CLE,3430,68,25.8,256,248,225
 165,"Marquise Brown",WR,KCC,3415,69,28.7,478,336,385
 166,"Pat Freiermuth",TE,PIT,3392,23,27.3,430,289,404
-167,"Elijah Arroyo",TE,SEA,3381,24,22.8,62,48,54
+167,"Elijah Arroyo",TE,SEA,3381,24,22.9,62,48,54
 168,"Adonai Mitchell",WR,NYJ,3376,70,23.4,175,179,156
 169,"Kaleb Johnson",RB,PIT,3364,50,22.5,94,129,60
 170,"Jalen McMillan",WR,TBB,3359,71,24.2,182,136,152
-171,"Zach Ertz",TE,WAS,3337,25,35.2,300,254,316
+171,"Zach Ertz",TE,WAS,3337,25,35.3,300,254,316
 172,"Christian Kirk",WR,HOU,3286,72,29.2,435,288,327
 173,"Ray Davis",RB,BUF,3211,51,26.2,115,67,87
 174,"Tre Harris",WR,LAC,3204,74,24,73,65,54
@@ -198,7 +198,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 197,"Trevor Etienne",RB,CAR,2686,60,21.6,65,58,53
 198,"Tank Dell",WR,HOU,2600,82,26.3,140,147,151
 199,"Najee Harris",RB,LAC,2590,61,27.9,436,484,541
-200,"Will Shipley",RB,PHI,2584,62,23.4,110,123,110
+200,"Will Shipley",RB,PHI,2584,62,23.5,110,123,110
 201,"Terrance Ferguson",TE,LAR,2561,33,22.9,39,41,26
 202,"Luke Musgrave",TE,GBP,2517,34,25.4,304,296,303
 203,"Mike Gesicki",TE,CIN,2514,35,30.4,375,372,485
@@ -241,7 +241,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 240,"Anthony Richardson",QB,IND,1637,32,23.7,332,309,239
 241,"Demarcus Robinson",WR,SFO,1603,104,31.4,48,37,53
 242,"Gunnar Helm",TE,TEN,1537,41,23.4,28,23,27
-243,"Hunter Renfrow",WR,FA,1521,105,30.1,283,213,252
+243,"Hunter Renfrow",WR,FA,1521,105,30.2,283,213,252
 244,"Mac Jones",QB,SFO,1500,33,27.4,197,196,223
 245,"Jalin Hyatt",WR,NYG,1459,106,24.4,171,200,183
 246,"Brandin Cooks",WR,BUF,1341,108,32.4,342,311,393
@@ -257,7 +257,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 256,"Robert Tonyan",TE,KCC,1136,44,31.8,98,163,163
 257,"Khalil Herbert",RB,NYJ,1134,84,27.8,338,226,274
 258,"Taysom Hill",TE,NOS,1130,46,35.5,207,247,217
-259,"Michael Gallup",WR,FA,1128,126,29.9,270,221,291
+259,"Michael Gallup",WR,FA,1128,126,30,270,221,291
 260,"Russell Wilson",QB,NYG,1126,41,37.2,261,382,293
 261,"Elijah Mitchell",RB,NEP,1124,86,27.8,340,226,271
 262,"Audric Estime",RB,NOS,1123,87,22.4,116,112,99
@@ -287,7 +287,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 286,"Tyrion Davis-Price",RB,FA,1019,126,25.3,48,75,76
 287,"Mecole Hardman",WR,BUF,1017,159,27.9,261,223,356
 288,"Kenny McIntosh",RB,SEA,995,130,26,52,58,52
-289,"Russell Gage",WR,SFO,984,164,30,137,165,159
+289,"Russell Gage",WR,SFO,984,164,30.1,137,165,159
 290,"Jameis Winston",QB,NYG,984,57,32.1,96,166,128
 291,"Skyy Moore",WR,SFO,932,173,25.4,188,259,231
 292,"Gabriel Davis",WR,BUF,925,175,26.9,338,211,302

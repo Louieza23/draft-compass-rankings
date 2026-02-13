@@ -8,7 +8,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 7,"Jayden Daniels",QB,WAS,8850,3,25.2,182,74,85
 8,"Justin Jefferson",WR,MIN,8740,3,26.7,628,176,359
 9,"CeeDee Lamb",WR,DAL,8599,4,26.8,308,215,285
-10,"Malik Nabers",WR,NYG,8401,5,22.5,126,89,127
+10,"Malik Nabers",WR,NYG,8401,5,22.6,126,89,127
 11,"Amon-Ra St. Brown",WR,DET,8334,6,26.3,388,156,226
 12,"Jalen Hurts",QB,PHI,8254,4,27.5,313,159,175
 13,"Joe Burrow",QB,CIN,8189,5,29.2,338,152,145
@@ -32,7 +32,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 31,"Ladd McConkey",WR,LAC,6879,11,24.3,91,56,71
 32,"Brian Thomas Jr.",WR,JAC,6864,12,23.4,100,74,72
 33,"Josh Jacobs",RB,GBP,6826,11,28,242,221,247
-34,"Tetairoa McMillan",WR,CAR,6817,13,22.8,40,30,29
+34,"Tetairoa McMillan",WR,CAR,6817,13,22.9,40,30,29
 35,"Kyren Williams",RB,LAR,6802,12,25.5,152,96,136
 36,"Rome Odunze",WR,CHI,6703,14,23.7,112,83,89
 37,"Marvin Harrison Jr.",WR,ARI,6675,15,23.5,102,112,97
@@ -52,13 +52,13 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 51,"C.J. Stroud",QB,HOU,6096,14,24.4,192,97,141
 52,"Brock Purdy",QB,SFO,6024,15,26.1,77,59,78
 53,"Tee Higgins",WR,CIN,5960,19,27.1,275,184,252
-54,"George Pickens",WR,DAL,5949,20,24.9,154,129,138
+54,"George Pickens",WR,DAL,5949,20,25,154,129,138
 55,"Zay Flowers",WR,BAL,5907,21,25.4,134,94,125
 56,"Quinshon Judkins",RB,CLE,5906,17,22.3,44,16,12
 57,"Sam LaPorta",TE,DET,5899,4,25.1,177,131,147
 58,"Breece Hall",RB,NYJ,5890,18,24.7,202,179,149
 59,"Davante Adams",WR,LAR,5850,22,33.1,258,364,390
-60,"George Kittle",TE,SFO,5845,5,32.3,142,216,255
+60,"George Kittle",TE,SFO,5845,5,32.4,142,216,255
 61,"DK Metcalf",WR,PIT,5834,23,28.2,179,243,305
 62,"Xavier Worthy",WR,KCC,5806,24,22.8,96,80,61
 63,"Jameson Williams",WR,DET,5802,25,24.9,140,142,109
@@ -171,9 +171,9 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 170,"Tyler Allgeier",RB,ATL,3246,53,25.8,106,74,117
 171,"Harold Fannin",TE,CLE,3240,20,21.6,18,4,8
 172,"Jonnu Smith",TE,PIT,3228,21,30.5,111,113,132
-173,"Zach Ertz",TE,WAS,3195,22,35.2,143,103,136
+173,"Zach Ertz",TE,WAS,3195,22,35.3,143,103,136
 174,"Christian Watson",WR,GBP,3110,70,26.8,113,77,98
-175,"Elijah Arroyo",TE,SEA,3097,23,22.8,16,11,10
+175,"Elijah Arroyo",TE,SEA,3097,23,22.9,16,11,10
 176,"Xavier Legette",WR,CAR,3068,71,25,66,51,59
 177,"Adonai Mitchell",WR,NYJ,3046,72,23.4,52,33,38
 178,"Joshua Palmer",WR,BUF,3040,73,26.4,181,117,149
@@ -189,7 +189,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 188,"Najee Harris",RB,LAC,2872,55,27.9,211,241,259
 189,"Kayshon Boutte",WR,NEP,2835,76,23.8,67,73,52
 190,"Pat Freiermuth",TE,PIT,2830,28,27.3,209,77,138
-191,"Will Shipley",RB,PHI,2812,56,23.4,27,27,34
+191,"Will Shipley",RB,PHI,2812,56,23.5,27,27,34
 192,"Anthony Richardson",QB,IND,2797,32,23.7,163,99,110
 193,"Jalen McMillan",WR,TBB,2795,77,24.2,56,27,30
 194,"Russell Wilson",QB,NYG,2791,33,37.2,132,153,93
@@ -260,7 +260,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 259,"Quinn Ewers",QB,MIA,1491,42,22.8,13,6,2
 260,"Mac Jones",QB,SFO,1489,43,27.4,125,69,72
 261,"Jalin Hyatt",WR,NYG,1467,104,24.4,51,57,57
-262,"Hunter Renfrow",WR,FA,1464,105,30.1,176,88,156
+262,"Hunter Renfrow",WR,FA,1464,105,30.2,176,88,156
 263,"Ja'Lynn Polk",WR,NOS,1421,106,23.8,49,32,25
 264,"JuJu Smith-Schuster",WR,KCC,1392,107,29.2,143,151,163
 265,"Demarcus Robinson",WR,SFO,1383,108,31.4,19,13,28
@@ -280,7 +280,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 279,"Logan Thomas",TE,FA,1270,45,34.6,37,130,89
 280,"Michael Pratt",QB,FA,1270,45,24.4,,,
 281,"Gus Edwards",RB,FA,1269,78,30.8,112,165,157
-282,"Russell Gage",WR,SFO,1269,114,30,89,95,103
+282,"Russell Gage",WR,SFO,1269,114,30.1,89,95,103
 283,"Leonard Fournette",RB,FA,1269,79,31.1,155,103,131
 284,"Laviska Shenault",WR,FA,1269,115,27.4,79,200,142
 285,"James Robinson",RB,FA,1269,80,27.5,238,302,225
@@ -295,7 +295,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 294,"KJ Hamler",WR,FA,1267,116,26.6,84,41,70
 295,"Denzel Mims",WR,FA,1267,117,28.3,46,41,41
 296,"Johnny Wilson",WR,PHI,1267,118,24.9,4,3,4
-297,"Michael Gallup",WR,FA,1266,119,29.9,133,112,155
+297,"Michael Gallup",WR,FA,1266,119,30,133,112,155
 298,"Donovan Peoples-Jones",WR,FA,1266,120,27,196,116,161
 299,"Antonio Gibson",RB,NEP,1266,85,27.6,92,266,163
 300,"Marquez Callaway",WR,FA,1266,121,27.9,173,144,194
