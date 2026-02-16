@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-16T13:06:46.125Z",
+  "lastUpdated": "2026-02-16T18:42:39.709Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
-  "totalPlayers": 426,
+  "totalPlayers": 424,
   "players": [
     {
       "rank": 1,
@@ -2421,6 +2421,14 @@
       "originalRank": 302
     },
     {
+      "rank": 303,
+      "name": "Antonio Gibson",
+      "position": "RB",
+      "team": "NEW ENGLAND PATRIOTS",
+      "adp": 2864,
+      "originalRank": 303
+    },
+    {
       "rank": 304,
       "name": "Nick Chubb",
       "position": "RB",
@@ -2475,6 +2483,14 @@
       "team": "N/A",
       "adp": 2864,
       "originalRank": 310
+    },
+    {
+      "rank": 311,
+      "name": "Jeremy Ruckert",
+      "position": "TE",
+      "team": "NEW YORK JETS",
+      "adp": 2864,
+      "originalRank": 311
     },
     {
       "rank": 312,
@@ -2595,6 +2611,14 @@
       "team": "NEW YORK GIANTS",
       "adp": 2865,
       "originalRank": 326
+    },
+    {
+      "rank": 327,
+      "name": "Chris Herndon",
+      "position": "TE",
+      "team": "N/A",
+      "adp": 2865,
+      "originalRank": 327
     },
     {
       "rank": 328,
@@ -3077,6 +3101,14 @@
       "originalRank": 387
     },
     {
+      "rank": 388,
+      "name": "Lew Nichols",
+      "position": "RB",
+      "team": "PITTSBURGH STEELERS",
+      "adp": 2868,
+      "originalRank": 388
+    },
+    {
       "rank": 389,
       "name": "Austin Ekeler",
       "position": "RB",
@@ -3093,6 +3125,14 @@
       "originalRank": 390
     },
     {
+      "rank": 391,
+      "name": "Greg Dortch",
+      "position": "WR",
+      "team": "ARIZONA CARDINALS",
+      "adp": 2868,
+      "originalRank": 391
+    },
+    {
       "rank": 392,
       "name": "Elijah Higgins",
       "position": "TE",
@@ -3107,6 +3147,14 @@
       "team": "DETROIT LIONS",
       "adp": 2868,
       "originalRank": 393
+    },
+    {
+      "rank": 394,
+      "name": "Brevyn Spann-Ford",
+      "position": "TE",
+      "team": "DALLAS COWBOYS",
+      "adp": 2868,
+      "originalRank": 394
     },
     {
       "rank": 395,
@@ -3139,6 +3187,14 @@
       "team": "CLEVELAND BROWNS",
       "adp": 2868,
       "originalRank": 398
+    },
+    {
+      "rank": 399,
+      "name": "Davis Allen",
+      "position": "TE",
+      "team": "LOS ANGELES RAMS",
+      "adp": 2868,
+      "originalRank": 399
     },
     {
       "rank": 400,
@@ -3245,6 +3301,14 @@
       "originalRank": 412
     },
     {
+      "rank": 413,
+      "name": "Eric Rivers",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 413
+    },
+    {
       "rank": 414,
       "name": "Raheim Sanders",
       "position": "RB",
@@ -3267,6 +3331,30 @@
       "team": "DENVER BRONCOS",
       "adp": 2868,
       "originalRank": 416
+    },
+    {
+      "rank": 417,
+      "name": "Raheem Mostert",
+      "position": "RB",
+      "team": "LAS VEGAS RAIDERS",
+      "adp": 2868,
+      "originalRank": 417
+    },
+    {
+      "rank": 418,
+      "name": "Dameon Pierce",
+      "position": "RB",
+      "team": "KANSAS CITY CHIEFS",
+      "adp": 2868,
+      "originalRank": 418
+    },
+    {
+      "rank": 419,
+      "name": "Joshua Dobbs",
+      "position": "QB",
+      "team": "NEW ENGLAND PATRIOTS",
+      "adp": 2868,
+      "originalRank": 419
     },
     {
       "rank": 420,
@@ -3307,110 +3395,6 @@
       "team": "N/A",
       "adp": 2868,
       "originalRank": 424
-    },
-    {
-      "rank": 433,
-      "name": "Tyler Conklin",
-      "position": "TE",
-      "team": "LOS ANGELES CHARGERS",
-      "adp": 433,
-      "originalRank": 433
-    },
-    {
-      "rank": 467,
-      "name": "Devin Culp",
-      "position": "TE",
-      "team": "TAMPA BAY BUCCANEERS",
-      "adp": 467,
-      "originalRank": 467
-    },
-    {
-      "rank": 479,
-      "name": "Tyson Bagent",
-      "position": "QB",
-      "team": "CHICAGO BEARS",
-      "adp": 479,
-      "originalRank": 479
-    },
-    {
-      "rank": 480,
-      "name": "Gardner Minshew II",
-      "position": "QB",
-      "team": "KANSAS CITY CHIEFS",
-      "adp": 480,
-      "originalRank": 480
-    },
-    {
-      "rank": 487,
-      "name": "Jarrett Stidham",
-      "position": "QB",
-      "team": "DENVER BRONCOS",
-      "adp": 487,
-      "originalRank": 487
-    },
-    {
-      "rank": 505,
-      "name": "Eric Saubert",
-      "position": "TE",
-      "team": "SEATTLE SEAHAWKS",
-      "adp": 505,
-      "originalRank": 505
-    },
-    {
-      "rank": 542,
-      "name": "Ronnie Rivers",
-      "position": "RB",
-      "team": "LOS ANGELES RAMS",
-      "adp": 542,
-      "originalRank": 542
-    },
-    {
-      "rank": 556,
-      "name": "Bailey Zappe",
-      "position": "QB",
-      "team": "NEW YORK JETS",
-      "adp": 556,
-      "originalRank": 556
-    },
-    {
-      "rank": 603,
-      "name": "Velus Jones Jr.",
-      "position": "RB",
-      "team": "SEATTLE SEAHAWKS",
-      "adp": 603,
-      "originalRank": 603
-    },
-    {
-      "rank": 631,
-      "name": "Ezekiel Elliott",
-      "position": "RB",
-      "team": "DALLAS COWBOYS",
-      "adp": 631,
-      "originalRank": 631
-    },
-    {
-      "rank": 965,
-      "name": "A.T. Perry",
-      "position": "WR",
-      "team": "PITTSBURGH STEELERS",
-      "adp": 965,
-      "originalRank": 965
-    },
-    {
-      "rank": 993,
-      "name": "Jam Miller",
-      "position": "RB",
-      "team": "N/A",
-      "adp": 993,
-      "originalRank": 993
-    },
-    {
-      "rank": 1231,
-      "name": "Aaron Anderson",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 1231,
-      "originalRank": 1231
     }
   ]
 }
