@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-20T12:59:08.608Z",
+  "lastUpdated": "2026-02-20T18:51:38.629Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
-  "totalPlayers": 402,
+  "totalPlayers": 407,
   "players": [
     {
       "rank": 1,
@@ -2701,6 +2701,14 @@
       "originalRank": 337
     },
     {
+      "rank": 338,
+      "name": "Jackson Hawes",
+      "position": "TE",
+      "team": "BUFFALO BILLS",
+      "adp": 2865,
+      "originalRank": 338
+    },
+    {
       "rank": 339,
       "name": "DeMario Douglas",
       "position": "WR",
@@ -2845,6 +2853,14 @@
       "originalRank": 356
     },
     {
+      "rank": 357,
+      "name": "Lewis Bond",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 357
+    },
+    {
       "rank": 358,
       "name": "Joe Flacco",
       "position": "QB",
@@ -2861,6 +2877,14 @@
       "originalRank": 359
     },
     {
+      "rank": 360,
+      "name": "Roman Wilson",
+      "position": "WR",
+      "team": "PITTSBURGH STEELERS",
+      "adp": 2868,
+      "originalRank": 360
+    },
+    {
       "rank": 361,
       "name": "Austin Ekeler",
       "position": "RB",
@@ -2875,6 +2899,14 @@
       "team": "MINNESOTA VIKINGS",
       "adp": 2868,
       "originalRank": 362
+    },
+    {
+      "rank": 363,
+      "name": "Lew Nichols",
+      "position": "RB",
+      "team": "PITTSBURGH STEELERS",
+      "adp": 2868,
+      "originalRank": 363
     },
     {
       "rank": 364,
@@ -3013,6 +3045,14 @@
       "originalRank": 380
     },
     {
+      "rank": 381,
+      "name": "CJ Daniels",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 381
+    },
+    {
       "rank": 382,
       "name": "Treylon Burks",
       "position": "WR",
@@ -3037,12 +3077,28 @@
       "originalRank": 384
     },
     {
+      "rank": 385,
+      "name": "Greg Dulcich",
+      "position": "TE",
+      "team": "MIAMI DOLPHINS",
+      "adp": 2868,
+      "originalRank": 385
+    },
+    {
       "rank": 386,
       "name": "Kalel Mullings",
       "position": "RB",
       "team": "TENNESSEE TITANS",
       "adp": 2868,
       "originalRank": 386
+    },
+    {
+      "rank": 387,
+      "name": "JuJu Smith-Schuster",
+      "position": "WR",
+      "team": "KANSAS CITY CHIEFS",
+      "adp": 2868,
+      "originalRank": 387
     },
     {
       "rank": 388,
@@ -3053,12 +3109,36 @@
       "originalRank": 388
     },
     {
+      "rank": 389,
+      "name": "Mitchell Evans",
+      "position": "TE",
+      "team": "CAROLINA PANTHERS",
+      "adp": 2868,
+      "originalRank": 389
+    },
+    {
       "rank": 390,
       "name": "Michael Carter",
       "position": "RB",
       "team": "ARIZONA CARDINALS",
       "adp": 2868,
       "originalRank": 390
+    },
+    {
+      "rank": 391,
+      "name": "Lan Larison",
+      "position": "RB",
+      "team": "NEW ENGLAND PATRIOTS",
+      "adp": 2868,
+      "originalRank": 391
+    },
+    {
+      "rank": 392,
+      "name": "Malachi Corley",
+      "position": "WR",
+      "team": "CLEVELAND BROWNS",
+      "adp": 2868,
+      "originalRank": 392
     },
     {
       "rank": 393,
@@ -3077,6 +3157,14 @@
       "originalRank": 394
     },
     {
+      "rank": 395,
+      "name": "Drew Allar",
+      "position": "QB",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 395
+    },
+    {
       "rank": 396,
       "name": "Deion Burks",
       "position": "WR",
@@ -3091,6 +3179,22 @@
       "team": "N/A",
       "adp": 2868,
       "originalRank": 397
+    },
+    {
+      "rank": 398,
+      "name": "Donovan Edwards",
+      "position": "RB",
+      "team": "MIAMI DOLPHINS",
+      "adp": 2868,
+      "originalRank": 398
+    },
+    {
+      "rank": 399,
+      "name": "Raheim Sanders",
+      "position": "RB",
+      "team": "CLEVELAND BROWNS",
+      "adp": 2868,
+      "originalRank": 399
     },
     {
       "rank": 400,
@@ -3133,6 +3237,14 @@
       "originalRank": 404
     },
     {
+      "rank": 405,
+      "name": "David Sills",
+      "position": "WR",
+      "team": "ATLANTA FALCONS",
+      "adp": 2868,
+      "originalRank": 405
+    },
+    {
       "rank": 406,
       "name": "Nathan Carter",
       "position": "RB",
@@ -3141,84 +3253,12 @@
       "originalRank": 406
     },
     {
-      "rank": 446,
-      "name": "Josh Oliver",
-      "position": "TE",
-      "team": "MINNESOTA VIKINGS",
-      "adp": 446,
-      "originalRank": 446
-    },
-    {
-      "rank": 453,
-      "name": "Grant Calcaterra",
-      "position": "TE",
-      "team": "PHILADELPHIA EAGLES",
-      "adp": 453,
-      "originalRank": 453
-    },
-    {
-      "rank": 690,
-      "name": "Sawyer Robertson",
+      "rank": 407,
+      "name": "Stetson Bennett",
       "position": "QB",
-      "team": "N/A",
-      "adp": 690,
-      "originalRank": 690
-    },
-    {
-      "rank": 705,
-      "name": "Oscar Delp",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 705,
-      "originalRank": 705
-    },
-    {
-      "rank": 772,
-      "name": "Sam Roush",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 772,
-      "originalRank": 772
-    },
-    {
-      "rank": 1119,
-      "name": "Kyle Allen",
-      "position": "QB",
-      "team": "DETROIT LIONS",
-      "adp": 1119,
-      "originalRank": 1119
-    },
-    {
-      "rank": 1126,
-      "name": "Diego Pavia",
-      "position": "QB",
-      "team": "N/A",
-      "adp": 1126,
-      "originalRank": 1126
-    },
-    {
-      "rank": 1139,
-      "name": "Chris Herndon",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 1139,
-      "originalRank": 1139
-    },
-    {
-      "rank": 1252,
-      "name": "Jacob Saylors",
-      "position": "RB",
-      "team": "DETROIT LIONS",
-      "adp": 1252,
-      "originalRank": 1252
-    },
-    {
-      "rank": 1265,
-      "name": "Brady Cook",
-      "position": "QB",
-      "team": "NEW YORK JETS",
-      "adp": 1265,
-      "originalRank": 1265
+      "team": "LOS ANGELES RAMS",
+      "adp": 2868,
+      "originalRank": 407
     }
   ]
 }
