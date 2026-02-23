@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-23T13:05:01.574Z",
+  "lastUpdated": "2026-02-23T19:10:21.118Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
-  "totalPlayers": 413,
+  "totalPlayers": 422,
   "players": [
     {
       "rank": 1,
@@ -2461,6 +2461,14 @@
       "originalRank": 307
     },
     {
+      "rank": 308,
+      "name": "Spencer Rattler",
+      "position": "QB",
+      "team": "NEW ORLEANS SAINTS",
+      "adp": 2864,
+      "originalRank": 308
+    },
+    {
       "rank": 309,
       "name": "Ty Johnson",
       "position": "RB",
@@ -2501,6 +2509,14 @@
       "originalRank": 313
     },
     {
+      "rank": 314,
+      "name": "Nick Mullens",
+      "position": "QB",
+      "team": "JACKSONVILLE JAGUARS",
+      "adp": 2864,
+      "originalRank": 314
+    },
+    {
       "rank": 315,
       "name": "Jerome Ford",
       "position": "RB",
@@ -2523,6 +2539,14 @@
       "team": "BUFFALO BILLS",
       "adp": 2864,
       "originalRank": 317
+    },
+    {
+      "rank": 318,
+      "name": "Blake Whiteheart",
+      "position": "TE",
+      "team": "CLEVELAND BROWNS",
+      "adp": 2864,
+      "originalRank": 318
     },
     {
       "rank": 319,
@@ -2549,6 +2573,22 @@
       "originalRank": 321
     },
     {
+      "rank": 322,
+      "name": "Hunter Luepke",
+      "position": "RB",
+      "team": "DALLAS COWBOYS",
+      "adp": 2865,
+      "originalRank": 322
+    },
+    {
+      "rank": 323,
+      "name": "Travis Homer",
+      "position": "RB",
+      "team": "CHICAGO BEARS",
+      "adp": 2865,
+      "originalRank": 323
+    },
+    {
       "rank": 324,
       "name": "Dameon Pierce",
       "position": "RB",
@@ -2571,6 +2611,22 @@
       "team": "BALTIMORE RAVENS",
       "adp": 2865,
       "originalRank": 326
+    },
+    {
+      "rank": 327,
+      "name": "Austin Hooper",
+      "position": "TE",
+      "team": "NEW ENGLAND PATRIOTS",
+      "adp": 2865,
+      "originalRank": 327
+    },
+    {
+      "rank": 328,
+      "name": "Tyler Conklin",
+      "position": "TE",
+      "team": "LOS ANGELES CHARGERS",
+      "adp": 2865,
+      "originalRank": 328
     },
     {
       "rank": 329,
@@ -2621,6 +2677,14 @@
       "originalRank": 334
     },
     {
+      "rank": 335,
+      "name": "DeAndre Hopkins",
+      "position": "WR",
+      "team": "BALTIMORE RAVENS",
+      "adp": 2865,
+      "originalRank": 335
+    },
+    {
       "rank": 336,
       "name": "Jahan Dotson",
       "position": "WR",
@@ -2661,12 +2725,36 @@
       "originalRank": 340
     },
     {
+      "rank": 341,
+      "name": "Lewis Bond",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2865,
+      "originalRank": 341
+    },
+    {
+      "rank": 342,
+      "name": "Sterling Shepard",
+      "position": "WR",
+      "team": "TAMPA BAY BUCCANEERS",
+      "adp": 2865,
+      "originalRank": 342
+    },
+    {
       "rank": 343,
       "name": "Trevor Etienne",
       "position": "RB",
       "team": "CAROLINA PANTHERS",
       "adp": 2865,
       "originalRank": 343
+    },
+    {
+      "rank": 344,
+      "name": "Ronnie Rivers",
+      "position": "RB",
+      "team": "LOS ANGELES RAMS",
+      "adp": 2865,
+      "originalRank": 344
     },
     {
       "rank": 345,
@@ -2779,6 +2867,14 @@
       "team": "HOUSTON TEXANS",
       "adp": 2865,
       "originalRank": 358
+    },
+    {
+      "rank": 359,
+      "name": "Tucker Fisk",
+      "position": "TE",
+      "team": "LOS ANGELES CHARGERS",
+      "adp": 2865,
+      "originalRank": 359
     },
     {
       "rank": 360,
@@ -2917,6 +3013,14 @@
       "originalRank": 376
     },
     {
+      "rank": 377,
+      "name": "Jake Bobo",
+      "position": "WR",
+      "team": "SEATTLE SEAHAWKS",
+      "adp": 2868,
+      "originalRank": 377
+    },
+    {
       "rank": 378,
       "name": "Mitchell Trubisky",
       "position": "QB",
@@ -3029,6 +3133,14 @@
       "originalRank": 391
     },
     {
+      "rank": 392,
+      "name": "Chris Hilton Jr.",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 392
+    },
+    {
       "rank": 393,
       "name": "Deion Burks",
       "position": "WR",
@@ -3109,12 +3221,36 @@
       "originalRank": 402
     },
     {
+      "rank": 403,
+      "name": "Joshua Dobbs",
+      "position": "QB",
+      "team": "NEW ENGLAND PATRIOTS",
+      "adp": 2868,
+      "originalRank": 403
+    },
+    {
       "rank": 404,
       "name": "Jacob Saylors",
       "position": "RB",
       "team": "DETROIT LIONS",
       "adp": 2868,
       "originalRank": 404
+    },
+    {
+      "rank": 405,
+      "name": "Chip Trayanum",
+      "position": "RB",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 405
+    },
+    {
+      "rank": 406,
+      "name": "Raheim Sanders",
+      "position": "RB",
+      "team": "CLEVELAND BROWNS",
+      "adp": 2868,
+      "originalRank": 406
     },
     {
       "rank": 407,
@@ -3133,12 +3269,44 @@
       "originalRank": 408
     },
     {
+      "rank": 409,
+      "name": "Chase Roberts",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 409
+    },
+    {
+      "rank": 410,
+      "name": "Oscar Delp",
+      "position": "TE",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 410
+    },
+    {
+      "rank": 411,
+      "name": "Darius Cooper",
+      "position": "WR",
+      "team": "PHILADELPHIA EAGLES",
+      "adp": 2868,
+      "originalRank": 411
+    },
+    {
       "rank": 412,
       "name": "Demarcus Robinson",
       "position": "WR",
       "team": "SAN FRANCISCO 49ERS",
       "adp": 2868,
       "originalRank": 412
+    },
+    {
+      "rank": 413,
+      "name": "Efton Chism",
+      "position": "WR",
+      "team": "NEW ENGLAND PATRIOTS",
+      "adp": 2868,
+      "originalRank": 413
     },
     {
       "rank": 414,
@@ -3165,12 +3333,28 @@
       "originalRank": 416
     },
     {
+      "rank": 417,
+      "name": "Jarrett Stidham",
+      "position": "QB",
+      "team": "DENVER BRONCOS",
+      "adp": 2868,
+      "originalRank": 417
+    },
+    {
       "rank": 418,
       "name": "Jacob Cowing",
       "position": "WR",
       "team": "SAN FRANCISCO 49ERS",
       "adp": 2868,
       "originalRank": 418
+    },
+    {
+      "rank": 419,
+      "name": "Joe Milton",
+      "position": "QB",
+      "team": "DALLAS COWBOYS",
+      "adp": 2868,
+      "originalRank": 419
     },
     {
       "rank": 420,
@@ -3195,118 +3379,6 @@
       "team": "N/A",
       "adp": 2868,
       "originalRank": 422
-    },
-    {
-      "rank": 423,
-      "name": "CJ Daniels",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 423,
-      "originalRank": 423
-    },
-    {
-      "rank": 432,
-      "name": "Raheem Mostert",
-      "position": "RB",
-      "team": "LAS VEGAS RAIDERS",
-      "adp": 432,
-      "originalRank": 432
-    },
-    {
-      "rank": 438,
-      "name": "Kalif Raymond",
-      "position": "WR",
-      "team": "DETROIT LIONS",
-      "adp": 438,
-      "originalRank": 438
-    },
-    {
-      "rank": 457,
-      "name": "JuJu Smith-Schuster",
-      "position": "WR",
-      "team": "KANSAS CITY CHIEFS",
-      "adp": 457,
-      "originalRank": 457
-    },
-    {
-      "rank": 490,
-      "name": "Mitchell Evans",
-      "position": "TE",
-      "team": "CAROLINA PANTHERS",
-      "adp": 490,
-      "originalRank": 490
-    },
-    {
-      "rank": 499,
-      "name": "Rasheen Ali",
-      "position": "RB",
-      "team": "BALTIMORE RAVENS",
-      "adp": 499,
-      "originalRank": 499
-    },
-    {
-      "rank": 500,
-      "name": "Charlie Kolar",
-      "position": "TE",
-      "team": "BALTIMORE RAVENS",
-      "adp": 500,
-      "originalRank": 500
-    },
-    {
-      "rank": 515,
-      "name": "Charlie Jones",
-      "position": "WR",
-      "team": "CINCINNATI BENGALS",
-      "adp": 515,
-      "originalRank": 515
-    },
-    {
-      "rank": 623,
-      "name": "Tanner McKee",
-      "position": "QB",
-      "team": "PHILADELPHIA EAGLES",
-      "adp": 623,
-      "originalRank": 623
-    },
-    {
-      "rank": 812,
-      "name": "Stetson Bennett",
-      "position": "QB",
-      "team": "LOS ANGELES RAMS",
-      "adp": 812,
-      "originalRank": 812
-    },
-    {
-      "rank": 840,
-      "name": "Beaux Collins",
-      "position": "WR",
-      "team": "NEW YORK GIANTS",
-      "adp": 840,
-      "originalRank": 840
-    },
-    {
-      "rank": 947,
-      "name": "Joe Flacco",
-      "position": "QB",
-      "team": "CINCINNATI BENGALS",
-      "adp": 947,
-      "originalRank": 947
-    },
-    {
-      "rank": 1099,
-      "name": "Luke Lachey",
-      "position": "TE",
-      "team": "HOUSTON TEXANS",
-      "adp": 1099,
-      "originalRank": 1099
-    },
-    {
-      "rank": 1231,
-      "name": "Aaron Anderson",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 1231,
-      "originalRank": 1231
     }
   ]
 }

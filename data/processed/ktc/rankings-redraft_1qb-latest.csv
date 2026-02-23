@@ -1,8 +1,8 @@
 Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
-1,"Bijan Robinson",RB,ATL,9990,1,24.1,750,438,662
-2,"Puka Nacua",WR,LAR,9968,1,24.7,312,274,313
-3,"Jahmyr Gibbs",RB,DET,9967,2,23.9,651,474,607
-4,"Jaxon Smith-Njigba",WR,SEA,9928,2,24,490,444,408
+1,"Bijan Robinson",RB,ATL,9999,1,24.1,751,438,662
+2,"Puka Nacua",WR,LAR,9968,1,24.7,312,274,314
+3,"Jaxon Smith-Njigba",WR,SEA,9928,2,24,490,444,408
+4,"Jahmyr Gibbs",RB,DET,9907,2,23.9,651,475,607
 5,"Ja'Marr Chase",WR,CIN,9645,3,26,1192,405,751
 6,"Jonathan Taylor",RB,IND,9300,3,27.1,1000,643,703
 7,"Josh Allen",QB,BUF,8832,1,29.8,799,622,672
@@ -25,13 +25,13 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 24,"Tetairoa McMillan",WR,CAR,7522,13,22.9,151,144,124
 25,"Bucky Irving",RB,TBB,7503,8,23.5,312,226,252
 26,"Omarion Hampton",RB,LAC,7489,9,22.9,173,127,120
-27,"Lamar Jackson",QB,BAL,7418,3,29.1,660,642,680
+27,"Lamar Jackson",QB,BAL,7473,3,29.1,661,642,680
 28,"Kyren Williams",RB,LAR,7206,10,25.5,518,405,442
 29,"Saquon Barkley",RB,PHI,7163,11,29,743,774,688
 30,"Ladd McConkey",WR,LAC,7163,14,24.3,320,268,286
-31,"Quinshon Judkins",RB,CLE,7138,12,22.3,124,73,104
-32,"Josh Jacobs",RB,GBP,7120,13,28,635,615,633
-33,"Patrick Mahomes",QB,KCC,7107,4,30.4,703,605,605
+31,"Quinshon Judkins",RB,CLE,7140,12,22.3,124,73,105
+32,"Patrick Mahomes",QB,KCC,7107,4,30.4,703,605,605
+33,"Josh Jacobs",RB,GBP,7063,13,28,635,616,633
 34,"Tyler Warren",TE,IND,7024,3,23.8,144,95,115
 35,"Breece Hall",RB,NYJ,6985,14,24.7,624,520,529
 36,"Javonte Williams",RB,DAL,6977,15,25.8,568,468,449
@@ -248,10 +248,10 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 247,"Kendrick Bourne",WR,SFO,2290,104,30.6,244,199,267
 248,"Noah Fant",TE,CIN,2227,44,28.3,299,392,406
 249,"Darren Waller",TE,MIA,2222,45,33.4,175,381,319
-250,"Kevin Coleman",WR,FA,2198,105,-1,,,
-251,"Jalen Milroe",QB,SEA,2192,33,23.2,44,40,26
-252,"Dameon Pierce",RB,KCC,2157,74,26,262,296,305
-253,"Devin Neal",RB,NOS,2147,75,22.5,43,45,44
+250,"Devin Neal",RB,NOS,2208,74,22.5,44,45,44
+251,"Kevin Coleman",WR,FA,2197,105,-1,,,1
+252,"Dameon Pierce",RB,KCC,2157,75,26,262,296,305
+253,"Jalen Milroe",QB,SEA,2132,33,23.2,44,41,26
 254,"Tyler Lockett",WR,LVR,2105,106,33.4,323,458,464
 255,"Miles Sanders",RB,DAL,2088,76,28.8,348,413,445
 256,"Jonathon Brooks",RB,CAR,2082,77,22.6,208,217,157
