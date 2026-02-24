@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-24T12:58:12.137Z",
+  "lastUpdated": "2026-02-24T18:59:02.161Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
-  "totalPlayers": 422,
+  "totalPlayers": 421,
   "players": [
     {
       "rank": 1,
@@ -2557,6 +2557,14 @@
       "originalRank": 319
     },
     {
+      "rank": 320,
+      "name": "Max Brosmer",
+      "position": "QB",
+      "team": "MINNESOTA VIKINGS",
+      "adp": 2864,
+      "originalRank": 320
+    },
+    {
       "rank": 321,
       "name": "Travis Homer",
       "position": "RB",
@@ -2853,6 +2861,14 @@
       "originalRank": 357
     },
     {
+      "rank": 358,
+      "name": "Luke Schoonmaker",
+      "position": "TE",
+      "team": "DALLAS COWBOYS",
+      "adp": 2868,
+      "originalRank": 358
+    },
+    {
       "rank": 359,
       "name": "Erick All",
       "position": "TE",
@@ -2965,6 +2981,14 @@
       "originalRank": 372
     },
     {
+      "rank": 373,
+      "name": "Raheem Mostert",
+      "position": "RB",
+      "team": "LAS VEGAS RAIDERS",
+      "adp": 2868,
+      "originalRank": 373
+    },
+    {
       "rank": 374,
       "name": "Jake Bobo",
       "position": "WR",
@@ -2979,6 +3003,14 @@
       "team": "BUFFALO BILLS",
       "adp": 2868,
       "originalRank": 375
+    },
+    {
+      "rank": 376,
+      "name": "Charlie Kolar",
+      "position": "TE",
+      "team": "BALTIMORE RAVENS",
+      "adp": 2868,
+      "originalRank": 376
     },
     {
       "rank": 377,
@@ -3003,6 +3035,14 @@
       "team": "N/A",
       "adp": 2868,
       "originalRank": 379
+    },
+    {
+      "rank": 380,
+      "name": "Tanner McKee",
+      "position": "QB",
+      "team": "PHILADELPHIA EAGLES",
+      "adp": 2868,
+      "originalRank": 380
     },
     {
       "rank": 381,
@@ -3051,6 +3091,14 @@
       "team": "ARIZONA CARDINALS",
       "adp": 2868,
       "originalRank": 386
+    },
+    {
+      "rank": 387,
+      "name": "Josh Oliver",
+      "position": "TE",
+      "team": "MINNESOTA VIKINGS",
+      "adp": 2868,
+      "originalRank": 387
     },
     {
       "rank": 388,
@@ -3301,84 +3349,28 @@
       "originalRank": 418
     },
     {
-      "rank": 422,
-      "name": "Lil'Jordan Humphrey",
-      "position": "WR",
-      "team": "DENVER BRONCOS",
-      "adp": 422,
-      "originalRank": 422
-    },
-    {
-      "rank": 431,
-      "name": "Roschon Johnson",
-      "position": "RB",
-      "team": "CHICAGO BEARS",
-      "adp": 431,
-      "originalRank": 431
-    },
-    {
-      "rank": 446,
-      "name": "Tim Patrick",
-      "position": "WR",
-      "team": "JACKSONVILLE JAGUARS",
-      "adp": 446,
-      "originalRank": 446
-    },
-    {
-      "rank": 470,
-      "name": "Jimmy Garoppolo",
+      "rank": 419,
+      "name": "Carson Wentz",
       "position": "QB",
-      "team": "LOS ANGELES RAMS",
-      "adp": 470,
-      "originalRank": 470
+      "team": "MINNESOTA VIKINGS",
+      "adp": 2868,
+      "originalRank": 419
     },
     {
-      "rank": 501,
-      "name": "Lan Larison",
+      "rank": 420,
+      "name": "Jam Miller",
       "position": "RB",
-      "team": "NEW ENGLAND PATRIOTS",
-      "adp": 501,
-      "originalRank": 501
-    },
-    {
-      "rank": 631,
-      "name": "Ezekiel Elliott",
-      "position": "RB",
-      "team": "DALLAS COWBOYS",
-      "adp": 631,
-      "originalRank": 631
-    },
-    {
-      "rank": 657,
-      "name": "Josh Cameron",
-      "position": "WR",
       "team": "N/A",
-      "adp": 657,
-      "originalRank": 657
+      "adp": 2868,
+      "originalRank": 420
     },
     {
-      "rank": 791,
-      "name": "Tyler Scott",
-      "position": "WR",
-      "team": "LOS ANGELES RAMS",
-      "adp": 791,
-      "originalRank": 791
-    },
-    {
-      "rank": 875,
-      "name": "David Sills",
-      "position": "WR",
-      "team": "ATLANTA FALCONS",
-      "adp": 875,
-      "originalRank": 875
-    },
-    {
-      "rank": 1253,
-      "name": "Jacob Saylors",
-      "position": "RB",
-      "team": "DETROIT LIONS",
-      "adp": 1253,
-      "originalRank": 1253
+      "rank": 421,
+      "name": "John Michael Gyllenborg",
+      "position": "TE",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 421
     }
   ]
 }
