@@ -10,7 +10,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 9,"CeeDee Lamb",WR,DAL,8576,4,26.9,901,502,771
 10,"Brock Bowers",TE,LVR,8349,1,23.2,382,383,378
 11,"Amon-Ra St. Brown",WR,DET,8287,5,26.3,816,538,665
-12,"Trey McBride",TE,ARI,8246,2,26.2,567,468,476
+12,"Trey McBride",TE,ARI,8246,2,26.3,567,468,476
 13,"Christian McCaffrey",RB,SFO,8175,5,29.7,1104,708,826
 14,"Malik Nabers",WR,NYG,8045,6,22.6,446,421,384
 15,"Rashee Rice",WR,KCC,7860,7,25.8,433,353,364
@@ -21,7 +21,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 20,"Ashton Jeanty",RB,LVR,7751,7,22.2,167,145,137
 21,"Justin Jefferson",WR,MIN,7747,11,26.7,1360,381,733
 22,"Drake Maye",QB,NEP,7657,2,23.5,244,225,149
-23,"Omarion Hampton",RB,LAC,7550,8,22.9,174,127,120
+23,"Omarion Hampton",RB,LAC,7550,8,23,174,127,120
 24,"Lamar Jackson",QB,BAL,7533,3,29.1,662,642,680
 25,"Nico Collins",WR,HOU,7523,12,26.9,614,489,559
 26,"Tetairoa McMillan",WR,CAR,7522,13,22.9,151,144,124
@@ -105,7 +105,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 104,"Deebo Samuel",WR,WAS,5122,45,30.1,620,472,614
 105,"Matthew Stafford",QB,LAR,5117,18,38,371,452,411
 106,"Kenyon Sadiq",TE,FA,5072,12,-1,,,
-107,"Khalil Shakir",WR,BUF,5038,46,26,361,303,383
+107,"Khalil Shakir",WR,BUF,5038,46,26.1,361,303,383
 108,"Travis Kelce",TE,KCC,5036,13,36.4,595,729,782
 109,"Jauan Jennings",WR,SFO,5016,47,28.6,60,52,82
 110,"KC Concepcion",WR,FA,4973,48,-1,2,1,1
@@ -183,15 +183,15 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 182,"Mike Washington Jr.",RB,FA,3547,55,-1,1,,
 183,"James Conner",RB,ARI,3539,56,30.8,540,467,452
 184,"Ja'Kobi Lane",WR,FA,3483,79,-1,2,,
-185,"Cedric Tillman",WR,CLE,3430,80,25.8,256,248,226
-186,"Jalen McMillan",WR,TBB,3421,81,24.2,184,137,152
-187,"Marquise Brown",WR,KCC,3415,82,28.7,478,336,385
+185,"Marquise Brown",WR,KCC,3474,80,28.7,479,336,385
+186,"Cedric Tillman",WR,CLE,3430,81,25.8,256,248,226
+187,"Jalen McMillan",WR,TBB,3421,82,24.2,184,137,152
 188,"Pat Freiermuth",TE,PIT,3392,24,27.3,430,289,404
 189,"Elijah Arroyo",TE,SEA,3377,25,22.9,62,48,56
-190,"Adonai Mitchell",WR,NYJ,3376,83,23.4,175,179,156
+190,"Adonai Mitchell",WR,NYJ,3376,83,23.4,175,179,157
 191,"Ty Simpson",QB,FA,3366,28,-1,,1,
 192,"Kaleb Johnson",RB,PIT,3364,57,22.5,94,129,60
-193,"Christian Kirk",WR,HOU,3287,85,29.3,435,288,327
+193,"Christian Kirk",WR,HOU,3287,84,29.3,435,288,327
 194,"Tre Harris",WR,LAC,3270,86,24,74,65,54
 195,"Ray Davis",RB,BUF,3269,58,26.3,116,67,88
 196,"Zach Ertz",TE,WAS,3216,26,35.3,300,256,316
