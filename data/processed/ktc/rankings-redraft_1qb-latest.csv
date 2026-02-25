@@ -5,14 +5,14 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 4,"Jaxon Smith-Njigba",WR,SEA,9903,2,24,491,445,410
 5,"Ja'Marr Chase",WR,CIN,9751,3,26,1194,405,752
 6,"Jonathan Taylor",RB,IND,9228,3,27.1,1000,644,704
-7,"Josh Allen",QB,BUF,8788,1,29.8,799,623,672
-8,"De'Von Achane",RB,MIA,8768,4,24.4,494,434,487
+7,"De'Von Achane",RB,MIA,8867,4,24.4,496,434,487
+8,"Josh Allen",QB,BUF,8788,1,29.8,799,623,672
 9,"CeeDee Lamb",WR,DAL,8576,4,26.9,901,502,771
 10,"Brock Bowers",TE,LVR,8349,1,23.2,382,383,378
-11,"Amon-Ra St. Brown",WR,DET,8287,5,26.3,816,538,665
-12,"Trey McBride",TE,ARI,8246,2,26.3,567,468,476
+11,"Trey McBride",TE,ARI,8249,2,26.3,567,468,477
+12,"Amon-Ra St. Brown",WR,DET,8229,5,26.3,816,539,665
 13,"Christian McCaffrey",RB,SFO,8175,5,29.7,1104,708,826
-14,"Malik Nabers",WR,NYG,8045,6,22.6,446,421,384
+14,"Malik Nabers",WR,NYG,8001,6,22.6,446,422,385
 15,"Rashee Rice",WR,KCC,7860,7,25.8,433,353,364
 16,"George Pickens",WR,DAL,7854,8,25,492,452,470
 17,"James Cook",RB,BUF,7799,6,26.4,496,422,497
@@ -38,20 +38,20 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 37,"Rome Odunze",WR,CHI,6978,15,23.7,364,364,281
 38,"Javonte Williams",RB,DAL,6977,15,25.8,568,468,449
 39,"TreVeyon Henderson",RB,NEP,6776,16,23.3,130,126,114
-40,"Tee Higgins",WR,CIN,6730,16,27.1,639,509,643
-41,"Jeremiyah Love",RB,FA,6695,17,-1,4,2,1
+40,"Jeremiyah Love",RB,FA,6751,17,-1,5,2,1
+41,"Tee Higgins",WR,CIN,6730,16,27.1,639,509,643
 42,"Jalen Hurts",QB,PHI,6684,6,27.6,694,538,573
 43,"Jayden Daniels",QB,WAS,6684,7,25.2,357,313,236
 44,"Garrett Wilson",WR,NYJ,6676,17,25.6,560,494,521
 45,"Derrick Henry",RB,BAL,6607,18,32.1,685,842,699
 46,"Marvin Harrison Jr.",WR,ARI,6585,18,23.5,341,407,350
 47,"Chris Olave",WR,NOS,6566,19,25.7,523,489,521
-48,"Davante Adams",WR,LAR,6557,20,33.2,634,710,792
-49,"Caleb Williams",QB,CHI,6451,8,24.3,254,244,171
+48,"Davante Adams",WR,LAR,6493,20,33.2,634,711,793
+49,"Caleb Williams",QB,CHI,6390,8,24.3,254,245,171
 50,"Joe Burrow",QB,CIN,6383,9,29.2,635,495,487
-51,"Jaylen Waddle",WR,MIA,6306,21,27.2,724,479,599
-52,"DeVonta Smith",WR,PHI,6296,22,27.3,632,519,676
-53,"A.J. Brown",WR,PHI,6283,23,28.6,680,652,768
+51,"A.J. Brown",WR,PHI,6347,21,28.6,681,652,768
+52,"Jaylen Waddle",WR,MIA,6306,22,27.2,724,479,599
+53,"DeVonta Smith",WR,PHI,6301,23,27.3,632,519,677
 54,"Chase Brown",RB,CIN,6266,19,25.9,363,302,309
 55,"Bo Nix",QB,DEN,6264,10,26,244,177,168
 56,"Jameson Williams",WR,DET,6257,24,24.9,439,452,432
@@ -119,20 +119,20 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 118,"Trevor Lawrence",QB,JAC,4771,20,26.4,496,420,410
 119,"T.J. Hockenson",TE,MIN,4761,15,28.6,492,528,606
 120,"Nicholas Singleton",RB,FA,4750,36,-1,,2,
-121,"Josh Downs",WR,IND,4737,50,24.5,302,299,270
-122,"Omar Cooper Jr.",WR,FA,4722,51,-1,,,1
-123,"Rhamondre Stevenson",RB,NEP,4684,37,28,517,336,422
+121,"Rhamondre Stevenson",RB,NEP,4743,37,28,518,336,422
+122,"Josh Downs",WR,IND,4737,50,24.5,302,299,270
+123,"Omar Cooper Jr.",WR,FA,4722,51,-1,,,1
 124,"Sam Darnold",QB,SEA,4665,21,28.7,181,196,177
 125,"Mike Evans",WR,TBB,4660,52,32.5,502,548,611
-126,"Brandon Aiyuk",WR,SFO,4657,53,27.9,555,523,593
+126,"Brandon Aiyuk",WR,SFO,4657,53,27.9,555,523,594
 127,"Stefon Diggs",WR,NEP,4650,54,32.2,587,596,651
 128,"Luther Burden",WR,CHI,4636,55,22.2,88,82,61
-129,"Keon Coleman",WR,BUF,4608,56,22.8,237,219,199
-130,"Rashid Shaheed",WR,SEA,4571,57,27.5,132,136,158
-131,"Jayden Higgins",WR,HOU,4570,58,23.2,74,61,52
-132,"Romeo Doubs",WR,GBP,4563,59,25.9,326,279,340
-133,"Dallas Goedert",TE,PHI,4560,16,31.1,440,364,526
-134,"Jayden Reed",WR,GBP,4559,60,25.8,140,152,141
+129,"Rashid Shaheed",WR,SEA,4571,56,27.5,132,136,158
+130,"Jayden Higgins",WR,HOU,4570,57,23.2,74,61,52
+131,"Romeo Doubs",WR,GBP,4563,58,25.9,326,279,340
+132,"Dallas Goedert",TE,PHI,4560,16,31.1,440,364,526
+133,"Jayden Reed",WR,GBP,4559,59,25.8,140,152,141
+134,"Keon Coleman",WR,BUF,4549,60,22.8,237,220,199
 135,"Jadarian Price",RB,FA,4523,38,-1,2,,
 136,"Elic Ayomanor",WR,TEN,4499,61,22.7,77,50,52
 137,"Malachi Fields",WR,FA,4480,62,-1,,1,1
@@ -151,37 +151,37 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 150,"Tory Horton",WR,SEA,4176,68,23.2,45,27,27
 151,"Tyjae Spears",RB,TEN,4124,44,24.7,310,261,300
 152,"Isaiah Likely",TE,BAL,4123,17,25.8,425,358,406
-153,"Elijah Sarratt",WR,FA,4096,69,-1,,,
-154,"Isiah Pacheco",RB,KCC,4079,45,27,435,399,388
-155,"David Njoku",TE,CLE,4061,18,29.6,434,306,409
-156,"Justin Fields",QB,NYJ,4055,25,27,447,401,394
-157,"Mark Andrews",TE,BAL,4049,19,30.5,546,471,568
-158,"Michael Penix Jr.",QB,ATL,4046,26,25.8,162,158,110
-159,"Rachaad White",RB,TBB,4032,46,27.1,363,334,428
-160,"Hunter Henry",TE,NEP,4024,20,31.2,338,291,342
-161,"Bryce Young",QB,CAR,3960,27,24.6,228,228,188
-162,"Ollie Gordon",RB,MIA,3954,47,22.1,55,63,66
-163,"Chris Bell",WR,FA,3943,70,-1,,1,
-164,"Christian Watson",WR,GBP,3935,71,26.8,376,311,303
-165,"Braelon Allen",RB,NYJ,3919,48,22.1,171,180,181
-166,"Cade Otton",TE,TBB,3912,21,26.9,224,173,198
+153,"Mark Andrews",TE,BAL,4109,18,30.5,547,471,568
+154,"Elijah Sarratt",WR,FA,4096,69,-1,,,
+155,"Isiah Pacheco",RB,KCC,4079,45,27,435,399,388
+156,"David Njoku",TE,CLE,4061,19,29.6,434,306,409
+157,"Michael Penix Jr.",QB,ATL,4046,25,25.8,162,158,111
+158,"Rachaad White",RB,TBB,4032,46,27.1,363,334,428
+159,"Hunter Henry",TE,NEP,4023,20,31.2,338,291,343
+160,"Bryce Young",QB,CAR,4020,26,24.6,229,228,188
+161,"Justin Fields",QB,NYJ,3995,27,27,447,402,394
+162,"Chris Bell",WR,FA,3943,70,-1,,1,
+163,"Christian Watson",WR,GBP,3935,71,26.8,376,311,303
+164,"Braelon Allen",RB,NYJ,3919,47,22.1,171,180,181
+165,"Cade Otton",TE,TBB,3912,21,26.9,224,173,198
+166,"Ollie Gordon",RB,MIA,3894,48,22.1,55,64,66
 167,"Chris Brazzell II",WR,FA,3867,72,-1,1,,
-168,"Kenneth Gainwell",RB,PIT,3813,49,27,435,277,407
-169,"Brian Robinson",RB,SFO,3800,50,26.9,446,375,381
+168,"Brian Robinson",RB,SFO,3857,49,26.9,447,375,381
+169,"Kenneth Gainwell",RB,PIT,3813,50,27,435,277,407
 170,"Mason Taylor",TE,NYJ,3797,22,21.8,62,44,47
 171,"Cooper Kupp",WR,SEA,3780,73,32.7,660,537,568
 172,"Dylan Sampson",RB,CLE,3736,51,21.4,65,76,78
 173,"Calvin Ridley",WR,TEN,3722,74,31.2,66,295,117
 174,"Jaylin Noel",WR,HOU,3702,75,23.5,54,43,44
-175,"Tank Bigsby",RB,PHI,3670,52,24.5,261,252,248
+175,"Tank Bigsby",RB,PHI,3671,52,24.5,261,252,249
 176,"Tyreek Hill",WR,FA,3656,76,32,621,705,736
 177,"Evan Engram",TE,DEN,3577,23,31.5,411,443,422
 178,"Darnell Mooney",WR,ATL,3574,77,28.3,426,310,458
 179,"Marvin Mims",WR,DEN,3567,78,23.9,283,248,226
-180,"Emmett Johnson",RB,FA,3566,53,-1,1,1,
-181,"Kaytron Allen",RB,FA,3552,54,-1,,,1
-182,"Mike Washington Jr.",RB,FA,3547,55,-1,1,,
-183,"James Conner",RB,ARI,3539,56,30.8,540,467,452
+180,"Kaytron Allen",RB,FA,3552,53,-1,,,1
+181,"Mike Washington Jr.",RB,FA,3547,54,-1,1,,
+182,"James Conner",RB,ARI,3539,55,30.8,540,467,452
+183,"Emmett Johnson",RB,FA,3509,56,-1,1,2,
 184,"Ja'Kobi Lane",WR,FA,3483,79,-1,2,,
 185,"Marquise Brown",WR,KCC,3474,80,28.7,479,336,385
 186,"Cedric Tillman",WR,CLE,3430,81,25.8,256,248,226
