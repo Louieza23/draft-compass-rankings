@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-26T13:03:36.684Z",
+  "lastUpdated": "2026-02-26T18:56:42.245Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
-  "totalPlayers": 406,
+  "totalPlayers": 407,
   "players": [
     {
       "rank": 1,
@@ -2701,6 +2701,14 @@
       "originalRank": 337
     },
     {
+      "rank": 338,
+      "name": "DeAndre Hopkins",
+      "position": "WR",
+      "team": "BALTIMORE RAVENS",
+      "adp": 2865,
+      "originalRank": 338
+    },
+    {
       "rank": 339,
       "name": "Taysom Hill",
       "position": "TE",
@@ -2829,6 +2837,14 @@
       "originalRank": 354
     },
     {
+      "rank": 355,
+      "name": "Tyrell Shavers",
+      "position": "WR",
+      "team": "BUFFALO BILLS",
+      "adp": 2868,
+      "originalRank": 355
+    },
+    {
       "rank": 356,
       "name": "Jonnu Smith",
       "position": "TE",
@@ -2925,6 +2941,14 @@
       "originalRank": 367
     },
     {
+      "rank": 368,
+      "name": "Chip Trayanum",
+      "position": "RB",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 368
+    },
+    {
       "rank": 369,
       "name": "Deion Burks",
       "position": "WR",
@@ -2973,6 +2997,14 @@
       "originalRank": 374
     },
     {
+      "rank": 375,
+      "name": "Malachi Corley",
+      "position": "WR",
+      "team": "CLEVELAND BROWNS",
+      "adp": 2868,
+      "originalRank": 375
+    },
+    {
       "rank": 376,
       "name": "Jordan Watkins",
       "position": "WR",
@@ -2989,12 +3021,28 @@
       "originalRank": 377
     },
     {
+      "rank": 378,
+      "name": "Caleb Douglas",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 378
+    },
+    {
       "rank": 379,
       "name": "Ja'Lynn Polk",
       "position": "WR",
       "team": "NEW ORLEANS SAINTS",
       "adp": 2868,
       "originalRank": 379
+    },
+    {
+      "rank": 380,
+      "name": "Chase Claypool",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 380
     },
     {
       "rank": 381,
@@ -3029,6 +3077,14 @@
       "originalRank": 384
     },
     {
+      "rank": 385,
+      "name": "Joshua Palmer",
+      "position": "WR",
+      "team": "BUFFALO BILLS",
+      "adp": 2868,
+      "originalRank": 385
+    },
+    {
       "rank": 386,
       "name": "Antonio Gibson",
       "position": "RB",
@@ -3043,6 +3099,14 @@
       "team": "ARIZONA CARDINALS",
       "adp": 2868,
       "originalRank": 387
+    },
+    {
+      "rank": 388,
+      "name": "Greg Dulcich",
+      "position": "TE",
+      "team": "MIAMI DOLPHINS",
+      "adp": 2868,
+      "originalRank": 388
     },
     {
       "rank": 389,
@@ -3085,12 +3149,36 @@
       "originalRank": 393
     },
     {
+      "rank": 394,
+      "name": "Dean Conners",
+      "position": "RB",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 394
+    },
+    {
       "rank": 395,
       "name": "Lewis Bond",
       "position": "WR",
       "team": "N/A",
       "adp": 2868,
       "originalRank": 395
+    },
+    {
+      "rank": 396,
+      "name": "Noah Whittington",
+      "position": "RB",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 396
+    },
+    {
+      "rank": 397,
+      "name": "Nathan Carter",
+      "position": "RB",
+      "team": "ATLANTA FALCONS",
+      "adp": 2868,
+      "originalRank": 397
     },
     {
       "rank": 398,
@@ -3109,6 +3197,14 @@
       "originalRank": 399
     },
     {
+      "rank": 400,
+      "name": "Roman Wilson",
+      "position": "WR",
+      "team": "PITTSBURGH STEELERS",
+      "adp": 2868,
+      "originalRank": 400
+    },
+    {
       "rank": 401,
       "name": "Olamide Zaccheaus",
       "position": "WR",
@@ -3123,6 +3219,14 @@
       "team": "LOS ANGELES RAMS",
       "adp": 2868,
       "originalRank": 402
+    },
+    {
+      "rank": 403,
+      "name": "Jake Bobo",
+      "position": "WR",
+      "team": "SEATTLE SEAHAWKS",
+      "adp": 2868,
+      "originalRank": 403
     },
     {
       "rank": 404,
@@ -3149,108 +3253,12 @@
       "originalRank": 406
     },
     {
-      "rank": 412,
-      "name": "Demarcus Robinson",
-      "position": "WR",
-      "team": "SAN FRANCISCO 49ERS",
-      "adp": 412,
-      "originalRank": 412
-    },
-    {
-      "rank": 422,
-      "name": "Raheem Mostert",
-      "position": "RB",
-      "team": "LAS VEGAS RAIDERS",
-      "adp": 422,
-      "originalRank": 422
-    },
-    {
-      "rank": 426,
-      "name": "Sterling Shepard",
-      "position": "WR",
-      "team": "TAMPA BAY BUCCANEERS",
-      "adp": 426,
-      "originalRank": 426
-    },
-    {
-      "rank": 430,
-      "name": "Emari Demercado",
-      "position": "RB",
-      "team": "ARIZONA CARDINALS",
-      "adp": 430,
-      "originalRank": 430
-    },
-    {
-      "rank": 434,
-      "name": "Luke Schoonmaker",
-      "position": "TE",
-      "team": "DALLAS COWBOYS",
-      "adp": 434,
-      "originalRank": 434
-    },
-    {
-      "rank": 622,
-      "name": "Tanner McKee",
+      "rank": 407,
+      "name": "Tyler Huntley",
       "position": "QB",
-      "team": "PHILADELPHIA EAGLES",
-      "adp": 622,
-      "originalRank": 622
-    },
-    {
-      "rank": 754,
-      "name": "Carson Beck",
-      "position": "QB",
-      "team": "N/A",
-      "adp": 754,
-      "originalRank": 754
-    },
-    {
-      "rank": 885,
-      "name": "Dane Key",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 885,
-      "originalRank": 885
-    },
-    {
-      "rank": 986,
-      "name": "Jam Miller",
-      "position": "RB",
-      "team": "N/A",
-      "adp": 986,
-      "originalRank": 986
-    },
-    {
-      "rank": 1094,
-      "name": "John Michael Gyllenborg",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 1094,
-      "originalRank": 1094
-    },
-    {
-      "rank": 1131,
-      "name": "Desmond Reid",
-      "position": "RB",
-      "team": "N/A",
-      "adp": 1131,
-      "originalRank": 1131
-    },
-    {
-      "rank": 1326,
-      "name": "Carson Wentz",
-      "position": "QB",
-      "team": "MINNESOTA VIKINGS",
-      "adp": 1326,
-      "originalRank": 1326
-    },
-    {
-      "rank": 1355,
-      "name": "Max Brosmer",
-      "position": "QB",
-      "team": "MINNESOTA VIKINGS",
-      "adp": 1355,
-      "originalRank": 1355
+      "team": "BALTIMORE RAVENS",
+      "adp": 2868,
+      "originalRank": 407
     }
   ]
 }
