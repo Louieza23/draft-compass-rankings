@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-02-27T12:53:35.352Z",
+  "lastUpdated": "2026-02-27T18:49:27.697Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
-  "totalPlayers": 407,
+  "totalPlayers": 399,
   "players": [
     {
       "rank": 1,
@@ -2685,6 +2685,14 @@
       "originalRank": 335
     },
     {
+      "rank": 336,
+      "name": "Mitchell Evans",
+      "position": "TE",
+      "team": "CAROLINA PANTHERS",
+      "adp": 2865,
+      "originalRank": 336
+    },
+    {
       "rank": 337,
       "name": "Rahsul Faison",
       "position": "RB",
@@ -2739,6 +2747,14 @@
       "team": "N/A",
       "adp": 2868,
       "originalRank": 343
+    },
+    {
+      "rank": 344,
+      "name": "Tanner McKee",
+      "position": "QB",
+      "team": "PHILADELPHIA EAGLES",
+      "adp": 2868,
+      "originalRank": 344
     },
     {
       "rank": 345,
@@ -2851,6 +2867,14 @@
       "team": "SAN FRANCISCO 49ERS",
       "adp": 2868,
       "originalRank": 358
+    },
+    {
+      "rank": 359,
+      "name": "Aaron Anderson",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 359
     },
     {
       "rank": 360,
@@ -3077,6 +3101,22 @@
       "originalRank": 387
     },
     {
+      "rank": 388,
+      "name": "Andrew Armstrong",
+      "position": "WR",
+      "team": "KANSAS CITY CHIEFS",
+      "adp": 2868,
+      "originalRank": 388
+    },
+    {
+      "rank": 389,
+      "name": "Dane Key",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 389
+    },
+    {
       "rank": 390,
       "name": "Noah Whittington",
       "position": "RB",
@@ -3093,12 +3133,28 @@
       "originalRank": 391
     },
     {
+      "rank": 392,
+      "name": "Tyreik McAllister",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 392
+    },
+    {
       "rank": 393,
       "name": "Chase Roberts",
       "position": "WR",
       "team": "N/A",
       "adp": 2868,
       "originalRank": 393
+    },
+    {
+      "rank": 394,
+      "name": "Drew Allar",
+      "position": "QB",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 394
     },
     {
       "rank": 395,
@@ -3139,126 +3195,6 @@
       "team": "BALTIMORE RAVENS",
       "adp": 2868,
       "originalRank": 399
-    },
-    {
-      "rank": 402,
-      "name": "Tommy Tremble",
-      "position": "TE",
-      "team": "CAROLINA PANTHERS",
-      "adp": 402,
-      "originalRank": 402
-    },
-    {
-      "rank": 407,
-      "name": "Josh Reynolds",
-      "position": "WR",
-      "team": "NEW YORK JETS",
-      "adp": 407,
-      "originalRank": 407
-    },
-    {
-      "rank": 409,
-      "name": "Olamide Zaccheaus",
-      "position": "WR",
-      "team": "CHICAGO BEARS",
-      "adp": 409,
-      "originalRank": 409
-    },
-    {
-      "rank": 413,
-      "name": "Greg Dortch",
-      "position": "WR",
-      "team": "ARIZONA CARDINALS",
-      "adp": 413,
-      "originalRank": 413
-    },
-    {
-      "rank": 486,
-      "name": "Michael Carter",
-      "position": "RB",
-      "team": "ARIZONA CARDINALS",
-      "adp": 486,
-      "originalRank": 486
-    },
-    {
-      "rank": 494,
-      "name": "Charlie Kolar",
-      "position": "TE",
-      "team": "BALTIMORE RAVENS",
-      "adp": 494,
-      "originalRank": 494
-    },
-    {
-      "rank": 518,
-      "name": "Xavier Smith",
-      "position": "WR",
-      "team": "LOS ANGELES RAMS",
-      "adp": 518,
-      "originalRank": 518
-    },
-    {
-      "rank": 520,
-      "name": "Damien Martinez",
-      "position": "RB",
-      "team": "GREEN BAY PACKERS",
-      "adp": 520,
-      "originalRank": 520
-    },
-    {
-      "rank": 533,
-      "name": "LaJohntay Wester",
-      "position": "WR",
-      "team": "BALTIMORE RAVENS",
-      "adp": 533,
-      "originalRank": 533
-    },
-    {
-      "rank": 690,
-      "name": "Sawyer Robertson",
-      "position": "QB",
-      "team": "N/A",
-      "adp": 690,
-      "originalRank": 690
-    },
-    {
-      "rank": 761,
-      "name": "Trinidad Chambliss",
-      "position": "QB",
-      "team": "N/A",
-      "adp": 761,
-      "originalRank": 761
-    },
-    {
-      "rank": 816,
-      "name": "Donovan Edwards",
-      "position": "RB",
-      "team": "MIAMI DOLPHINS",
-      "adp": 816,
-      "originalRank": 816
-    },
-    {
-      "rank": 883,
-      "name": "Chris Hilton Jr.",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 883,
-      "originalRank": 883
-    },
-    {
-      "rank": 1051,
-      "name": "Joe Royer",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 1051,
-      "originalRank": 1051
-    },
-    {
-      "rank": 1353,
-      "name": "Cole Payton",
-      "position": "QB",
-      "team": "N/A",
-      "adp": 1353,
-      "originalRank": 1353
     }
   ]
 }
