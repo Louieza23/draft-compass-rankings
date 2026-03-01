@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-01T12:54:48.642Z",
+  "lastUpdated": "2026-03-01T18:38:38.643Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
-  "totalPlayers": 398,
+  "totalPlayers": 405,
   "players": [
     {
       "rank": 1,
@@ -2341,6 +2341,14 @@
       "originalRank": 292
     },
     {
+      "rank": 293,
+      "name": "Deion Burks",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2862,
+      "originalRank": 293
+    },
+    {
       "rank": 294,
       "name": "Audric Estime",
       "position": "RB",
@@ -2701,6 +2709,14 @@
       "originalRank": 338
     },
     {
+      "rank": 339,
+      "name": "Taylen Green",
+      "position": "QB",
+      "team": "N/A",
+      "adp": 2865,
+      "originalRank": 339
+    },
+    {
       "rank": 340,
       "name": "Jonnu Smith",
       "position": "TE",
@@ -2765,6 +2781,14 @@
       "originalRank": 347
     },
     {
+      "rank": 348,
+      "name": "Patrick Ricard",
+      "position": "RB",
+      "team": "BALTIMORE RAVENS",
+      "adp": 2865,
+      "originalRank": 348
+    },
+    {
       "rank": 349,
       "name": "Malik Davis",
       "position": "RB",
@@ -2795,6 +2819,14 @@
       "team": "LOS ANGELES RAMS",
       "adp": 2868,
       "originalRank": 352
+    },
+    {
+      "rank": 353,
+      "name": "Darius Cooper",
+      "position": "WR",
+      "team": "PHILADELPHIA EAGLES",
+      "adp": 2868,
+      "originalRank": 353
     },
     {
       "rank": 354,
@@ -2901,6 +2933,14 @@
       "originalRank": 366
     },
     {
+      "rank": 367,
+      "name": "Carson Beck",
+      "position": "QB",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 367
+    },
+    {
       "rank": 368,
       "name": "Jalen Tolbert",
       "position": "WR",
@@ -2997,6 +3037,14 @@
       "originalRank": 379
     },
     {
+      "rank": 380,
+      "name": "Dallen Bentley",
+      "position": "TE",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 380
+    },
+    {
       "rank": 381,
       "name": "Joshua Palmer",
       "position": "WR",
@@ -3019,6 +3067,14 @@
       "team": "ARIZONA CARDINALS",
       "adp": 2868,
       "originalRank": 383
+    },
+    {
+      "rank": 384,
+      "name": "Devin Culp",
+      "position": "TE",
+      "team": "TAMPA BAY BUCCANEERS",
+      "adp": 2868,
+      "originalRank": 384
     },
     {
       "rank": 385,
@@ -3053,12 +3109,28 @@
       "originalRank": 388
     },
     {
+      "rank": 389,
+      "name": "Lewis Bond",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 389
+    },
+    {
       "rank": 390,
       "name": "Chase Claypool",
       "position": "WR",
       "team": "N/A",
       "adp": 2868,
       "originalRank": 390
+    },
+    {
+      "rank": 391,
+      "name": "Ja'Corey Brooks",
+      "position": "WR",
+      "team": "WASHINGTON COMMANDERS",
+      "adp": 2868,
+      "originalRank": 391
     },
     {
       "rank": 392,
@@ -3069,12 +3141,28 @@
       "originalRank": 392
     },
     {
+      "rank": 393,
+      "name": "John Michael Gyllenborg",
+      "position": "TE",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 393
+    },
+    {
       "rank": 394,
       "name": "Tyler Scott",
       "position": "WR",
       "team": "LOS ANGELES RAMS",
       "adp": 2868,
       "originalRank": 394
+    },
+    {
+      "rank": 395,
+      "name": "Zavion Thomas",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 395
     },
     {
       "rank": 396,
@@ -3101,12 +3189,28 @@
       "originalRank": 398
     },
     {
+      "rank": 399,
+      "name": "Sterling Shepard",
+      "position": "WR",
+      "team": "TAMPA BAY BUCCANEERS",
+      "adp": 2868,
+      "originalRank": 399
+    },
+    {
       "rank": 400,
       "name": "Kalel Mullings",
       "position": "RB",
       "team": "TENNESSEE TITANS",
       "adp": 2868,
       "originalRank": 400
+    },
+    {
+      "rank": 401,
+      "name": "Mitchell Trubisky",
+      "position": "QB",
+      "team": "BUFFALO BILLS",
+      "adp": 2868,
+      "originalRank": 401
     },
     {
       "rank": 402,
@@ -3117,6 +3221,14 @@
       "originalRank": 402
     },
     {
+      "rank": 403,
+      "name": "Joe Milton",
+      "position": "QB",
+      "team": "DALLAS COWBOYS",
+      "adp": 2868,
+      "originalRank": 403
+    },
+    {
       "rank": 404,
       "name": "Carson Wentz",
       "position": "QB",
@@ -3125,68 +3237,12 @@
       "originalRank": 404
     },
     {
-      "rank": 542,
-      "name": "Jacob Cowing",
-      "position": "WR",
-      "team": "SAN FRANCISCO 49ERS",
-      "adp": 542,
-      "originalRank": 542
-    },
-    {
-      "rank": 713,
-      "name": "Nathan Carter",
-      "position": "RB",
-      "team": "ATLANTA FALCONS",
-      "adp": 713,
-      "originalRank": 713
-    },
-    {
-      "rank": 802,
-      "name": "Andrew Armstrong",
-      "position": "WR",
-      "team": "KANSAS CITY CHIEFS",
-      "adp": 802,
-      "originalRank": 802
-    },
-    {
-      "rank": 840,
-      "name": "Beaux Collins",
-      "position": "WR",
-      "team": "NEW YORK GIANTS",
-      "adp": 840,
-      "originalRank": 840
-    },
-    {
-      "rank": 885,
-      "name": "Dane Key",
+      "rank": 405,
+      "name": "Reggie Virgil",
       "position": "WR",
       "team": "N/A",
-      "adp": 885,
-      "originalRank": 885
-    },
-    {
-      "rank": 1133,
-      "name": "JP Richardson",
-      "position": "WR",
-      "team": "CHICAGO BEARS",
-      "adp": 1133,
-      "originalRank": 1133
-    },
-    {
-      "rank": 1229,
-      "name": "Aaron Anderson",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 1229,
-      "originalRank": 1229
-    },
-    {
-      "rank": 1262,
-      "name": "Tyreik McAllister",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 1262,
-      "originalRank": 1262
+      "adp": 2868,
+      "originalRank": 405
     }
   ]
 }
