@@ -3,7 +3,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 2,"Jaxon Smith-Njigba",WR,SEA,9976,1,24,493,445,410
 3,"Puka Nacua",WR,LAR,9877,2,24.8,314,276,316
 4,"Ja'Marr Chase",WR,CIN,9850,3,26,1196,405,752
-5,"Jahmyr Gibbs",RB,DET,9779,2,23.9,652,477,609
+5,"Jahmyr Gibbs",RB,DET,9779,2,24,652,477,609
 6,"Jonathan Taylor",RB,IND,9155,3,27.1,1000,645,704
 7,"De'Von Achane",RB,MIA,8791,4,24.4,497,436,488
 8,"Josh Allen",QB,BUF,8734,1,29.8,800,625,672
@@ -96,15 +96,15 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 95,"D.J. Moore",WR,CHI,5302,39,28.9,527,503,700
 96,"Jonah Coleman",RB,FA,5275,30,-1,3,1,2
 97,"Jakobi Meyers",WR,JAC,5257,40,29.3,444,360,337
-98,"Troy Franklin",WR,DEN,5246,41,23.1,153,155,149
+98,"Troy Franklin",WR,DEN,5245,41,23.1,153,155,150
 99,"Daniel Jones",QB,IND,5211,17,28.8,402,328,314
-100,"Jacory Croskey-Merritt",RB,WAS,5165,31,24.9,50,51,44
-101,"Terry McLaurin",WR,WAS,5147,42,30.4,493,568,598
-102,"KC Concepcion",WR,FA,5136,43,-1,5,1,1
-103,"Kenyon Sadiq",TE,FA,5134,12,-1,1,,
-104,"Wan'Dale Robinson",WR,NYG,5119,44,25.2,281,226,258
-105,"Matthew Stafford",QB,LAR,5117,18,38,371,452,411
-106,"Deebo Samuel",WR,WAS,5117,45,30.1,620,472,615
+100,"Terry McLaurin",WR,WAS,5208,42,30.4,494,568,598
+101,"KC Concepcion",WR,FA,5136,43,-1,5,1,1
+102,"Kenyon Sadiq",TE,FA,5134,12,-1,1,,
+103,"Wan'Dale Robinson",WR,NYG,5119,44,25.2,281,226,258
+104,"Matthew Stafford",QB,LAR,5117,18,38.1,371,452,411
+105,"Deebo Samuel",WR,WAS,5117,45,30.1,620,472,615
+106,"Jacory Croskey-Merritt",RB,WAS,5105,31,24.9,50,52,44
 107,"Matthew Golden",WR,GBP,5103,46,22.6,109,96,64
 108,"Jauan Jennings",WR,SFO,5012,47,28.6,60,52,83
 109,"Khalil Shakir",WR,BUF,4978,48,26.1,361,304,385
@@ -118,7 +118,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 117,"Juwan Johnson",TE,NOS,4790,14,29.5,163,72,115
 118,"Trevor Lawrence",QB,JAC,4771,20,26.4,496,420,410
 119,"Luther Burden",WR,CHI,4763,50,22.2,90,82,61
-120,"T.J. Hockenson",TE,MIN,4761,15,28.6,492,528,606
+120,"T.J. Hockenson",TE,MIN,4761,15,28.7,492,528,606
 121,"Rhamondre Stevenson",RB,NEP,4743,36,28,518,336,422
 122,"Josh Downs",WR,IND,4740,51,24.6,302,299,271
 123,"Omar Cooper Jr.",WR,FA,4720,52,-1,,,2
@@ -171,7 +171,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 170,"Kenneth Gainwell",RB,PIT,3813,50,27,435,277,407
 171,"Cooper Kupp",WR,SEA,3783,73,32.7,661,538,568
 172,"Jaylin Noel",WR,HOU,3766,74,23.5,55,43,44
-173,"Dylan Sampson",RB,CLE,3736,51,21.4,65,76,78
+173,"Dylan Sampson",RB,CLE,3736,51,21.5,65,76,78
 174,"Calvin Ridley",WR,TEN,3722,75,31.2,66,295,117
 175,"Evan Engram",TE,DEN,3698,23,31.5,413,443,422
 176,"Tank Bigsby",RB,PHI,3590,52,24.5,261,254,249
@@ -185,7 +185,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 184,"Darnell Mooney",WR,ATL,3466,79,28.3,426,312,459
 185,"Kaleb Johnson",RB,PIT,3442,57,22.5,95,129,60
 186,"Cedric Tillman",WR,CLE,3430,80,25.9,256,248,226
-187,"Pat Freiermuth",TE,PIT,3392,24,27.3,430,289,404
+187,"Pat Freiermuth",TE,PIT,3392,24,27.4,430,289,404
 188,"Elijah Arroyo",TE,SEA,3377,25,22.9,62,48,56
 189,"Adonai Mitchell",WR,NYJ,3376,81,23.4,175,179,157
 190,"Ty Simpson",QB,FA,3366,28,-1,,1,
@@ -200,7 +200,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 199,"Zach Ertz",TE,WAS,3160,28,35.3,300,257,316
 200,"Tua Tagovailoa",QB,MIA,3134,29,28,426,385,399
 201,"Chigoziem Okonkwo",TE,TEN,3124,29,26.5,208,158,181
-202,"Sean Tucker",RB,TBB,3105,59,24.3,187,225,213
+202,"Sean Tucker",RB,TBB,3105,59,24.4,187,225,213
 203,"Germie Bernard",WR,FA,3084,89,-1,,,
 204,"Nick Chubb",RB,HOU,3074,60,30.2,395,579,463
 205,"Rashod Bateman",WR,BAL,3073,90,26.2,411,306,410
@@ -226,7 +226,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 225,"Antonio Williams",WR,FA,2634,95,-1,,,1
 226,"Terrance Ferguson",TE,LAR,2622,37,23,40,41,26
 227,"Tank Dell",WR,HOU,2600,96,26.3,140,147,152
-228,"Shedeur Sanders",QB,CLE,2564,32,24,48,37,34
+228,"Shedeur Sanders",QB,CLE,2564,32,24.1,48,37,34
 229,"Michael Trigg",TE,FA,2544,38,-1,1,1,
 230,"Najee Harris",RB,LAC,2531,68,28,436,485,542
 231,"Skyler Bell",WR,FA,2528,97,-1,,,1
@@ -253,7 +253,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 252,"Jalen Milroe",QB,SEA,2191,33,23.2,45,41,26
 253,"Dameon Pierce",RB,KCC,2157,75,26,262,296,305
 254,"Jonathon Brooks",RB,CAR,2142,76,22.6,209,217,157
-255,"Xavier Hutchinson",WR,HOU,2137,106,25.7,157,165,171
+255,"Xavier Hutchinson",WR,HOU,2137,106,25.8,157,165,171
 256,"Tyler Lockett",WR,LVR,2106,107,33.4,323,458,464
 257,"Miles Sanders",RB,DAL,2099,77,28.8,349,414,445
 258,"Spencer Rattler",QB,NOS,2053,34,25.4,36,25,14
@@ -298,4 +298,4 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 297,"Jaxson Dart",QB,NYG,1027,60,22.8,,,
 298,"Tyler Shough",QB,NOS,1027,61,26.4,,,
 299,"Kirk Cousins",QB,ATL,1021,62,37.5,339,282,340
-300,"Jameis Winston",QB,NYG,984,63,32.1,96,166,128
+300,"Jameis Winston",QB,NYG,984,63,32.2,96,166,128
