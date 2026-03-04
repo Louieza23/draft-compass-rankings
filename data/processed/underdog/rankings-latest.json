@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-04T12:52:55.442Z",
+  "lastUpdated": "2026-03-04T18:53:16.495Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
-  "totalPlayers": 411,
+  "totalPlayers": 410,
   "players": [
     {
       "rank": 1,
@@ -2453,6 +2453,14 @@
       "originalRank": 306
     },
     {
+      "rank": 307,
+      "name": "Tanner McLachlan",
+      "position": "TE",
+      "team": "LOS ANGELES CHARGERS",
+      "adp": 2864,
+      "originalRank": 307
+    },
+    {
       "rank": 308,
       "name": "Tyler Higbee",
       "position": "TE",
@@ -2901,6 +2909,14 @@
       "originalRank": 363
     },
     {
+      "rank": 364,
+      "name": "Xavier Smith",
+      "position": "WR",
+      "team": "LOS ANGELES RAMS",
+      "adp": 2868,
+      "originalRank": 364
+    },
+    {
       "rank": 365,
       "name": "Damien Martinez",
       "position": "RB",
@@ -2941,6 +2957,14 @@
       "originalRank": 369
     },
     {
+      "rank": 370,
+      "name": "Tim Patrick",
+      "position": "WR",
+      "team": "JACKSONVILLE JAGUARS",
+      "adp": 2868,
+      "originalRank": 370
+    },
+    {
       "rank": 371,
       "name": "Greg Dulcich",
       "position": "TE",
@@ -2971,6 +2995,14 @@
       "team": "N/A",
       "adp": 2868,
       "originalRank": 374
+    },
+    {
+      "rank": 375,
+      "name": "Dallen Bentley",
+      "position": "TE",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 375
     },
     {
       "rank": 376,
@@ -3077,6 +3109,14 @@
       "originalRank": 388
     },
     {
+      "rank": 389,
+      "name": "Gardner Minshew II",
+      "position": "QB",
+      "team": "KANSAS CITY CHIEFS",
+      "adp": 2868,
+      "originalRank": 389
+    },
+    {
       "rank": 390,
       "name": "Mitchell Trubisky",
       "position": "QB",
@@ -3101,12 +3141,44 @@
       "originalRank": 392
     },
     {
+      "rank": 393,
+      "name": "Charlie Kolar",
+      "position": "TE",
+      "team": "BALTIMORE RAVENS",
+      "adp": 2868,
+      "originalRank": 393
+    },
+    {
+      "rank": 394,
+      "name": "Cam Akers",
+      "position": "RB",
+      "team": "SEATTLE SEAHAWKS",
+      "adp": 2868,
+      "originalRank": 394
+    },
+    {
+      "rank": 395,
+      "name": "Jacob Saylors",
+      "position": "RB",
+      "team": "DETROIT LIONS",
+      "adp": 2868,
+      "originalRank": 395
+    },
+    {
       "rank": 396,
       "name": "Will Howard",
       "position": "QB",
       "team": "PITTSBURGH STEELERS",
       "adp": 2868,
       "originalRank": 396
+    },
+    {
+      "rank": 397,
+      "name": "Dean Conners",
+      "position": "RB",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 397
     },
     {
       "rank": 398,
@@ -3211,86 +3283,6 @@
       "team": "N/A",
       "adp": 2868,
       "originalRank": 410
-    },
-    {
-      "rank": 411,
-      "name": "Jordan Whittington",
-      "position": "WR",
-      "team": "LOS ANGELES RAMS",
-      "adp": 411,
-      "originalRank": 411
-    },
-    {
-      "rank": 425,
-      "name": "Elijah Higgins",
-      "position": "TE",
-      "team": "ARIZONA CARDINALS",
-      "adp": 425,
-      "originalRank": 425
-    },
-    {
-      "rank": 434,
-      "name": "Kalif Raymond",
-      "position": "WR",
-      "team": "DETROIT LIONS",
-      "adp": 434,
-      "originalRank": 434
-    },
-    {
-      "rank": 464,
-      "name": "Devin Culp",
-      "position": "TE",
-      "team": "TAMPA BAY BUCCANEERS",
-      "adp": 464,
-      "originalRank": 464
-    },
-    {
-      "rank": 477,
-      "name": "Davis Mills",
-      "position": "QB",
-      "team": "HOUSTON TEXANS",
-      "adp": 477,
-      "originalRank": 477
-    },
-    {
-      "rank": 489,
-      "name": "Michael Carter",
-      "position": "RB",
-      "team": "ARIZONA CARDINALS",
-      "adp": 489,
-      "originalRank": 489
-    },
-    {
-      "rank": 733,
-      "name": "Jeff Wilson Jr.",
-      "position": "RB",
-      "team": "N/A",
-      "adp": 733,
-      "originalRank": 733
-    },
-    {
-      "rank": 880,
-      "name": "Ja'Corey Brooks",
-      "position": "WR",
-      "team": "WASHINGTON COMMANDERS",
-      "adp": 880,
-      "originalRank": 880
-    },
-    {
-      "rank": 1134,
-      "name": "Tyler Huntley",
-      "position": "QB",
-      "team": "BALTIMORE RAVENS",
-      "adp": 1134,
-      "originalRank": 1134
-    },
-    {
-      "rank": 1191,
-      "name": "Marlin Klein",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 1191,
-      "originalRank": 1191
     }
   ]
 }
