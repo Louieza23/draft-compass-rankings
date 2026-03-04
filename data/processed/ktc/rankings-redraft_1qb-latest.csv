@@ -65,11 +65,11 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 64,"RJ Harvey",RB,DEN,5919,21,25.1,106,90,82
 65,"Carnell Tate",WR,FA,5905,29,-1,3,1,1
 66,"Cam Skattebo",RB,NYG,5881,22,24.1,165,148,149
-67,"Jordan Addison",WR,MIN,5828,30,24.1,381,409,413
-68,"Dak Prescott",QB,DAL,5823,12,32.6,412,521,403
-69,"George Kittle",TE,SFO,5818,5,32.4,466,505,626
-70,"Jaylen Warren",RB,PIT,5812,23,27.3,326,240,323
-71,"Sam LaPorta",TE,DET,5801,6,25.1,492,442,470
+67,"Sam LaPorta",TE,DET,5856,5,25.1,493,442,470
+68,"Jordan Addison",WR,MIN,5828,30,24.1,381,409,413
+69,"Dak Prescott",QB,DAL,5823,12,32.6,412,521,403
+70,"George Kittle",TE,SFO,5818,6,32.4,466,505,626
+71,"Jaylen Warren",RB,PIT,5812,23,27.3,326,240,323
 72,"Michael Pittman",WR,IND,5794,31,28.4,600,407,511
 73,"Jared Goff",QB,DET,5767,13,31.4,405,297,378
 74,"Tucker Kraft",TE,GBP,5748,7,25.3,103,92,86
@@ -85,8 +85,8 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 84,"Trey Benson",RB,ARI,5570,27,23.6,246,210,190
 85,"Dalton Kincaid",TE,BUF,5548,9,26.4,438,362,343
 86,"Kyle Pitts",TE,ATL,5547,10,25.4,581,480,545
-87,"Xavier Worthy",WR,KCC,5521,36,22.8,330,341,288
-88,"Fernando Mendoza",QB,FA,5449,15,-1,3,1,
+87,"Xavier Worthy",WR,KCC,5463,36,22.8,330,342,288
+88,"Fernando Mendoza",QB,FA,5453,15,-1,3,1,1
 89,"DK Metcalf",WR,PIT,5431,37,28.2,533,617,668
 90,"Harold Fannin",TE,CLE,5409,11,21.6,96,27,39
 91,"Quentin Johnston",WR,LAC,5373,38,24.5,262,271,290
@@ -170,16 +170,16 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 169,"Kenneth Gainwell",RB,PIT,3813,49,27,435,277,407
 170,"Cooper Kupp",WR,SEA,3783,73,32.7,661,538,568
 171,"Ollie Gordon",RB,MIA,3777,50,22.1,55,66,66
-172,"Jaylin Noel",WR,HOU,3766,74,23.5,55,43,44
-173,"Dylan Sampson",RB,CLE,3736,51,21.5,65,76,78
-174,"Calvin Ridley",WR,TEN,3722,75,31.2,66,295,117
-175,"Tyreek Hill",WR,FA,3655,76,32,622,707,737
+172,"Jaylin Noel",WR,HOU,3765,74,23.5,55,43,45
+173,"Calvin Ridley",WR,TEN,3722,75,31.2,66,295,117
+174,"Tyreek Hill",WR,FA,3716,76,32,623,707,737
+175,"Dylan Sampson",RB,CLE,3675,51,21.5,65,77,78
 176,"Evan Engram",TE,DEN,3651,23,31.5,413,444,423
-177,"Mike Washington Jr.",RB,FA,3592,52,-1,3,1,1
-178,"Tank Bigsby",RB,PHI,3591,53,24.5,261,254,250
-179,"Kaytron Allen",RB,FA,3552,54,-1,,,1
-180,"Marvin Mims",WR,DEN,3508,77,24,283,249,226
-181,"Emmett Johnson",RB,FA,3504,55,-1,1,2,1
+177,"Tank Bigsby",RB,PHI,3650,52,24.5,262,254,250
+178,"Mike Washington Jr.",RB,FA,3592,53,-1,3,1,1
+179,"Marvin Mims",WR,DEN,3509,77,24,283,249,227
+180,"Emmett Johnson",RB,FA,3504,54,-1,1,2,1
+181,"Kaytron Allen",RB,FA,3492,55,-1,,1,1
 182,"Ja'Kobi Lane",WR,FA,3483,78,-1,2,,
 183,"Darnell Mooney",WR,ATL,3466,79,28.3,426,312,459
 184,"Kaleb Johnson",RB,PIT,3442,56,22.6,95,129,60
