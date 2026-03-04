@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-03T13:05:14.994Z",
+  "lastUpdated": "2026-03-04T01:58:52.738Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
-  "totalPlayers": 405,
+  "totalPlayers": 411,
   "players": [
     {
       "rank": 1,
@@ -2853,6 +2853,14 @@
       "originalRank": 356
     },
     {
+      "rank": 357,
+      "name": "Tommy Tremble",
+      "position": "TE",
+      "team": "CAROLINA PANTHERS",
+      "adp": 2868,
+      "originalRank": 357
+    },
+    {
       "rank": 358,
       "name": "Joshua Palmer",
       "position": "WR",
@@ -2891,6 +2899,14 @@
       "team": "TENNESSEE TITANS",
       "adp": 2868,
       "originalRank": 362
+    },
+    {
+      "rank": 363,
+      "name": "Damien Martinez",
+      "position": "RB",
+      "team": "GREEN BAY PACKERS",
+      "adp": 2868,
+      "originalRank": 363
     },
     {
       "rank": 364,
@@ -3069,12 +3085,36 @@
       "originalRank": 385
     },
     {
+      "rank": 386,
+      "name": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "team": "DENVER BRONCOS",
+      "adp": 2868,
+      "originalRank": 386
+    },
+    {
       "rank": 387,
       "name": "Olamide Zaccheaus",
       "position": "WR",
       "team": "CHICAGO BEARS",
       "adp": 2868,
       "originalRank": 387
+    },
+    {
+      "rank": 388,
+      "name": "Antonio Gibson",
+      "position": "RB",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 388
+    },
+    {
+      "rank": 389,
+      "name": "Greg Dortch",
+      "position": "WR",
+      "team": "ARIZONA CARDINALS",
+      "adp": 2868,
+      "originalRank": 389
     },
     {
       "rank": 390,
@@ -3109,12 +3149,36 @@
       "originalRank": 393
     },
     {
+      "rank": 394,
+      "name": "Zavier Scott",
+      "position": "RB",
+      "team": "MINNESOTA VIKINGS",
+      "adp": 2868,
+      "originalRank": 394
+    },
+    {
       "rank": 395,
       "name": "Jeremy McNichols",
       "position": "RB",
       "team": "WASHINGTON COMMANDERS",
       "adp": 2868,
       "originalRank": 395
+    },
+    {
+      "rank": 396,
+      "name": "Tyler Goodson",
+      "position": "RB",
+      "team": "INDIANAPOLIS COLTS",
+      "adp": 2868,
+      "originalRank": 396
+    },
+    {
+      "rank": 397,
+      "name": "Jarrett Stidham",
+      "position": "QB",
+      "team": "DENVER BRONCOS",
+      "adp": 2868,
+      "originalRank": 397
     },
     {
       "rank": 398,
@@ -3141,6 +3205,22 @@
       "originalRank": 400
     },
     {
+      "rank": 401,
+      "name": "Eric Rivers",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 401
+    },
+    {
+      "rank": 402,
+      "name": "Dae'Quan Wright",
+      "position": "TE",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 402
+    },
+    {
       "rank": 403,
       "name": "Marlin Klein",
       "position": "TE",
@@ -3165,6 +3245,14 @@
       "originalRank": 405
     },
     {
+      "rank": 406,
+      "name": "Josh Cameron",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 406
+    },
+    {
       "rank": 407,
       "name": "Samaje Perine",
       "position": "RB",
@@ -3181,6 +3269,14 @@
       "originalRank": 408
     },
     {
+      "rank": 409,
+      "name": "Jake Browning",
+      "position": "QB",
+      "team": "CINCINNATI BENGALS",
+      "adp": 2868,
+      "originalRank": 409
+    },
+    {
       "rank": 410,
       "name": "Mitchell Trubisky",
       "position": "QB",
@@ -3189,60 +3285,12 @@
       "originalRank": 410
     },
     {
-      "rank": 420,
-      "name": "Austin Hooper",
-      "position": "TE",
-      "team": "NEW ENGLAND PATRIOTS",
-      "adp": 420,
-      "originalRank": 420
-    },
-    {
-      "rank": 422,
-      "name": "Tai Felton",
+      "rank": 411,
+      "name": "Malachi Corley",
       "position": "WR",
-      "team": "MINNESOTA VIKINGS",
-      "adp": 422,
-      "originalRank": 422
-    },
-    {
-      "rank": 433,
-      "name": "Sterling Shepard",
-      "position": "WR",
-      "team": "TAMPA BAY BUCCANEERS",
-      "adp": 433,
-      "originalRank": 433
-    },
-    {
-      "rank": 482,
-      "name": "Patrick Ricard",
-      "position": "RB",
-      "team": "BALTIMORE RAVENS",
-      "adp": 482,
-      "originalRank": 482
-    },
-    {
-      "rank": 835,
-      "name": "Dallen Bentley",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 835,
-      "originalRank": 835
-    },
-    {
-      "rank": 1110,
-      "name": "Reggie Virgil",
-      "position": "WR",
-      "team": "N/A",
-      "adp": 1110,
-      "originalRank": 1110
-    },
-    {
-      "rank": 1324,
-      "name": "Carson Wentz",
-      "position": "QB",
-      "team": "MINNESOTA VIKINGS",
-      "adp": 1324,
-      "originalRank": 1324
+      "team": "CLEVELAND BROWNS",
+      "adp": 2868,
+      "originalRank": 411
     }
   ]
 }
