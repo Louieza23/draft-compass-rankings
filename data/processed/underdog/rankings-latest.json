@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T12:49:11.735Z",
+  "lastUpdated": "2026-03-06T18:44:57.482Z",
   "source": "underdog",
   "slate": "NFL 2026 Best Ball",
   "totalPlayers": 404,
@@ -2253,6 +2253,14 @@
       "originalRank": 281
     },
     {
+      "rank": 282,
+      "name": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "team": "DENVER BRONCOS",
+      "adp": 2861,
+      "originalRank": 282
+    },
+    {
       "rank": 283,
       "name": "Darren Waller",
       "position": "TE",
@@ -2371,6 +2379,14 @@
       "team": "N/A",
       "adp": 2863,
       "originalRank": 297
+    },
+    {
+      "rank": 298,
+      "name": "Anthony Miller",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2863,
+      "originalRank": 298
     },
     {
       "rank": 299,
@@ -2661,6 +2677,14 @@
       "originalRank": 334
     },
     {
+      "rank": 335,
+      "name": "Olamide Zaccheaus",
+      "position": "WR",
+      "team": "CHICAGO BEARS",
+      "adp": 2865,
+      "originalRank": 335
+    },
+    {
       "rank": 336,
       "name": "Kendrick Bourne",
       "position": "WR",
@@ -2723,6 +2747,14 @@
       "team": "WASHINGTON COMMANDERS",
       "adp": 2868,
       "originalRank": 343
+    },
+    {
+      "rank": 344,
+      "name": "Derrick Gore",
+      "position": "RB",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 344
     },
     {
       "rank": 345,
@@ -2813,6 +2845,14 @@
       "originalRank": 355
     },
     {
+      "rank": 356,
+      "name": "Tai Felton",
+      "position": "WR",
+      "team": "MINNESOTA VIKINGS",
+      "adp": 2868,
+      "originalRank": 356
+    },
+    {
       "rank": 357,
       "name": "Tyrell Shavers",
       "position": "WR",
@@ -2877,6 +2917,14 @@
       "originalRank": 364
     },
     {
+      "rank": 365,
+      "name": "CJ Daniels",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 365
+    },
+    {
       "rank": 366,
       "name": "Xavier Hutchinson",
       "position": "WR",
@@ -2925,12 +2973,28 @@
       "originalRank": 371
     },
     {
+      "rank": 372,
+      "name": "Tanner McKee",
+      "position": "QB",
+      "team": "PHILADELPHIA EAGLES",
+      "adp": 2868,
+      "originalRank": 372
+    },
+    {
       "rank": 373,
       "name": "Quinn Ewers",
       "position": "QB",
       "team": "MIAMI DOLPHINS",
       "adp": 2868,
       "originalRank": 373
+    },
+    {
+      "rank": 374,
+      "name": "Josh Cameron",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 374
     },
     {
       "rank": 375,
@@ -2947,6 +3011,22 @@
       "team": "CLEVELAND BROWNS",
       "adp": 2868,
       "originalRank": 376
+    },
+    {
+      "rank": 377,
+      "name": "Elijah Higgins",
+      "position": "TE",
+      "team": "ARIZONA CARDINALS",
+      "adp": 2868,
+      "originalRank": 377
+    },
+    {
+      "rank": 378,
+      "name": "Isaiah Williams",
+      "position": "WR",
+      "team": "NEW YORK JETS",
+      "adp": 2868,
+      "originalRank": 378
     },
     {
       "rank": 379,
@@ -2987,6 +3067,14 @@
       "team": "SAN FRANCISCO 49ERS",
       "adp": 2868,
       "originalRank": 383
+    },
+    {
+      "rank": 384,
+      "name": "Ben Yurosek",
+      "position": "TE",
+      "team": "MINNESOTA VIKINGS",
+      "adp": 2868,
+      "originalRank": 384
     },
     {
       "rank": 385,
@@ -3061,6 +3149,14 @@
       "originalRank": 393
     },
     {
+      "rank": 394,
+      "name": "Allen Lazard",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 394
+    },
+    {
       "rank": 395,
       "name": "Zavion Thomas",
       "position": "WR",
@@ -3077,6 +3173,22 @@
       "originalRank": 396
     },
     {
+      "rank": 397,
+      "name": "Tutu Atwell",
+      "position": "WR",
+      "team": "LOS ANGELES RAMS",
+      "adp": 2868,
+      "originalRank": 397
+    },
+    {
+      "rank": 398,
+      "name": "Malachi Corley",
+      "position": "WR",
+      "team": "CLEVELAND BROWNS",
+      "adp": 2868,
+      "originalRank": 398
+    },
+    {
       "rank": 399,
       "name": "Raheem Mostert",
       "position": "RB",
@@ -3091,6 +3203,14 @@
       "team": "N/A",
       "adp": 2868,
       "originalRank": 400
+    },
+    {
+      "rank": 401,
+      "name": "Aaron Anderson",
+      "position": "WR",
+      "team": "N/A",
+      "adp": 2868,
+      "originalRank": 401
     },
     {
       "rank": 402,
@@ -3115,126 +3235,6 @@
       "team": "CINCINNATI BENGALS",
       "adp": 2868,
       "originalRank": 404
-    },
-    {
-      "rank": 412,
-      "name": "Josh Oliver",
-      "position": "TE",
-      "team": "MINNESOTA VIKINGS",
-      "adp": 412,
-      "originalRank": 412
-    },
-    {
-      "rank": 415,
-      "name": "Mitchell Evans",
-      "position": "TE",
-      "team": "CAROLINA PANTHERS",
-      "adp": 415,
-      "originalRank": 415
-    },
-    {
-      "rank": 417,
-      "name": "Tommy Tremble",
-      "position": "TE",
-      "team": "CAROLINA PANTHERS",
-      "adp": 417,
-      "originalRank": 417
-    },
-    {
-      "rank": 420,
-      "name": "Grant Calcaterra",
-      "position": "TE",
-      "team": "PHILADELPHIA EAGLES",
-      "adp": 420,
-      "originalRank": 420
-    },
-    {
-      "rank": 437,
-      "name": "Spencer Rattler",
-      "position": "QB",
-      "team": "NEW ORLEANS SAINTS",
-      "adp": 437,
-      "originalRank": 437
-    },
-    {
-      "rank": 442,
-      "name": "Mitchell Trubisky",
-      "position": "QB",
-      "team": "BUFFALO BILLS",
-      "adp": 442,
-      "originalRank": 442
-    },
-    {
-      "rank": 458,
-      "name": "Taysom Hill",
-      "position": "TE",
-      "team": "NEW ORLEANS SAINTS",
-      "adp": 458,
-      "originalRank": 458
-    },
-    {
-      "rank": 481,
-      "name": "Zavier Scott",
-      "position": "RB",
-      "team": "MINNESOTA VIKINGS",
-      "adp": 481,
-      "originalRank": 481
-    },
-    {
-      "rank": 510,
-      "name": "Cam Akers",
-      "position": "RB",
-      "team": "SEATTLE SEAHAWKS",
-      "adp": 510,
-      "originalRank": 510
-    },
-    {
-      "rank": 518,
-      "name": "Jordan Watkins",
-      "position": "WR",
-      "team": "SAN FRANCISCO 49ERS",
-      "adp": 518,
-      "originalRank": 518
-    },
-    {
-      "rank": 815,
-      "name": "Dallen Bentley",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 815,
-      "originalRank": 815
-    },
-    {
-      "rank": 928,
-      "name": "Tanner McLachlan",
-      "position": "TE",
-      "team": "LOS ANGELES CHARGERS",
-      "adp": 928,
-      "originalRank": 928
-    },
-    {
-      "rank": 929,
-      "name": "Jack Endries",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 929,
-      "originalRank": 929
-    },
-    {
-      "rank": 1044,
-      "name": "Dae'Quan Wright",
-      "position": "TE",
-      "team": "N/A",
-      "adp": 1044,
-      "originalRank": 1044
-    },
-    {
-      "rank": 1211,
-      "name": "Dean Conners",
-      "position": "RB",
-      "team": "N/A",
-      "adp": 1211,
-      "originalRank": 1211
     }
   ]
 }
