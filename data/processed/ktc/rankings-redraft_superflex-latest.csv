@@ -4,7 +4,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 3,"Bijan Robinson",RB,ATL,9880,1,24.1,204,135,189
 4,"Jahmyr Gibbs",RB,DET,9668,2,24,204,142,187
 5,"Puka Nacua",WR,LAR,9402,2,24.8,92,62,84
-6,"Lamar Jackson",QB,BAL,9304,2,29.2,347,155,275
+6,"Lamar Jackson",QB,BAL,9245,2,29.2,347,155,276
 7,"Jayden Daniels",QB,WAS,8980,3,25.3,188,78,87
 8,"CeeDee Lamb",WR,DAL,8533,3,27,312,219,289
 9,"Amon-Ra St. Brown",WR,DET,8412,4,26.4,393,160,235
@@ -22,7 +22,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 21,"Jonathan Taylor",RB,IND,7556,6,27.2,532,283,334
 22,"Drake London",WR,ATL,7556,8,24.7,207,161,164
 23,"Justin Herbert",QB,LAC,7521,7,28,294,165,192
-24,"Saquon Barkley",RB,PHI,7431,7,29.1,246,399,274
+24,"Saquon Barkley",RB,PHI,7446,7,29.1,247,399,274
 25,"Nico Collins",WR,HOU,7206,9,27,252,168,200
 26,"Patrick Mahomes",QB,KCC,7200,8,30.5,406,113,180
 27,"Caleb Williams",QB,CHI,7084,9,24.3,114,87,73
@@ -71,7 +71,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 70,"Travis Hunter",WR,JAC,5539,28,22.8,29,13,37
 71,"Courtland Sutton",WR,DEN,5521,29,30.4,192,196,226
 72,"Colston Loveland",TE,CHI,5489,6,22,38,15,21
-73,"Jaylen Waddle",WR,DEN,5486,30,27.3,309,142,209
+73,"Jaylen Waddle",WR,DEN,5474,30,27.3,309,142,210
 74,"Jaxson Dart",QB,NYG,5463,19,22.9,42,8,6
 75,"Makai Lemon",WR,FA,5446,31,-1,,,1
 76,"RJ Harvey",RB,DEN,5386,20,25.1,24,20,26
@@ -133,15 +133,15 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 132,"Matthew Stafford",QB,LAR,4242,29,38.1,136,126,164
 133,"Travis Kelce",TE,KCC,4214,14,36.5,220,392,378
 134,"Deebo Samuel",WR,WAS,4180,52,30.2,280,175,225
-135,"Jayden Reed",WR,GBP,4136,53,25.9,40,55,52
-136,"Josh Downs",WR,IND,4067,54,24.6,94,81,81
-137,"Chris Godwin",WR,TBB,4055,55,30.1,161,196,269
+135,"Jayden Reed",WR,GBP,4134,53,25.9,40,55,53
+136,"Wan'Dale Robinson",WR,TEN,4106,54,25.2,102,62,79
+137,"Josh Downs",WR,IND,4067,55,24.6,94,81,81
 138,"Rashid Shaheed",WR,SEA,4052,56,27.6,27,36,44
-139,"Wan'Dale Robinson",WR,TEN,4045,57,25.2,101,62,79
-140,"Jauan Jennings",WR,SFO,4024,58,28.7,5,10,14
-141,"Omar Cooper Jr.",WR,FA,4017,59,-1,3,1,2
-142,"Nicholas Singleton",RB,FA,4010,40,-1,1,2,2
-143,"Aaron Jones",RB,MIN,3998,41,31.3,133,309,238
+139,"Jauan Jennings",WR,SFO,4024,57,28.7,5,10,14
+140,"Omar Cooper Jr.",WR,FA,4017,58,-1,3,1,2
+141,"Nicholas Singleton",RB,FA,4010,40,-1,1,2,2
+142,"Aaron Jones",RB,MIN,3998,41,31.3,133,309,238
+143,"Chris Godwin",WR,TBB,3995,59,30.1,161,197,269
 144,"Tre Harris",WR,LAC,3954,60,24.1,31,15,23
 145,"Brandon Aiyuk",WR,SFO,3951,61,28,240,223,273
 146,"Ollie Gordon",RB,MIA,3907,42,22.2,15,14,16
