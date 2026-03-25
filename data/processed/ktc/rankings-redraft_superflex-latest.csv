@@ -1,7 +1,7 @@
 Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 1,"Ja'Marr Chase",WR,CIN,9966,1,26.1,442,169,331
 2,"Josh Allen",QB,BUF,9907,1,29.8,475,93,207
-3,"Bijan Robinson",RB,ATL,9880,1,24.1,204,135,189
+3,"Bijan Robinson",RB,ATL,9880,1,24.2,204,135,189
 4,"Jahmyr Gibbs",RB,DET,9668,2,24,204,142,187
 5,"Puka Nacua",WR,LAR,9402,2,24.8,92,62,84
 6,"Lamar Jackson",QB,BAL,9245,2,29.2,347,155,276
@@ -25,14 +25,14 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 24,"Saquon Barkley",RB,PHI,7446,7,29.1,247,399,274
 25,"Nico Collins",WR,HOU,7206,9,27,252,168,200
 26,"Patrick Mahomes",QB,KCC,7200,8,30.5,406,113,180
-27,"Caleb Williams",QB,CHI,7084,9,24.3,114,87,73
+27,"Caleb Williams",QB,CHI,7084,9,24.4,114,87,73
 28,"James Cook",RB,BUF,7063,8,26.5,145,121,150
 29,"Tetairoa McMillan",WR,CAR,7014,10,23,43,30,31
 30,"Omarion Hampton",RB,LAC,6956,9,23,54,31,25
 31,"Bucky Irving",RB,TBB,6901,10,23.6,100,51,63
 32,"Josh Jacobs",RB,GBP,6712,11,28.1,242,223,250
 33,"Ladd McConkey",WR,LAC,6708,11,24.4,91,59,76
-34,"Brian Thomas Jr.",WR,JAC,6706,12,23.4,102,79,74
+34,"Brian Thomas Jr.",WR,JAC,6706,12,23.5,102,79,74
 35,"Emeka Egbuka",WR,TBB,6682,13,23.4,46,18,27
 36,"Jeremiyah Love",RB,FA,6659,12,-1,8,1,1
 37,"Tyler Warren",TE,IND,6560,3,23.8,46,15,29
@@ -96,7 +96,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 95,"Zach Charbonnet",RB,SEA,5006,25,25.2,76,63,88
 96,"Jaylen Warren",RB,PIT,4996,26,27.4,115,57,90
 97,"Jerry Jeudy",WR,CLE,4978,40,26.9,234,134,239
-98,"Calvin Ridley",WR,TEN,4889,41,31.2,30,199,77
+98,"Calvin Ridley",WR,TEN,4889,41,31.3,30,199,77
 99,"Tony Pollard",RB,TEN,4868,27,28.9,247,163,205
 100,"Javonte Williams",RB,DAL,4856,28,25.9,236,181,180
 101,"Denzel Boston",WR,FA,4837,42,-1,3,,
@@ -145,7 +145,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 144,"Tre Harris",WR,LAC,3954,60,24.1,31,15,23
 145,"Brandon Aiyuk",WR,SFO,3951,61,28,240,223,273
 146,"Ollie Gordon",RB,MIA,3907,42,22.2,15,14,16
-147,"Mark Andrews",TE,BAL,3833,15,30.5,221,178,245
+147,"Mark Andrews",TE,BAL,3833,15,30.6,221,178,245
 148,"Troy Franklin",WR,DEN,3807,62,23.1,45,57,33
 149,"Keenan Allen",WR,LAC,3798,63,33.9,111,204,187
 150,"Malachi Fields",WR,FA,3796,64,-1,1,1,2
@@ -167,15 +167,15 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 166,"Cooper Kupp",WR,SEA,3525,68,32.8,290,208,220
 167,"Tory Horton",WR,SEA,3518,69,23.3,13,3,7
 168,"Jaylin Noel",WR,HOU,3510,70,23.6,9,4,5
-169,"Christian Kirk",WR,SFO,3468,71,29.3,197,86,134
+169,"Christian Kirk",WR,SFO,3468,71,29.4,197,86,134
 170,"Zachariah Branch",WR,FA,3457,72,-1,2,1,2
 171,"Harold Fannin",TE,CLE,3416,21,21.7,21,4,8
 172,"Brian Robinson",RB,SFO,3389,50,27,121,99,122
 173,"Marvin Mims",WR,DEN,3366,73,24,92,59,92
 174,"Tyler Allgeier",RB,ARI,3365,51,25.9,108,74,118
-175,"Romeo Doubs",WR,NEP,3360,74,25.9,114,64,98
+175,"Romeo Doubs",WR,NEP,3360,74,26,114,64,98
 176,"Rachaad White",RB,WAS,3353,52,27.2,102,80,119
-177,"Quentin Johnston",WR,LAC,3351,75,24.5,84,75,71
+177,"Quentin Johnston",WR,LAC,3351,75,24.6,84,75,71
 178,"Blake Corum",RB,LAR,3348,53,25.3,52,38,41
 179,"Tyler Shough",QB,NOS,3343,30,26.5,19,6,10
 180,"Chris Rodriguez",RB,JAC,3297,54,25.5,4,8,9
@@ -197,7 +197,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 196,"Xavier Legette",WR,CAR,3008,82,25.2,67,53,61
 197,"Ray Davis",RB,BUF,3000,58,26.4,26,13,17
 198,"Chris Bell",WR,FA,2999,83,-1,2,2,2
-199,"Adonai Mitchell",WR,NYJ,2988,84,23.4,52,34,40
+199,"Adonai Mitchell",WR,NYJ,2988,84,23.5,52,34,40
 200,"Roman Wilson",WR,PIT,2966,85,24.8,43,21,29
 201,"Trinidad Chambliss",QB,FA,2917,34,-1,3,1,
 202,"Jalen McMillan",WR,TBB,2916,86,24.3,59,28,30
@@ -291,7 +291,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 290,"Damien Martinez",RB,GBP,1640,83,22.1,4,7,3
 291,"Barion Brown",WR,FA,1610,121,-1,,,
 292,"Juwan Johnson",TE,NOS,1591,45,29.5,23,2,8
-293,"Oronde Gadsden",TE,LAC,1585,46,22.7,10,,3
+293,"Oronde Gadsden",TE,LAC,1585,46,22.8,10,,3
 294,"Jacob Cowing",WR,SFO,1582,122,25.1,5,6,10
 295,"Deion Burks",WR,FA,1580,123,-1,,,
 296,"Luke Altmyer",QB,FA,1550,44,-1,,,
