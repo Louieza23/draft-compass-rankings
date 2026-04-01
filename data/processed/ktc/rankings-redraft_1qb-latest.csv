@@ -43,7 +43,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 42,"Justin Herbert",QB,LAC,6719,5,28,601,499,475
 43,"Joe Burrow",QB,CIN,6707,6,29.3,646,498,489
 44,"Jayden Daniels",QB,WAS,6692,7,25.3,365,321,244
-45,"Josh Jacobs",RB,GBP,6686,17,28.1,638,625,638
+45,"Josh Jacobs",RB,GBP,6672,17,28.1,638,625,639
 46,"Kenneth Walker III",RB,KCC,6594,18,25.4,522,493,568
 47,"Jalen Hurts",QB,PHI,6534,8,27.6,698,544,584
 48,"Caleb Williams",QB,CHI,6532,9,24.4,260,249,175
@@ -58,11 +58,11 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 57,"Brian Thomas Jr.",WR,JAC,6207,23,23.5,351,372,273
 58,"Davante Adams",WR,LAR,6188,24,33.3,635,717,804
 59,"DeVonta Smith",WR,PHI,6147,25,27.4,635,524,680
-60,"Jaylen Waddle",WR,DEN,6127,26,27.3,729,485,611
-61,"Zay Flowers",WR,BAL,6105,27,25.6,456,419,485
-62,"Cam Skattebo",RB,NYG,6101,21,24.2,172,151,155
-63,"Jordyn Tyson",WR,FA,6100,28,-1,9,6,4
-64,"Makai Lemon",WR,FA,6072,29,-1,6,7,1
+60,"Makai Lemon",WR,FA,6134,26,-1,7,7,1
+61,"Jaylen Waddle",WR,DEN,6127,27,27.3,729,485,611
+62,"Zay Flowers",WR,BAL,6105,28,25.6,456,419,485
+63,"Cam Skattebo",RB,NYG,6101,21,24.2,172,151,155
+64,"Jordyn Tyson",WR,FA,6100,29,-1,9,6,4
 65,"Dak Prescott",QB,DAL,5926,11,32.7,416,523,404
 66,"Tucker Kraft",TE,GBP,5908,5,25.4,106,92,91
 67,"Kyle Pitts",TE,ATL,5885,6,25.5,589,481,548
@@ -74,12 +74,12 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 73,"Brock Purdy",QB,SFO,5731,14,26.2,191,186,164
 74,"Travis Etienne",RB,NOS,5723,22,27.2,715,705,516
 75,"Zach Charbonnet",RB,SEA,5717,23,25.2,324,347,352
-76,"Chuba Hubbard",RB,CAR,5675,24,26.8,533,433,472
-77,"Jake Ferguson",TE,DAL,5639,9,27.2,216,214,220
-78,"Michael Pittman",WR,PIT,5632,31,28.5,602,410,513
-79,"Harold Fannin",TE,CLE,5632,10,21.7,103,29,39
-80,"Travis Hunter",WR,JAC,5629,32,22.9,140,103,128
-81,"D'Andre Swift",RB,CHI,5627,25,27.2,568,540,601
+76,"Jake Ferguson",TE,DAL,5639,9,27.2,216,214,220
+77,"Michael Pittman",WR,PIT,5632,31,28.5,602,410,513
+78,"Harold Fannin",TE,CLE,5632,10,21.7,103,29,39
+79,"Travis Hunter",WR,JAC,5629,32,22.9,140,103,128
+80,"D'Andre Swift",RB,CHI,5627,24,27.2,568,540,601
+81,"Chuba Hubbard",RB,CAR,5627,25,26.8,533,434,472
 82,"RJ Harvey",RB,DEN,5593,26,25.2,108,98,85
 83,"Dalton Kincaid",TE,BUF,5589,11,26.4,441,364,345
 84,"Baker Mayfield",QB,TBB,5570,15,31,395,474,349
