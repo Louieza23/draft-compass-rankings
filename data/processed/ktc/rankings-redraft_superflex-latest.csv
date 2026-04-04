@@ -22,7 +22,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 21,"Drake London",WR,ATL,7564,8,24.7,207,161,165
 22,"Jonathan Taylor",RB,IND,7548,6,27.2,532,283,335
 23,"Justin Herbert",QB,LAC,7529,7,28.1,294,165,193
-24,"Saquon Barkley",RB,PHI,7446,7,29.1,247,399,274
+24,"Saquon Barkley",RB,PHI,7446,7,29.2,247,399,274
 25,"Patrick Mahomes",QB,KCC,7199,8,30.5,406,113,180
 26,"Nico Collins",WR,HOU,7161,9,27,253,169,201
 27,"Caleb Williams",QB,CHI,7084,9,24.4,114,87,73
@@ -84,7 +84,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 83,"Alvin Kamara",RB,NOS,5258,22,30.7,223,496,321
 84,"D.J. Moore",WR,BUF,5247,34,29,211,203,247
 85,"Jordan Addison",WR,MIN,5192,35,24.2,118,96,124
-86,"Cam Ward",QB,TEN,5183,23,23.8,44,16,25
+86,"Cam Ward",QB,TEN,5183,23,23.9,44,16,25
 87,"Michael Penix Jr.",QB,ATL,5178,24,25.9,79,50,52
 88,"Ricky Pearsall",WR,SFO,5177,36,25.6,69,40,54
 89,"Tucker Kraft",TE,GBP,5153,7,25.4,22,16,22
@@ -126,7 +126,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 125,"Kenyon Sadiq",TE,FA,4412,12,-1,2,,5
 126,"KC Concepcion",WR,FA,4335,50,-1,5,2,1
 127,"Stefon Diggs",WR,FA,4311,51,32.3,270,294,290
-128,"Dalton Kincaid",TE,BUF,4310,13,26.4,118,70,82
+128,"Dalton Kincaid",TE,BUF,4310,13,26.5,118,70,82
 129,"J.K. Dobbins",RB,DEN,4290,38,27.3,176,224,180
 130,"Jonah Coleman",RB,FA,4288,39,-1,1,2,
 131,"Daniel Jones",QB,IND,4268,28,28.8,139,102,94
@@ -230,7 +230,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 229,"Ja'Kobi Lane",WR,FA,2511,92,-1,1,,
 230,"Noah Fant",TE,NOS,2508,34,28.4,119,175,181
 231,"Roschon Johnson",RB,CHI,2499,69,25.2,97,59,60
-232,"Kareem Hunt",RB,KCC,2498,70,30.6,139,190,184
+232,"Kareem Hunt",RB,KCC,2498,70,30.7,139,190,184
 233,"Darius Slayton",WR,NYG,2492,93,29.2,103,80,117
 234,"Michael Mayer",TE,LVR,2480,35,24.7,50,69,72
 235,"Dawson Knox",TE,BUF,2452,36,29.4,218,97,125
@@ -259,7 +259,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 258,"Max Klare",TE,FA,2124,42,-1,1,2,
 259,"Tyquan Thornton",WR,KCC,2094,103,25.6,63,55,81
 260,"Skyler Bell",WR,FA,2070,104,-1,,,3
-261,"Kirk Cousins",QB,FA,2020,40,37.6,135,99,119
+261,"Kirk Cousins",QB,LVR,2020,40,37.6,135,99,119
 262,"Jalen Tolbert",WR,MIA,2012,105,27.1,55,76,58
 263,"Jack Endries",TE,FA,2004,43,-1,,,
 264,"Jameis Winston",QB,NYG,1995,41,32.2,81,97,94
@@ -296,6 +296,6 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 295,"Luke Altmyer",QB,FA,1550,44,-1,,,
 296,"Jacob Cowing",WR,SFO,1544,123,25.2,5,7,10
 297,"Hunter Renfrow",WR,FA,1524,124,30.3,177,88,156
-298,"Malik Willis",QB,MIA,1524,45,26.8,47,48,48
+298,"Malik Willis",QB,MIA,1524,45,26.9,47,48,48
 299,"Jam Miller",RB,FA,1523,84,-1,,,
 300,"Le'Veon Moss",RB,FA,1502,85,-1,,,
