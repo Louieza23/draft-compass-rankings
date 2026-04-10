@@ -6,7 +6,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 5,"Ja'Marr Chase",WR,CIN,9831,3,26.1,1204,410,758
 6,"Josh Allen",QB,BUF,8878,1,29.9,807,630,681
 7,"De'Von Achane",RB,MIA,8666,3,24.5,503,443,499
-8,"Amon-Ra St. Brown",WR,DET,8480,4,26.4,828,547,676
+8,"Amon-Ra St. Brown",WR,DET,8480,4,26.5,828,547,676
 9,"Ashton Jeanty",RB,LVR,8440,4,22.4,181,148,145
 10,"Jonathan Taylor",RB,IND,8396,5,27.2,1004,661,714
 11,"Malik Nabers",WR,NYG,8363,5,22.7,456,428,395
@@ -25,7 +25,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 24,"Christian McCaffrey",RB,SFO,7616,9,29.8,1107,720,833
 25,"Tyler Warren",TE,IND,7552,3,23.9,161,101,126
 26,"Emeka Egbuka",WR,TBB,7492,11,23.5,165,126,137
-27,"Nico Collins",WR,HOU,7454,12,27,622,495,570
+27,"Nico Collins",WR,HOU,7454,12,27.1,622,495,570
 28,"Bucky Irving",RB,TBB,7335,10,23.6,317,233,261
 29,"Quinshon Judkins",RB,CLE,7060,11,22.4,130,81,116
 30,"Saquon Barkley",RB,PHI,7055,12,29.2,748,781,694
@@ -36,7 +36,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 35,"Rashee Rice",WR,KCC,6972,15,26,434,368,365
 36,"TreVeyon Henderson",RB,NEP,6945,14,23.5,141,135,121
 37,"Kyren Williams",RB,LAR,6821,15,25.6,521,416,451
-38,"Breece Hall",RB,NYJ,6789,16,24.8,629,527,536
+38,"Breece Hall",RB,NYJ,6789,16,24.9,629,527,536
 39,"Colston Loveland",TE,CHI,6755,4,22,125,90,101
 40,"Garrett Wilson",WR,NYJ,6737,16,25.7,565,499,531
 41,"Justin Herbert",QB,LAC,6719,5,28.1,601,499,475
@@ -97,7 +97,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 96,"D.J. Moore",WR,BUF,5322,40,29,531,507,705
 97,"David Montgomery",RB,HOU,5311,29,28.8,529,574,577
 98,"Courtland Sutton",WR,DEN,5273,41,30.5,449,449,481
-99,"Wan'Dale Robinson",WR,TEN,5251,42,25.2,287,229,260
+99,"Wan'Dale Robinson",WR,TEN,5251,42,25.3,287,229,260
 100,"Matthew Golden",WR,GBP,5189,43,22.7,114,99,65
 101,"Jonah Coleman",RB,FA,5158,30,-1,6,6,3
 102,"KC Concepcion",WR,FA,5142,44,-1,7,3,2
@@ -117,7 +117,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 116,"Romeo Doubs",WR,NEP,4818,51,26,331,279,346
 117,"Travis Kelce",TE,KCC,4797,13,36.5,598,734,785
 118,"Omar Cooper Jr.",WR,FA,4767,52,-1,5,4,3
-119,"Josh Downs",WR,IND,4762,53,24.6,306,302,276
+119,"Josh Downs",WR,IND,4762,53,24.7,306,302,276
 120,"Tyrone Tracy",RB,NYG,4740,34,26.4,97,112,90
 121,"Rhamondre Stevenson",RB,NEP,4735,35,28.1,521,339,426
 122,"Rashid Shaheed",WR,SEA,4725,54,27.6,136,137,168
@@ -174,7 +174,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 173,"Ollie Gordon",RB,MIA,3742,50,22.2,58,70,69
 174,"Brian Robinson",RB,ATL,3692,51,27,448,379,384
 175,"Tyreek Hill",WR,FA,3685,75,32.1,625,710,738
-176,"Marvin Mims",WR,DEN,3652,76,24,285,249,230
+176,"Marvin Mims",WR,DEN,3652,76,24.1,285,249,230
 177,"Mike Washington Jr.",RB,FA,3624,52,-1,4,1,3
 178,"Ja'Kobi Lane",WR,FA,3601,77,-1,4,,
 179,"Jaylin Noel",WR,HOU,3599,78,23.6,56,47,48
@@ -190,7 +190,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 189,"Ray Davis",RB,BUF,3320,55,26.4,120,70,91
 190,"Pat Freiermuth",TE,PIT,3311,26,27.4,431,291,412
 191,"James Conner",RB,ARI,3298,56,30.9,542,475,454
-192,"Dalton Schultz",TE,HOU,3280,27,29.7,401,252,317
+192,"Dalton Schultz",TE,HOU,3280,27,29.8,401,252,317
 193,"Ja'Tavion Sanders",TE,CAR,3252,28,23,140,139,125
 194,"Chigoziem Okonkwo",TE,WAS,3250,29,26.6,212,160,184
 195,"Tua Tagovailoa",QB,ATL,3249,29,28.1,429,386,400
@@ -219,13 +219,13 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 218,"Luke Musgrave",TE,GBP,2790,34,25.6,309,296,309
 219,"Jonnu Smith",TE,FA,2780,35,30.6,284,271,289
 220,"Kareem Hunt",RB,KCC,2771,66,30.7,325,406,341
-221,"Joshua Palmer",WR,BUF,2751,93,26.5,412,356,449
+221,"Joshua Palmer",WR,BUF,2751,93,26.6,412,356,449
 222,"Trevor Etienne",RB,CAR,2699,67,21.8,66,59,53
 223,"Tank Dell",WR,HOU,2656,94,26.4,143,149,153
 224,"Trinidad Chambliss",QB,FA,2650,31,-1,3,3,3
 225,"Terrance Ferguson",TE,LAR,2631,36,23.1,41,42,27
 226,"Shedeur Sanders",QB,CLE,2623,32,24.2,50,38,34
-227,"MarShawn Lloyd",RB,GBP,2608,68,25.2,159,126,132
+227,"MarShawn Lloyd",RB,GBP,2608,68,25.3,159,126,132
 228,"Max Klare",TE,FA,2607,37,-1,1,4,1
 229,"Jalen Royals",WR,KCC,2591,95,23.1,46,47,40
 230,"Dawson Knox",TE,BUF,2570,38,29.4,455,344,404
@@ -238,7 +238,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 237,"Jonathon Brooks",RB,CAR,2445,71,22.7,214,217,158
 238,"Najee Harris",RB,LAC,2442,72,28.1,436,487,544
 239,"Ted Hurst",WR,FA,2433,99,-1,3,3,1
-240,"Devin Neal",RB,NOS,2393,74,22.6,47,45,45
+240,"Devin Neal",RB,NOS,2393,74,22.7,47,45,45
 241,"Jahan Dotson",WR,ATL,2391,100,26,241,231,257
 242,"Roschon Johnson",RB,CHI,2350,75,25.2,263,246,216
 243,"Tyler Higbee",TE,LAR,2346,40,33.3,294,366,409
