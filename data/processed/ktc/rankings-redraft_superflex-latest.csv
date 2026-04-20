@@ -18,31 +18,31 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 17,"Jalen Hurts",QB,PHI,7928,6,27.7,315,168,178
 18,"De'Von Achane",RB,MIA,7768,4,24.5,135,116,144
 19,"Drake London",WR,ATL,7614,8,24.7,208,161,165
-20,"Trey McBride",TE,ARI,7599,2,26.4,186,134,169
-21,"Christian McCaffrey",RB,SFO,7555,5,29.9,483,401,420
-22,"Jonathan Taylor",RB,IND,7548,6,27.2,532,283,335
+20,"Trey McBride",TE,ARI,7587,2,26.4,186,134,170
+21,"Jonathan Taylor",RB,IND,7548,5,27.2,532,283,335
+22,"Christian McCaffrey",RB,SFO,7547,6,29.9,483,401,421
 23,"Justin Herbert",QB,LAC,7529,7,28.1,294,165,193
 24,"Saquon Barkley",RB,PHI,7436,7,29.2,247,399,275
 25,"Patrick Mahomes",QB,KCC,7199,8,30.6,406,113,180
-26,"Nico Collins",WR,HOU,7161,9,27.1,253,169,201
-27,"Caleb Williams",QB,CHI,7084,9,24.4,114,87,73
+26,"Caleb Williams",QB,CHI,7145,9,24.4,115,87,73
+27,"Nico Collins",WR,HOU,7102,9,27.1,253,170,201
 28,"James Cook",RB,BUF,7068,8,26.6,146,122,150
-29,"Tetairoa McMillan",WR,CAR,6984,10,23,43,31,32
-30,"Omarion Hampton",RB,LAC,6962,9,23.1,54,31,26
+29,"Omarion Hampton",RB,LAC,7029,9,23.1,55,31,26
+30,"Tetairoa McMillan",WR,CAR,6984,10,23,43,31,32
 31,"Bucky Irving",RB,TBB,6957,10,23.7,101,51,63
-32,"Emeka Egbuka",WR,TBB,6734,11,23.5,47,18,28
-33,"Josh Jacobs",RB,GBP,6708,11,28.2,243,224,250
-34,"Ladd McConkey",WR,LAC,6708,12,24.5,91,59,76
+32,"Josh Jacobs",RB,GBP,6708,11,28.2,243,224,250
+33,"Ladd McConkey",WR,LAC,6708,11,24.5,91,59,76
+34,"Emeka Egbuka",WR,TBB,6685,12,23.5,47,19,28
 35,"Brian Thomas Jr.",WR,JAC,6648,13,23.5,102,80,74
 36,"Jeremiyah Love",RB,FA,6648,12,-1,9,2,2
 37,"Chase Brown",RB,CIN,6587,13,26.1,92,60,77
-38,"Bo Nix",QB,DEN,6538,10,26.1,114,65,62
-39,"Tyler Warren",TE,IND,6498,3,23.9,46,16,30
+38,"Bo Nix",QB,DEN,6538,10,26.2,114,65,62
+39,"Tyler Warren",TE,IND,6496,3,23.9,46,16,31
 40,"Rome Odunze",WR,CHI,6469,14,23.9,113,88,93
 41,"Kyren Williams",RB,LAR,6442,14,25.6,153,103,137
-42,"Baker Mayfield",QB,TBB,6436,11,31,199,149,142
+42,"Jordan Love",QB,GBP,6437,11,27.5,228,104,110
 43,"George Pickens",WR,DAL,6435,15,25.1,163,130,146
-44,"Jordan Love",QB,GBP,6375,12,27.5,227,104,110
+44,"Baker Mayfield",QB,TBB,6376,12,31,199,150,142
 45,"Derrick Henry",RB,BAL,6371,15,32.3,269,459,342
 46,"Garrett Wilson",WR,NYJ,6347,16,25.7,190,130,151
 47,"Brock Purdy",QB,SFO,6294,13,26.3,84,62,80
@@ -63,7 +63,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 62,"Zay Flowers",WR,BAL,5735,23,25.6,136,99,129
 63,"Jared Goff",QB,DET,5702,18,31.5,175,86,94
 64,"Davante Adams",WR,LAR,5664,24,33.3,259,368,395
-65,"DK Metcalf",WR,PIT,5662,25,28.3,181,248,307
+65,"DK Metcalf",WR,PIT,5662,25,28.4,181,248,307
 66,"Sam LaPorta",TE,DET,5628,4,25.3,180,139,154
 67,"Colston Loveland",TE,CHI,5614,5,22,40,15,21
 68,"Jaylen Waddle",WR,DEN,5598,26,27.4,311,142,211
@@ -83,7 +83,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 82,"Alvin Kamara",RB,NOS,5258,22,30.7,223,496,321
 83,"D.J. Moore",WR,BUF,5249,34,29,211,203,248
 84,"J.J. McCarthy",QB,MIN,5230,22,23.2,99,64,41
-85,"Tucker Kraft",TE,GBP,5215,7,25.4,23,16,22
+85,"Tucker Kraft",TE,GBP,5215,7,25.5,23,16,22
 86,"Jordan Addison",WR,MIN,5192,35,24.2,118,96,124
 87,"Cam Ward",QB,TEN,5183,23,23.9,44,16,25
 88,"Michael Penix Jr.",QB,ATL,5179,24,26,79,50,53
@@ -132,7 +132,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 131,"Matthew Stafford",QB,LAR,4242,29,38.2,136,126,164
 132,"Travis Kelce",TE,KCC,4214,14,36.5,220,392,378
 133,"Stefon Diggs",WR,FA,4195,51,32.4,270,296,290
-134,"Deebo Samuel",WR,WAS,4179,52,30.2,280,175,225
+134,"Deebo Samuel",WR,WAS,4179,52,30.3,280,175,225
 135,"Wan'Dale Robinson",WR,TEN,4165,53,25.3,103,62,79
 136,"Jayden Reed",WR,GBP,4133,54,26,40,55,55
 137,"Josh Downs",WR,IND,4125,55,24.7,95,81,83
@@ -144,7 +144,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 143,"Tre Harris",WR,LAC,3953,59,24.1,31,15,23
 144,"Brandon Aiyuk",WR,SFO,3951,60,28.1,240,223,273
 145,"Rashid Shaheed",WR,SEA,3935,61,27.6,27,38,44
-146,"Ollie Gordon",RB,MIA,3906,42,22.2,15,14,16
+146,"Ollie Gordon",RB,MIA,3906,42,22.3,15,14,16
 147,"Troy Franklin",WR,DEN,3807,62,23.2,45,57,33
 148,"Keenan Allen",WR,LAC,3797,63,34,111,204,187
 149,"Tank Bigsby",RB,PHI,3776,43,24.6,78,57,76
@@ -192,7 +192,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 191,"Aaron Rodgers",QB,PIT,3106,33,42.4,104,165,121
 192,"Jalen McMillan",WR,TBB,3090,80,24.4,62,28,30
 193,"Hunter Henry",TE,NEP,3062,23,31.4,143,136,167
-194,"Jonnu Smith",TE,FA,3054,24,30.6,111,116,135
+194,"Jonnu Smith",TE,FA,3054,24,30.7,111,116,135
 195,"Adonai Mitchell",WR,NYJ,3050,81,23.5,53,34,40
 196,"Xavier Legette",WR,CAR,3008,82,25.2,67,53,61
 197,"Ray Davis",RB,BUF,3000,58,26.4,26,13,17
@@ -216,7 +216,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 215,"Dalton Schultz",TE,HOU,2739,31,29.8,176,60,133
 216,"Jaylen Wright",RB,MIA,2721,61,23,45,24,25
 217,"Kaytron Allen",RB,FA,2705,62,-1,1,,
-218,"Adam Thielen",WR,FA,2694,89,35.6,111,196,241
+218,"Adam Thielen",WR,FA,2694,89,35.7,111,196,241
 219,"Will Shipley",RB,PHI,2691,63,23.6,27,29,34
 220,"Emmett Johnson",RB,FA,2681,64,-1,1,1,1
 221,"Jalen Royals",WR,KCC,2634,90,23.2,6,8,3
@@ -236,7 +236,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 235,"Noah Fant",TE,NOS,2447,36,28.4,119,176,181
 236,"Devin Neal",RB,NOS,2427,71,22.7,16,13,14
 237,"Noah Gray",TE,KCC,2411,37,27,64,60,56
-238,"Jordan James",RB,SFO,2402,72,22,13,5,7
+238,"Jordan James",RB,SFO,2402,72,22.1,13,5,7
 239,"Kenneth Gainwell",RB,TBB,2397,73,27.1,223,116,168
 240,"Spencer Rattler",QB,NOS,2397,37,25.6,9,9,3
 241,"Darren Waller",TE,MIA,2378,38,33.6,84,238,162
@@ -248,7 +248,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 247,"Tyler Lockett",WR,LVR,2301,96,33.6,112,222,227
 248,"Kendrick Bourne",WR,ARI,2292,97,30.7,97,58,104
 249,"Germie Bernard",WR,FA,2291,98,-1,,1,1
-250,"Jonathon Brooks",RB,CAR,2276,75,22.7,56,50,42
+250,"Jonathon Brooks",RB,CAR,2276,75,22.8,56,50,42
 251,"Eli Stowers",TE,FA,2246,40,-1,2,2,1
 252,"Dillon Gabriel",QB,CLE,2233,39,25.3,8,5,17
 253,"Antonio Williams",WR,FA,2193,99,-1,1,,2
