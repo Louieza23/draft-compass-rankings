@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T07:50:27.369Z",
+  "lastUpdated": "2026-04-21T13:26:47.273Z",
   "source": "ktc",
   "format": "redraft_1qb",
   "formatName": "Redraft 1QB",
@@ -2980,13 +2980,13 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "value": 3151,
+      "value": 3148,
       "rank": 199,
       "positionRank": 86,
       "age": 26.4,
       "kept": 414,
       "traded": 309,
-      "cut": 417,
+      "cut": 418,
       "overallTier": 14,
       "positionTier": 16
     },
@@ -3081,27 +3081,12 @@
       "positionTier": 15
     },
     {
-      "playerId": 569,
-      "name": "Cole Kmet",
-      "position": "TE",
-      "team": "CHI",
-      "value": 3008,
-      "rank": 206,
-      "positionRank": 31,
-      "age": 27.1,
-      "kept": 374,
-      "traded": 296,
-      "cut": 381,
-      "overallTier": 15,
-      "positionTier": 9
-    },
-    {
       "playerId": 1329,
       "name": "Jerome Ford",
       "position": "RB",
       "team": "WAS",
       "value": 2995,
-      "rank": 207,
+      "rank": 206,
       "positionRank": 61,
       "age": 26.6,
       "kept": 254,
@@ -3109,6 +3094,21 @@
       "cut": 252,
       "overallTier": 15,
       "positionTier": 15
+    },
+    {
+      "playerId": 569,
+      "name": "Cole Kmet",
+      "position": "TE",
+      "team": "CHI",
+      "value": 2949,
+      "rank": 207,
+      "positionRank": 31,
+      "age": 27.1,
+      "kept": 374,
+      "traded": 297,
+      "cut": 381,
+      "overallTier": 15,
+      "positionTier": 10
     },
     {
       "playerId": 1479,
