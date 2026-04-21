@@ -7,13 +7,13 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 6,"Josh Allen",QB,BUF,9011,1,29.9,811,632,683
 7,"De'Von Achane",RB,MIA,8557,3,24.5,503,446,500
 8,"Ashton Jeanty",RB,LVR,8453,4,22.4,183,150,147
-9,"Brock Bowers",TE,LVR,8441,1,23.4,396,394,387
+9,"Brock Bowers",TE,LVR,8435,1,23.4,396,394,388
 10,"Amon-Ra St. Brown",WR,DET,8384,4,26.5,828,549,678
 11,"Jonathan Taylor",RB,IND,8375,5,27.2,1004,661,717
 12,"Malik Nabers",WR,NYG,8197,5,22.7,456,431,398
-13,"Trey McBride",TE,ARI,8123,2,26.4,573,478,484
+13,"Trey McBride",TE,ARI,8185,2,26.4,574,478,484
 14,"CeeDee Lamb",WR,DAL,8097,6,27,907,517,784
-15,"Omarion Hampton",RB,LAC,8040,6,23.1,187,130,129
+15,"Omarion Hampton",RB,LAC,7984,6,23.1,187,131,129
 16,"Tetairoa McMillan",WR,CAR,7957,7,23,166,153,130
 17,"Drake London",WR,ATL,7954,8,24.7,546,519,538
 18,"Justin Jefferson",WR,MIN,7833,9,26.8,1367,388,747
@@ -50,14 +50,14 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 49,"A.J. Brown",WR,PHI,6466,18,28.8,689,658,784
 50,"Chase Brown",RB,CIN,6464,19,26.1,372,308,317
 51,"Tee Higgins",WR,CIN,6411,19,27.2,645,520,658
-52,"DeVonta Smith",WR,PHI,6334,20,27.4,639,525,681
-53,"Marvin Harrison Jr.",WR,ARI,6334,21,23.7,353,424,354
+52,"DeVonta Smith",WR,PHI,6392,20,27.4,640,525,681
+53,"Marvin Harrison Jr.",WR,ARI,6332,21,23.7,353,424,355
 54,"Carnell Tate",WR,FA,6265,22,-1,14,5,2
 55,"Bo Nix",QB,DEN,6189,10,26.2,248,182,173
 56,"Jaylen Waddle",WR,DEN,6184,23,27.4,730,485,614
-57,"Brian Thomas Jr.",WR,JAC,6172,24,23.5,352,374,273
-58,"Tucker Kraft",TE,GBP,6154,5,25.5,111,93,93
-59,"Makai Lemon",WR,FA,6141,25,-1,9,9,3
+57,"Tucker Kraft",TE,GBP,6154,5,25.5,111,93,93
+58,"Makai Lemon",WR,FA,6141,24,-1,9,9,3
+59,"Brian Thomas Jr.",WR,JAC,6115,25,23.5,352,375,273
 60,"Derrick Henry",RB,BAL,6111,20,32.3,693,860,704
 61,"Jordyn Tyson",WR,FA,6108,26,-1,10,7,5
 62,"Jameson Williams",WR,DET,6090,27,25.1,444,460,445
@@ -75,15 +75,15 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 74,"RJ Harvey",RB,DEN,5702,23,25.2,111,99,85
 75,"D'Andre Swift",RB,CHI,5701,24,27.3,572,542,603
 76,"Fernando Mendoza",QB,FA,5697,14,-1,9,3,5
-77,"Zach Charbonnet",RB,SEA,5657,25,25.3,325,349,352
-78,"Michael Pittman",WR,PIT,5633,31,28.5,603,411,513
-79,"Jared Goff",QB,DET,5632,15,31.5,407,301,382
-80,"Chuba Hubbard",RB,CAR,5628,26,26.9,534,435,474
-81,"Travis Hunter",WR,JAC,5628,32,22.9,141,104,128
-82,"Jake Ferguson",TE,DAL,5618,9,27.2,217,215,224
-83,"Baker Mayfield",QB,TBB,5571,16,31,395,474,350
-84,"George Kittle",TE,SFO,5545,10,32.5,471,514,635
-85,"Xavier Worthy",WR,KCC,5540,33,23,335,346,293
+77,"Jared Goff",QB,DET,5692,15,31.5,408,301,382
+78,"Jake Ferguson",TE,DAL,5676,9,27.2,218,215,224
+79,"Zach Charbonnet",RB,SEA,5657,25,25.3,325,349,352
+80,"Michael Pittman",WR,PIT,5633,31,28.5,603,411,513
+81,"Chuba Hubbard",RB,CAR,5628,26,26.9,534,435,475
+82,"Baker Mayfield",QB,TBB,5571,16,31,395,474,350
+83,"George Kittle",TE,SFO,5545,10,32.5,471,514,636
+84,"Xavier Worthy",WR,KCC,5540,32,23,335,346,293
+85,"Travis Hunter",WR,JAC,5508,33,22.9,141,106,128
 86,"Denzel Boston",WR,FA,5464,34,-1,8,8,2
 87,"Luther Burden",WR,CHI,5455,35,22.4,103,83,66
 88,"Kenyon Sadiq",TE,FA,5417,11,-1,6,,4
