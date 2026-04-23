@@ -5,7 +5,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 4,"Jahmyr Gibbs",RB,DET,9668,2,24.1,204,142,187
 5,"Puka Nacua",WR,LAR,9430,2,24.9,93,62,84
 6,"Lamar Jackson",QB,BAL,9127,2,29.3,347,156,277
-7,"Jayden Daniels",QB,WAS,8753,3,25.3,188,81,88
+7,"Jayden Daniels",QB,WAS,8755,3,25.3,189,81,88
 8,"Jaxon Smith-Njigba",WR,SEA,8522,3,24.2,167,114,134
 9,"CeeDee Lamb",WR,DAL,8474,4,27,312,220,289
 10,"Justin Jefferson",WR,MIN,8361,5,26.8,629,183,365
@@ -43,9 +43,9 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 42,"Jordan Love",QB,GBP,6437,11,27.5,228,104,110
 43,"George Pickens",WR,DAL,6435,15,25.1,163,130,146
 44,"Baker Mayfield",QB,TBB,6376,12,31,199,150,142
-45,"Derrick Henry",RB,BAL,6371,15,32.3,269,459,342
-46,"Garrett Wilson",WR,NYJ,6339,16,25.8,190,130,152
-47,"Brock Purdy",QB,SFO,6294,13,26.3,84,62,80
+45,"Garrett Wilson",WR,NYJ,6339,16,25.8,190,130,152
+46,"Brock Purdy",QB,SFO,6294,13,26.3,84,62,80
+47,"Derrick Henry",RB,BAL,6266,15,32.3,269,460,342
 48,"Marvin Harrison Jr.",WR,ARI,6238,17,23.7,104,121,101
 49,"TreVeyon Henderson",RB,NEP,6228,16,23.5,30,39,28
 50,"A.J. Brown",WR,PHI,6199,18,28.8,277,286,320
@@ -129,7 +129,7 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 128,"Dalton Kincaid",TE,BUF,4310,13,26.5,118,70,82
 129,"J.K. Dobbins",RB,DEN,4290,38,27.4,176,224,180
 130,"Jonah Coleman",RB,FA,4288,39,-1,1,2,
-131,"Matthew Stafford",QB,LAR,4242,29,38.2,136,126,164
+131,"Matthew Stafford",QB,LAR,4233,29,38.2,136,126,165
 132,"Travis Kelce",TE,KCC,4214,14,36.6,220,392,378
 133,"Stefon Diggs",WR,FA,4195,51,32.4,270,296,290
 134,"Deebo Samuel",WR,WAS,4179,52,30.3,280,175,225
@@ -262,11 +262,11 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 261,"Kirk Cousins",QB,LVR,2020,39,37.7,135,99,119
 262,"Demond Claiborne",RB,FA,2018,76,-1,2,1,1
 263,"Jack Endries",TE,FA,2004,43,-1,,,
-264,"Devin Singletary",RB,NYG,1999,77,28.6,158,101,131
-265,"Will Howard",QB,PIT,1991,40,24.6,15,5,7
-266,"Isaiah Bond",WR,CLE,1986,106,22.1,18,10,6
-267,"Jermaine Burton",WR,FA,1981,107,24.8,27,19,20
-268,"Elijah Moore",WR,PHI,1969,108,26.1,202,128,181
+264,"Will Howard",QB,PIT,1991,40,24.6,15,5,7
+265,"Isaiah Bond",WR,CLE,1986,106,22.1,18,10,6
+266,"Jermaine Burton",WR,FA,1981,107,24.8,27,19,20
+267,"Elijah Moore",WR,PHI,1969,108,26.1,202,128,181
+268,"Devin Singletary",RB,NYG,1960,77,28.6,158,102,131
 269,"Brandin Cooks",WR,BUF,1956,109,32.6,163,143,203
 270,"Taysom Hill",TE,NOS,1942,44,35.7,86,161,105
 271,"Josh Reynolds",WR,NYJ,1939,110,31.2,66,53,64
