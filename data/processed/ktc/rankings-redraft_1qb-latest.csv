@@ -1,15 +1,15 @@
 Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 1,"Bijan Robinson",RB,ATL,9999,1,24.2,769,441,666
 2,"Jahmyr Gibbs",RB,DET,9999,2,24.1,672,480,620
-3,"Jaxon Smith-Njigba",WR,SEA,9999,1,24.2,511,448,415
+3,"Jaxon Smith-Njigba",WR,SEA,9943,1,24.2,511,448,416
 4,"Ja'Marr Chase",WR,CIN,9813,2,26.2,1208,413,763
 5,"Puka Nacua",WR,LAR,9618,3,24.9,329,286,328
 6,"Josh Allen",QB,BUF,9011,1,29.9,811,632,683
-7,"De'Von Achane",RB,MIA,8557,3,24.5,503,446,500
-8,"Ashton Jeanty",RB,LVR,8508,4,22.4,184,150,147
-9,"Brock Bowers",TE,LVR,8503,1,23.4,397,394,388
+7,"Ashton Jeanty",RB,LVR,8567,3,22.4,185,150,147
+8,"De'Von Achane",RB,MIA,8557,4,24.5,503,446,500
+9,"Brock Bowers",TE,LVR,8442,1,23.4,397,395,388
 10,"Amon-Ra St. Brown",WR,DET,8402,4,26.5,829,550,678
-11,"Jonathan Taylor",RB,IND,8385,5,27.3,1004,661,718
+11,"Jonathan Taylor",RB,IND,8387,5,27.3,1004,661,719
 12,"Malik Nabers",WR,NYG,8212,5,22.7,456,431,400
 13,"Trey McBride",TE,ARI,8185,2,26.4,574,478,484
 14,"Omarion Hampton",RB,LAC,7984,6,23.1,187,131,129
@@ -54,13 +54,13 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 53,"Marvin Harrison Jr.",WR,ARI,6272,21,23.7,353,425,355
 54,"Carnell Tate",WR,FA,6265,22,-1,14,5,2
 55,"Bo Nix",QB,DEN,6252,10,26.2,249,182,173
-56,"Tucker Kraft",TE,GBP,6209,5,25.5,112,93,93
+56,"Tucker Kraft",TE,GBP,6207,5,25.5,112,93,94
 57,"Jaylen Waddle",WR,DEN,6184,23,27.4,730,485,614
-58,"Jordyn Tyson",WR,FA,6163,24,-1,11,7,5
-59,"Makai Lemon",WR,FA,6141,25,-1,9,9,3
-60,"Brian Thomas Jr.",WR,JAC,6115,26,23.5,352,375,273
-61,"Derrick Henry",RB,BAL,6111,20,32.3,693,860,704
-62,"Jameson Williams",WR,DET,6037,27,25.1,444,461,445
+58,"Makai Lemon",WR,FA,6141,24,-1,9,9,3
+59,"Brian Thomas Jr.",WR,JAC,6115,25,23.5,352,375,273
+60,"Derrick Henry",RB,BAL,6111,20,32.3,693,860,704
+61,"Jordyn Tyson",WR,FA,6103,26,-1,11,8,5
+62,"Jameson Williams",WR,DET,6099,27,25.1,445,461,445
 63,"Dak Prescott",QB,DAL,5989,11,32.7,418,524,404
 64,"Cam Skattebo",RB,NYG,5948,21,24.2,173,154,158
 65,"Kyle Pitts",TE,ATL,5929,6,25.6,591,481,550
@@ -80,20 +80,20 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 79,"Zach Charbonnet",RB,SEA,5657,25,25.3,325,349,352
 80,"Michael Pittman",WR,PIT,5633,31,28.6,603,411,513
 81,"Chuba Hubbard",RB,CAR,5627,26,26.9,534,435,476
-82,"Baker Mayfield",QB,TBB,5572,16,31,395,474,350
+82,"Baker Mayfield",QB,TBB,5580,16,31,396,474,350
 83,"George Kittle",TE,SFO,5546,10,32.5,471,514,636
 84,"Xavier Worthy",WR,KCC,5540,32,23,335,346,293
-85,"Travis Hunter",WR,JAC,5508,33,22.9,141,106,128
-86,"Denzel Boston",WR,FA,5464,34,-1,8,8,2
-87,"Luther Burden",WR,CHI,5455,35,22.4,103,83,66
-88,"DK Metcalf",WR,PIT,5416,36,28.4,538,623,670
-89,"David Montgomery",RB,HOU,5404,27,28.9,531,574,579
-90,"Terry McLaurin",WR,WAS,5401,37,30.6,502,573,603
-91,"Jaylen Warren",RB,PIT,5377,28,27.5,327,248,331
-92,"Trey Benson",RB,ARI,5375,29,23.8,247,214,192
-93,"Wan'Dale Robinson",WR,TEN,5368,38,25.3,289,229,261
-94,"Kenyon Sadiq",TE,FA,5361,11,-1,6,1,4
-95,"Dalton Kincaid",TE,BUF,5349,12,26.5,442,369,347
+85,"Luther Burden",WR,CHI,5514,33,22.4,104,83,66
+86,"Travis Hunter",WR,JAC,5508,34,22.9,141,106,128
+87,"Denzel Boston",WR,FA,5464,35,-1,8,8,2
+88,"Terry McLaurin",WR,WAS,5401,36,30.6,502,573,604
+89,"Jaylen Warren",RB,PIT,5377,27,27.5,327,248,331
+90,"Trey Benson",RB,ARI,5375,28,23.8,247,214,192
+91,"Wan'Dale Robinson",WR,TEN,5368,37,25.3,289,229,261
+92,"Kenyon Sadiq",TE,FA,5361,11,-1,6,1,4
+93,"DK Metcalf",WR,PIT,5356,38,28.4,538,624,670
+94,"Dalton Kincaid",TE,BUF,5349,12,26.5,442,369,347
+95,"David Montgomery",RB,HOU,5343,29,28.9,531,575,579
 96,"D.J. Moore",WR,BUF,5333,39,29,532,508,708
 97,"Ricky Pearsall",WR,SFO,5285,40,25.6,247,208,201
 98,"Quentin Johnston",WR,LAC,5266,41,24.6,268,277,296
