@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T13:03:29.210Z",
+  "lastUpdated": "2026-04-26T18:48:54.547Z",
   "source": "ktc",
   "format": "redraft_1qb",
   "formatName": "Redraft 1QB",
@@ -3471,12 +3471,27 @@
       "positionTier": 15
     },
     {
+      "playerId": 88,
+      "name": "Dawson Knox",
+      "position": "TE",
+      "team": "BUF",
+      "value": 2544,
+      "rank": 232,
+      "positionRank": 38,
+      "age": 29.4,
+      "kept": 456,
+      "traded": 345,
+      "cut": 405,
+      "overallTier": 16,
+      "positionTier": 10
+    },
+    {
       "playerId": 1347,
       "name": "Jalen Tolbert",
       "position": "WR",
       "team": "MIA",
       "value": 2533,
-      "rank": 232,
+      "rank": 233,
       "positionRank": 96,
       "age": 27.2,
       "kept": 213,
@@ -3484,21 +3499,6 @@
       "cut": 231,
       "overallTier": 16,
       "positionTier": 18
-    },
-    {
-      "playerId": 88,
-      "name": "Dawson Knox",
-      "position": "TE",
-      "team": "BUF",
-      "value": 2521,
-      "rank": 233,
-      "positionRank": 38,
-      "age": 29.4,
-      "kept": 455,
-      "traded": 345,
-      "cut": 405,
-      "overallTier": 16,
-      "positionTier": 10
     },
     {
       "playerId": 1483,
