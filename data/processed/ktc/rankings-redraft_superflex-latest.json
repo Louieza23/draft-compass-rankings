@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T18:51:05.866Z",
+  "lastUpdated": "2026-04-26T02:28:19.702Z",
   "source": "ktc",
   "format": "redraft_superflex",
   "formatName": "Redraft Superflex",
@@ -3321,27 +3321,12 @@
       "positionTier": 18
     },
     {
-      "playerId": 1706,
-      "name": "Ja'Tavion Sanders",
-      "position": "TE",
-      "team": "CAR",
-      "value": 2606,
-      "rank": 222,
-      "positionRank": 32,
-      "age": 23.1,
-      "kept": 44,
-      "traded": 38,
-      "cut": 41,
-      "overallTier": 13,
-      "positionTier": 9
-    },
-    {
       "playerId": 1493,
       "name": "Sean Tucker",
       "position": "RB",
       "team": "TBB",
       "value": 2597,
-      "rank": 223,
+      "rank": 222,
       "positionRank": 66,
       "age": 24.5,
       "kept": 60,
@@ -3356,7 +3341,7 @@
       "position": "RB",
       "team": "CHI",
       "value": 2559,
-      "rank": 224,
+      "rank": 223,
       "positionRank": 67,
       "age": 25.2,
       "kept": 98,
@@ -3371,7 +3356,7 @@
       "position": "RB",
       "team": "CAR",
       "value": 2559,
-      "rank": 225,
+      "rank": 224,
       "positionRank": 68,
       "age": 21.8,
       "kept": 11,
@@ -3386,14 +3371,14 @@
       "position": "TE",
       "team": "LVR",
       "value": 2540,
-      "rank": 226,
-      "positionRank": 33,
+      "rank": 225,
+      "positionRank": 32,
       "age": 24.8,
       "kept": 51,
       "traded": 69,
       "cut": 72,
       "overallTier": 13,
-      "positionTier": 10
+      "positionTier": 9
     },
     {
       "playerId": 1362,
@@ -3401,7 +3386,7 @@
       "position": "WR",
       "team": "NYG",
       "value": 2532,
-      "rank": 227,
+      "rank": 226,
       "positionRank": 91,
       "age": 27.1,
       "kept": 36,
@@ -3416,14 +3401,29 @@
       "position": "TE",
       "team": "LAR",
       "value": 2529,
-      "rank": 228,
-      "positionRank": 34,
+      "rank": 227,
+      "positionRank": 33,
       "age": 33.3,
       "kept": 137,
       "traded": 174,
       "cut": 189,
       "overallTier": 13,
-      "positionTier": 10
+      "positionTier": 9
+    },
+    {
+      "playerId": 1706,
+      "name": "Ja'Tavion Sanders",
+      "position": "TE",
+      "team": "CAR",
+      "value": 2517,
+      "rank": 228,
+      "positionRank": 34,
+      "age": 23.1,
+      "kept": 44,
+      "traded": 39,
+      "cut": 41,
+      "overallTier": 13,
+      "positionTier": 9
     },
     {
       "playerId": 1307,
@@ -3483,7 +3483,7 @@
       "traded": 97,
       "cut": 126,
       "overallTier": 13,
-      "positionTier": 11
+      "positionTier": 10
     },
     {
       "playerId": 2065,
@@ -3513,7 +3513,7 @@
       "traded": 176,
       "cut": 181,
       "overallTier": 13,
-      "positionTier": 11
+      "positionTier": 10
     },
     {
       "playerId": 1835,
@@ -3543,7 +3543,7 @@
       "traded": 60,
       "cut": 56,
       "overallTier": 13,
-      "positionTier": 11
+      "positionTier": 10
     },
     {
       "playerId": 1844,
@@ -3603,7 +3603,7 @@
       "traded": 238,
       "cut": 162,
       "overallTier": 13,
-      "positionTier": 11
+      "positionTier": 10
     },
     {
       "playerId": 1523,
@@ -3618,7 +3618,7 @@
       "traded": 70,
       "cut": 70,
       "overallTier": 13,
-      "positionTier": 11
+      "positionTier": 10
     },
     {
       "playerId": 1698,
@@ -3753,7 +3753,7 @@
       "traded": 2,
       "cut": 1,
       "overallTier": 13,
-      "positionTier": 12
+      "positionTier": 11
     },
     {
       "playerId": 1826,
@@ -3843,7 +3843,7 @@
       "traded": 2,
       "cut": 1,
       "overallTier": 13,
-      "positionTier": 12
+      "positionTier": 11
     },
     {
       "playerId": 2095,
@@ -3858,7 +3858,7 @@
       "traded": 2,
       "cut": 0,
       "overallTier": 13,
-      "positionTier": 12
+      "positionTier": 11
     },
     {
       "playerId": 1346,
@@ -3948,7 +3948,7 @@
       "traded": 0,
       "cut": 0,
       "overallTier": 13,
-      "positionTier": 12
+      "positionTier": 11
     },
     {
       "playerId": 1825,
@@ -4053,7 +4053,7 @@
       "traded": 161,
       "cut": 105,
       "overallTier": 13,
-      "positionTier": 12
+      "positionTier": 11
     },
     {
       "playerId": 61,
@@ -4353,7 +4353,7 @@
       "traded": 2,
       "cut": 8,
       "overallTier": 14,
-      "positionTier": 13
+      "positionTier": 12
     },
     {
       "playerId": 2089,
@@ -4383,7 +4383,7 @@
       "traded": 0,
       "cut": 3,
       "overallTier": 14,
-      "positionTier": 13
+      "positionTier": 12
     },
     {
       "playerId": 2058,
