@@ -46,9 +46,9 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 45,"Garrett Wilson",WR,NYJ,6339,16,25.8,190,130,152
 46,"Brock Purdy",QB,SFO,6294,13,26.3,84,62,80
 47,"Derrick Henry",RB,BAL,6266,15,32.3,269,460,342
-48,"Marvin Harrison Jr.",WR,ARI,6238,17,23.7,104,121,101
-49,"TreVeyon Henderson",RB,NEP,6228,16,23.5,30,39,28
-50,"A.J. Brown",WR,PHI,6199,18,28.8,277,286,320
+48,"A.J. Brown",WR,PHI,6243,17,28.8,278,286,320
+49,"Marvin Harrison Jr.",WR,ARI,6238,18,23.7,104,121,101
+50,"TreVeyon Henderson",RB,NEP,6228,16,23.5,30,39,28
 51,"Rashee Rice",WR,KCC,6195,19,26,135,81,84
 52,"C.J. Stroud",QB,HOU,6159,14,24.6,197,101,146
 53,"Kenneth Walker III",RB,KCC,6147,17,25.5,195,146,173
@@ -62,9 +62,9 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 61,"Zay Flowers",WR,BAL,5735,22,25.6,136,99,129
 62,"Jameson Williams",WR,DET,5720,23,25.1,143,147,114
 63,"Jared Goff",QB,DET,5702,18,31.5,175,86,94
-64,"Colston Loveland",TE,CHI,5679,4,22,41,15,21
-65,"Davante Adams",WR,LAR,5664,24,33.3,259,368,395
-66,"DK Metcalf",WR,PIT,5662,25,28.4,181,248,307
+64,"DK Metcalf",WR,PIT,5689,24,28.4,182,248,307
+65,"Colston Loveland",TE,CHI,5679,4,22,41,15,21
+66,"Davante Adams",WR,LAR,5664,25,33.3,259,368,395
 67,"Sam LaPorta",TE,DET,5633,5,25.3,180,139,155
 68,"Jaylen Waddle",WR,DEN,5598,26,27.4,311,142,211
 69,"Xavier Worthy",WR,KCC,5580,27,23,98,86,65
@@ -79,23 +79,23 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 78,"RJ Harvey",RB,DEN,5324,20,25.2,24,21,26
 79,"Carnell Tate",WR,TEN,5324,33,21.3,7,,2
 80,"Chuba Hubbard",RB,CAR,5318,21,26.9,227,156,198
-81,"Kyler Murray",QB,MIN,5286,21,28.7,248,198,196
-82,"Alvin Kamara",RB,NOS,5258,22,30.8,223,496,321
-83,"D.J. Moore",WR,BUF,5249,34,29,211,203,248
-84,"Cam Ward",QB,TEN,5237,22,23.9,45,16,25
+81,"Alvin Kamara",RB,NOS,5258,22,30.8,223,496,321
+82,"D.J. Moore",WR,BUF,5249,34,29,211,203,248
+83,"Cam Ward",QB,TEN,5237,21,23.9,45,16,25
+84,"Kyler Murray",QB,MIN,5233,22,28.7,248,199,196
 85,"J.J. McCarthy",QB,MIN,5230,23,23.3,99,64,41
 86,"Tucker Kraft",TE,GBP,5215,7,25.5,23,16,22
 87,"Jordan Addison",WR,MIN,5190,35,24.2,118,96,125
 88,"Michael Penix Jr.",QB,ATL,5179,24,26,79,50,53
 89,"Ricky Pearsall",WR,SFO,5177,36,25.6,69,40,54
-90,"Travis Etienne",RB,NOS,5152,23,27.2,359,339,181
+90,"Travis Etienne",RB,NOS,5162,23,27.2,359,339,182
 91,"Matthew Golden",WR,GBP,5123,37,22.7,35,26,16
 92,"Jordyn Tyson",WR,NOS,5081,38,21.7,1,2,1
-93,"D'Andre Swift",RB,CHI,5009,24,27.3,263,231,279
-94,"Zach Charbonnet",RB,SEA,5005,25,25.3,76,63,88
-95,"Jaylen Warren",RB,PIT,4996,26,27.5,115,57,90
-96,"Jerry Jeudy",WR,CLE,4978,39,27,234,134,239
-97,"Mike Evans",WR,SFO,4951,40,32.7,161,195,235
+93,"Zach Charbonnet",RB,SEA,5005,24,25.3,76,63,88
+94,"Jaylen Warren",RB,PIT,4996,25,27.5,115,57,90
+95,"Jerry Jeudy",WR,CLE,4978,39,27,234,134,239
+96,"Mike Evans",WR,SFO,4951,40,32.7,161,195,235
+97,"D'Andre Swift",RB,CHI,4928,26,27.3,263,232,279
 98,"Luther Burden",WR,CHI,4890,41,22.4,38,13,18
 99,"Calvin Ridley",WR,TEN,4889,42,31.4,30,199,77
 100,"Javonte Williams",RB,DAL,4856,27,26,236,181,180
@@ -117,14 +117,14 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 116,"Keon Coleman",WR,BUF,4522,49,22.9,70,53,54
 117,"Jake Ferguson",TE,DAL,4507,11,27.3,53,65,50
 118,"Trey Benson",RB,ARI,4485,33,23.8,67,44,37
-119,"Sam Darnold",QB,SEA,4483,26,28.9,116,79,101
-120,"Isiah Pacheco",RB,DET,4440,34,27.2,155,120,114
-121,"Jordan Mason",RB,MIN,4438,35,26.9,70,41,38
-122,"Justin Fields",QB,KCC,4428,27,27.1,191,142,122
-123,"Tyrone Tracy",RB,NYG,4428,36,26.4,18,28,20
-124,"Kenyon Sadiq",TE,NYJ,4412,12,21.1,2,,5
-125,"Jacory Croskey-Merritt",RB,WAS,4400,37,25,7,12,11
-126,"KC Concepcion",WR,CLE,4392,50,21.6,6,2,1
+119,"Isiah Pacheco",RB,DET,4440,34,27.2,155,120,114
+120,"Jordan Mason",RB,MIN,4438,35,26.9,70,41,38
+121,"Justin Fields",QB,KCC,4428,26,27.1,191,142,122
+122,"Tyrone Tracy",RB,NYG,4428,36,26.4,18,28,20
+123,"Kenyon Sadiq",TE,NYJ,4412,12,21.1,2,,5
+124,"Jacory Croskey-Merritt",RB,WAS,4400,37,25,7,12,11
+125,"KC Concepcion",WR,CLE,4392,50,21.6,6,2,1
+126,"Sam Darnold",QB,SEA,4375,27,28.9,116,80,101
 127,"Daniel Jones",QB,IND,4325,28,28.9,140,102,94
 128,"Dalton Kincaid",TE,BUF,4310,13,26.5,118,70,82
 129,"J.K. Dobbins",RB,DEN,4290,38,27.4,176,224,180
