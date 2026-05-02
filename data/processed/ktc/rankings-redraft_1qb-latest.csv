@@ -89,9 +89,9 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 88,"Kenyon Sadiq",TE,NYJ,5421,11,21.2,7,1,5
 89,"Terry McLaurin",WR,WAS,5401,36,30.6,502,573,604
 90,"Denzel Boston",WR,CLE,5395,37,-1,8,9,2
-91,"Dalton Kincaid",TE,BUF,5349,12,26.5,442,369,349
-92,"David Montgomery",RB,HOU,5344,27,28.9,531,575,580
-93,"D.J. Moore",WR,BUF,5333,38,29,533,509,708
+91,"D.J. Moore",WR,BUF,5388,38,29,534,509,708
+92,"Dalton Kincaid",TE,BUF,5349,12,26.5,442,369,349
+93,"David Montgomery",RB,HOU,5344,27,28.9,531,575,580
 94,"Jaylen Warren",RB,PIT,5316,28,27.5,327,249,331
 95,"Trey Benson",RB,ARI,5314,29,23.8,247,215,192
 96,"Ricky Pearsall",WR,SFO,5287,39,25.6,248,209,201
@@ -99,12 +99,12 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 98,"DK Metcalf",WR,PIT,5240,41,28.4,539,626,670
 99,"Matthew Golden",WR,GBP,5190,42,22.8,115,100,65
 100,"KC Concepcion",WR,CLE,5134,43,21.6,8,4,2
-101,"Jayden Reed",WR,GBP,5081,44,26,149,152,146
+101,"Jayden Reed",WR,GBP,5083,44,26,149,152,147
 102,"Trevor Lawrence",QB,JAC,5064,17,26.6,502,421,411
-103,"Courtland Sutton",WR,DEN,5056,45,30.6,449,452,485
-104,"Jonah Coleman",RB,DEN,5036,30,-1,6,8,4
-105,"Jauan Jennings",WR,SFO,5018,46,28.8,66,57,86
-106,"Matthew Stafford",QB,LAR,5001,18,38.2,373,456,414
+103,"Jonah Coleman",RB,DEN,5036,30,-1,6,8,4
+104,"Jauan Jennings",WR,SFO,5018,45,28.8,66,57,86
+105,"Matthew Stafford",QB,LAR,5001,18,38.2,373,456,414
+106,"Courtland Sutton",WR,DEN,4999,46,30.6,449,453,485
 107,"Jayden Higgins",WR,HOU,4997,47,23.4,85,65,56
 108,"Jadarian Price",RB,SEA,4984,31,22.6,11,1,2
 109,"Jakobi Meyers",WR,JAC,4980,48,29.5,446,365,348
@@ -216,15 +216,15 @@ Rank,Player,Position,Team,Value,PositionRank,Age,Kept,Traded,Cut
 215,"Zach Ertz",TE,WAS,2802,35,35.5,301,264,318
 216,"Nick Chubb",RB,HOU,2788,65,30.3,396,586,465
 217,"Darius Slayton",WR,NYG,2766,90,29.3,272,242,300
-218,"Joe Mixon",RB,FA,2752,66,29.8,503,557,584
-219,"Joshua Palmer",WR,BUF,2752,91,26.6,412,356,450
-220,"Calvin Austin III",WR,NYG,2739,92,27.1,152,135,148
+218,"Trevor Etienne",RB,CAR,2760,66,21.8,67,59,53
+219,"Joe Mixon",RB,FA,2752,67,29.8,503,557,584
+220,"Calvin Austin III",WR,NYG,2739,91,27.1,152,135,148
 221,"Terrance Ferguson",TE,LAR,2714,36,23.2,42,42,29
-222,"Trevor Etienne",RB,CAR,2700,67,21.8,66,59,53
-223,"Germie Bernard",WR,PIT,2697,93,-1,,6,4
+222,"Germie Bernard",WR,PIT,2697,92,-1,,6,4
+223,"Joshua Palmer",WR,BUF,2690,93,26.6,412,357,450
 224,"Jonathon Brooks",RB,CAR,2683,68,22.8,218,217,160
 225,"Tank Dell",WR,HOU,2657,94,26.5,143,149,153
-226,"Shedeur Sanders",QB,CLE,2626,31,24.2,51,39,35
+226,"Shedeur Sanders",QB,CLE,2628,31,24.2,51,39,36
 227,"Max Klare",TE,LAR,2607,37,-1,1,4,1
 228,"Demond Claiborne",RB,MIN,2598,69,-1,7,3,2
 229,"Jalen Royals",WR,KCC,2592,95,23.2,46,47,40
